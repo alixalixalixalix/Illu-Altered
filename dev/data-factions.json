@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "nom": "AXIOM",
+    "couleur": "#784032"
+  },
+  {
+    "id": 2,
+    "nom": "BRAVOS",
+    "couleur": "#B12420"
+  },
+  {
+    "id": 3,
+    "nom": "LYRA",
+    "couleur": "#C4335F"
+  },
+  {
+    "id": 4,
+    "nom": "MUNA",
+    "couleur": "#39693F"
+  },
+  {
+    "id": 5,
+    "nom": "ORDIS",
+    "couleur": "#005976"
+  },
+  {
+    "id": 6,
+    "nom": "YZMIR",
+    "couleur": "#7E497B"
+  }
+]
+
