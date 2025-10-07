@@ -4,713 +4,815 @@
     "num": "03",
     "img": "../cartes/axiom/la-machine-dans-la-glace.webp",
     "nom": "La Machine dans la Glace",
-    "faction": "AXIOM"
+    "faction": "AXIOM",
+    "illustrateurice": "Edward Chee"
   },
   {
     "id": 2,
     "num": "04",
     "img": "../cartes/axiom/macareux-a-roquettes.webp",
     "nom": "Macareux à Roquettes",
-    "faction": "AXIOM"
+    "faction": "AXIOM",
+    "illustrateurice": "Anh Tung"
   },
   {
     "id": 3,
     "num": "05a",
     "img": "../cartes/axiom/vaike-lenergeticienne.webp",
     "nom": "Vaike, l'Énergéticienne",
-    "faction": "AXIOM"
+    "faction": "AXIOM",
+    "illustrateurice": "Taras Susak"
   },
   {
     "id": 4,
     "num": "05b",
     "img": "../cartes/axiom/vaike-lenergeticienne_alt.webp",
     "nom": "Vaike, l'Énergéticienne (alt)",
-    "faction": "AXIOM"
+    "faction": "AXIOM",
+    "illustrateurice": "Zero Wen"
   },
   {
     "id": 5,
     "num": "06",
     "img": "../cartes/axiom/la-petite-fille-aux-allumettes.webp",
     "nom": "La Petite Fille aux Allumettes",
-    "faction": "AXIOM"
+    "faction": "AXIOM",
+    "illustrateurice": "Anh Tung"
   },
   {
     "id": 6,
     "num": "07",
     "img": "../cartes/axiom/eclaireur-morse.webp",
     "nom": "Éclaireur Morse",
-    "faction": "AXIOM"
+    "faction": "AXIOM",
+    "illustrateurice": "Jean-Baptiste Andrier"
   },
   {
     "id": 7,
     "num": "08",
     "img": "../cartes/axiom/porteuse-intrepide.webp",
     "nom": "Porteuse Intrépide",
-    "faction": "AXIOM"
+    "faction": "AXIOM",
+    "illustrateurice": "Zero Wen"
   },
   {
     "id": 8,
     "num": "09",
     "img": "../cartes/axiom/lord-kelvin.webp",
     "nom": "Lord Kelvin",
-    "faction": "AXIOM"
+    "faction": "AXIOM",
+    "illustrateurice": "Anh Tung"
   },
   {
     "id": 9,
     "num": "10",
     "img": "../cartes/axiom/prototype-defectueux.webp",
     "nom": "Prototype Défectueux",
-    "faction": "AXIOM"
+    "faction": "AXIOM",
+    "illustrateurice": "Zael"
   },
   {
     "id": 10,
     "num": "11",
     "img": "../cartes/axiom/vishvakarma.webp",
     "nom": "Vishvakarma",
-    "faction": "AXIOM"
+    "faction": "AXIOM",
+    "illustrateurice": "Taras Susak"
   },
   {
     "id": 11,
     "num": "12",
     "img": "../cartes/axiom/gibil.webp",
     "nom": "Gibil",
-    "faction": "AXIOM"
+    "faction": "AXIOM",
+    "illustrateurice": "Matteo Spirito"
   },
   {
     "id": 12,
     "num": "13",
     "img": "../cartes/axiom/livraison-gelee.webp",
     "nom": "Livraison Gelée",
-    "faction": "AXIOM"
+    "faction": "AXIOM",
+    "illustrateurice": "Romain Kurdi"
   },
   {
     "id": 13,
     "num": "14",
     "img": "../cartes/axiom/avalanche.webp",
     "nom": "Avalanche",
-    "faction": "AXIOM"
+    "faction": "AXIOM",
+    "illustrateurice": "Jean-Baptiste Andrier"
   },
   {
     "id": 14,
     "num": "15",
     "img": "../cartes/axiom/radiateur-kelonique.webp",
     "nom": "Radiateur Kélonique",
-    "faction": "AXIOM"
+    "faction": "AXIOM",
+    "illustrateurice": "Kevin Sidharta"
   },
   {
     "id": 15,
     "num": "16a",
     "img": "../cartes/axiom/galerie-saisie-par-les-glaces.webp",
     "nom": "Galeries Saisies par les Glaces",
-    "faction": "AXIOM"
+    "faction": "AXIOM",
+    "illustrateurice": "Jean-Baptiste Andrier"
   },
   {
     "id": 16,
     "num": "16b",
     "img": "../cartes/axiom/galerie-saisie-par-les-glaces_alt.webp",
     "nom": "Galeries Saisies par les Glaces (alt)",
-    "faction": "AXIOM"
+    "faction": "AXIOM",
+    "illustrateurice": "Kevin Sidharta"
   },
   {
     "id": 17,
     "num": "17",
     "img": "../cartes/axiom/recycleur-gele.webp",
     "nom": "Recycleur Gelé",
-    "faction": "AXIOM"
+    "faction": "AXIOM",
+    "illustrateurice": "Romain Kurdi"
   },
   {
     "id": 18,
     "num": "20",
     "img": "../cartes/bravos/lapin-ardent.webp",
     "nom": "Lapin Ardent",
-    "faction": "BRAVOS"
+    "faction": "BRAVOS",
+    "illustrateurice": "Khoa Viet"
   },
   {
     "id": 19,
     "num": "21",
     "img": "../cartes/bravos/seiringar-de-havre.webp",
     "nom": "Seiringar de Havre",
-    "faction": "BRAVOS"
+    "faction": "BRAVOS",
+    "illustrateurice": "Kevin Sidharta"
   },
   {
     "id": 20,
     "num": "22",
     "img": "../cartes/bravos/skadi.webp",
     "nom": "Skadi",
-    "faction": "BRAVOS"
+    "faction": "BRAVOS",
+    "illustrateurice": "Edward Chee - Seok Yeong"
   },
   {
     "id": 21,
     "num": "23",
     "img": "../cartes/bravos/deblayeur-bravos.webp",
-    "nom": "Déblayeur Bravos",
-    "faction": "BRAVOS"
+    "nom": "Déblayeur BRAVOS",
+    "faction": "BRAVOS",
+    "illustrateurice": "Zero Wen"
   },
   {
     "id": 22,
     "num": "24",
     "img": "../cartes/bravos/secouriste-bravos.webp",
     "nom": "Secouriste Bravos",
-    "faction": "BRAVOS"
+    "faction": "BRAVOS",
+    "illustrateurice": "Zero Wen"
   },
   {
     "id": 23,
     "num": "25a",
     "img": "../cartes/bravos/gericht-bretteur-honore.webp",
     "nom": "Gericht, Bretteur Honoré",
-    "faction": "BRAVOS"
+    "faction": "BRAVOS",
+    "illustrateurice": "Zero Wen"
   },
   {
     "id": 24,
     "num": "25b",
     "img": "../cartes/bravos/gericht-bretteur-honore_alt.webp",
     "nom": "Gericht, Bretteur Honoré (alt)",
-    "faction": "BRAVOS"
+    "faction": "BRAVOS",
+    "illustrateurice": "Nestor Papatriantafyllou"
   },
   {
     "id": 25,
     "num": "26",
     "img": "../cartes/bravos/akhlut.webp",
     "nom": "Akhlut",
-    "faction": "BRAVOS"
+    "faction": "BRAVOS",
+    "illustrateurice": "Matteo Spirito"
   },
   {
     "id": 26,
     "num": "27",
     "img": "../cartes/bravos/amarok.webp",
     "nom": "Amarok",
-    "faction": "BRAVOS"
+    "faction": "BRAVOS",
+    "illustrateurice": "Matteo Spirito"
   },
   {
     "id": 27,
     "num": "28",
     "img": "../cartes/bravos/eros.webp",
     "nom": "Éros",
-    "faction": "BRAVOS"
+    "faction": "BRAVOS",
+    "illustrateurice": "Justice Wong"
   },
   {
     "id": 28,
     "num": "29",
     "img": "../cartes/bravos/geyser.webp",
     "nom": "Geyser",
-    "faction": "BRAVOS"
+    "faction": "BRAVOS",
+    "illustrateurice": "Jean-Baptiste Andrier"
   },
   {
     "id": 29,
     "num": "30",
     "img": "../cartes/bravos/embrasement-de-mana.webp",
     "nom": "Embrasement de Mana",
-    "faction": "BRAVOS"
+    "faction": "BRAVOS",
+    "illustrateurice": "Justice Wong"
   },
   {
     "id": 30,
     "num": "31",
     "img": "../cartes/bravos/bottes-techniques.webp",
     "nom": "Bottes Techniques",
-    "faction": "BRAVOS"
+    "faction": "BRAVOS",
+    "illustrateurice": "Edward Chee - Seok Yeong"
   },
   {
     "id": 31,
     "num": "32",
     "img": "../cartes/bravos/lait-darcolano.webp",
     "nom": "Lait d'Arcolano",
-    "faction": "BRAVOS"
+    "faction": "BRAVOS",
+    "illustrateurice": "Kevin Sidharta"
   },
   {
     "id": 32,
     "num": "33",
     "img": "../cartes/bravos/barre-energetique-mangez-moi.webp",
     "nom": "Barre Énergétique Mangez-Moi",
-    "faction": "BRAVOS"
+    "faction": "BRAVOS",
+    "illustrateurice": "Kevin Sidharta"
   },
   {
     "id": 33,
     "num": "34a",
     "img": "../cartes/bravos/pic-saisi-par-les-glaces.webp",
     "nom": "Pic Saisi par les Glaces",
-    "faction": "BRAVOS"
+    "faction": "BRAVOS",
+    "illustrateurice": "Fahmi Fauzi"
   },
   {
     "id": 34,
     "num": "34b",
     "img": "../cartes/bravos/pic-saisi-par-les-glaces_alt.webp",
     "nom": "Pic Saisi par les Glaces (alt)",
-    "faction": "BRAVOS"
+    "faction": "BRAVOS",
+    "illustrateurice": "Matteo Spirito"
   },
   {
     "id": 35,
     "num": "37",
     "img": "../cartes/lyra/le-bonhomme-de-neige.webp",
     "nom": "Le Bonhomme de Neige",
-    "faction": "LYRA"
+    "faction": "LYRA",
+    "illustrateurice": "Ba Vo"
   },
   {
     "id": 36,
     "num": "38",
     "img": "../cartes/lyra/entasseur-magpeng.webp",
     "nom": "Entasseur Magpeng",
-    "faction": "LYRA"
+    "faction": "LYRA",
+    "illustrateurice": "Jean-Baptiste Andrier"
   },
   {
     "id": 37,
     "num": "39",
     "img": "../cartes/lyra/commando-boule-de-neige.webp",
     "nom": "Commando Boule-de-Neige",
-    "faction": "LYRA"
+    "faction": "LYRA",
+    "illustrateurice": "Zero Wen"
   },
   {
     "id": 38,
     "num": "40",
     "img": "../cartes/lyra/feu-follet.webp",
     "nom": "Feu Follet",
-    "faction": "LYRA"
+    "faction": "LYRA",
+    "illustrateurice": "Khoa Viet"
   },
   {
     "id": 39,
     "num": "41a",
     "img": "../cartes/lyra/nyala-habile-illusionniste.webp",
     "nom": "Nyala, Habile Illusionniste",
-    "faction": "LYRA"
+    "faction": "LYRA",
+    "illustrateurice": "Zael"
   },
   {
     "id": 40,
     "num": "41b",
     "img": "../cartes/lyra/nyala-habile-illusionniste_alt.webp",
     "nom": "Nyala, Habile Illusionniste (alt)",
-    "faction": "LYRA"
+    "faction": "LYRA",
+    "illustrateurice": "Anh Tung"
   },
   {
     "id": 41,
     "num": "42",
     "img": "../cartes/lyra/nisse.webp",
     "nom": "Nisse",
-    "faction": "LYRA"
+    "faction": "LYRA",
+    "illustrateurice": "Ba Vo"
   },
   {
     "id": 42,
     "num": "43",
     "img": "../cartes/lyra/heimdall.webp",
     "nom": "Heimdall",
-    "faction": "LYRA"
+    "faction": "LYRA",
+    "illustrateurice": "Fahmi Fauzi"
   },
   {
     "id": 43,
     "num": "44",
     "img": "../cartes/lyra/le-pere-noel.webp",
     "nom": "Le Père Noël",
-    "faction": "LYRA"
+    "faction": "LYRA",
+    "illustrateurice": "Edward Chee - Seok Yeong"
   },
   {
     "id": 44,
     "num": "45",
     "img": "../cartes/lyra/tour-de-passe-passe.webp",
     "nom": "Tour de Passe-Passe",
-    "faction": "LYRA"
+    "faction": "LYRA",
+    "illustrateurice": "Edward Chee - Seok Yeong"
   },
   {
     "id": 45,
     "num": "46",
     "img": "../cartes/lyra/viree-endiablee.webp",
     "nom": "Virée Endiablée",
-    "faction": "LYRA"
+    "faction": "LYRA",
+    "illustrateurice": "Justice Wong"
   },
   {
     "id": 46,
     "num": "47",
     "img": "../cartes/lyra/douce-nuit.webp",
     "nom": "Douce Nuit",
-    "faction": "LYRA"
+    "faction": "LYRA",
+    "illustrateurice": "Romain Kurdi"
   },
   {
     "id": 47,
     "num": "48",
     "img": "../cartes/lyra/briser-la-glace.webp",
     "nom": "Briser la Glacer",
-    "faction": "LYRA"
+    "faction": "LYRA",
+    "illustrateurice": "HuoMiao Studio"
   },
   {
     "id": 48,
     "num": "49",
     "img": "../cartes/lyra/tenue-hivernale.webp",
     "nom": "Tenue Hivernale",
-    "faction": "LYRA"
+    "faction": "LYRA",
+    "illustrateurice": "Fahmi Fauzi"
   },
   {
     "id": 49,
     "num": "50",
     "img": "../cartes/lyra/le-traineau-enchante.webp",
     "nom": "Le Traîneau Enchanté",
-    "faction": "LYRA"
+    "faction": "LYRA",
+    "illustrateurice": "Khoa Viet"
   },
   {
     "id": 50,
     "num": "51a",
     "img": "../cartes/lyra/toundra-saisie-par-les-glaces.webp",
     "nom": "Toundra Saisie par les Glaces",
-    "faction": "LYRA"
+    "faction": "LYRA",
+    "illustrateurice": "Justice Wong"
   },
   {
     "id": 51,
     "num": "51b",
     "img": "../cartes/lyra/toundra-saisie-par-les-glaces_alt.webp",
     "nom": "Toundra Saisie par les Glaces (alt)",
-    "faction": "LYRA"
+    "faction": "LYRA",
+    "illustrateurice": "Fahmi Fauzi"
   },
   {
     "id": 52,
     "num": "54",
     "img": "../cartes/muna/champignon-extenueur.webp",
     "nom": "Champignon Exténueur",
-    "faction": "MUNA"
+    "faction": "MUNA",
+    "illustrateurice": "Ba Vo"
   },
   {
     "id": 53,
     "num": "55",
     "img": "../cartes/muna/jack-frost.webp",
     "nom": "Jack Frost",
-    "faction": "MUNA"
+    "faction": "MUNA",
+    "illustrateurice": "Romain Kurdi"
   },
   {
     "id": 54,
     "num": "56",
     "img": "../cartes/muna/persephone.webp",
     "nom": "Perséphone",
-    "faction": "MUNA"
+    "faction": "MUNA",
+    "illustrateurice": "Zero Wen"
   },
   {
     "id": 55,
     "num": "57",
     "img": "../cartes/muna/loutre-rempoteuse.webp",
     "nom": "Loutre Rempoteuse",
-    "faction": "MUNA"
+    "faction": "MUNA",
+    "illustrateurice": "Khoa Viet"
   },
   {
     "id": 56,
     "num": "58a",
     "img": "../cartes/muna/saskia-naturaliste-rusee.webp",
     "nom": "Saskia, Naturaliste Rusée",
-    "faction": "MUNA"
+    "faction": "MUNA",
+    "illustrateurice": "Zero Wen"
   },
   {
     "id": 57,
     "num": "58b",
     "img": "../cartes/muna/saskia-naturaliste-rusee_alt.webp",
     "nom": "Saskia, Naturaliste Rusée (alt)",
-    "faction": "MUNA"
+    "faction": "MUNA",
+    "illustrateurice": "Nestor Papatriantafyllou"
   },
   {
     "id": 58,
     "num": "59",
     "img": "../cartes/muna/yeti.webp",
     "nom": "Yéti",
-    "faction": "MUNA"
+    "faction": "MUNA",
+    "illustrateurice": "Matteo Spirito"
   },
   {
     "id": 59,
     "num": "60",
     "img": "../cartes/muna/puissant-simbi.webp",
     "nom": "Puissant Simbi",
-    "faction": "MUNA"
+    "faction": "MUNA",
+    "illustrateurice": "Gael Giudicelli"
   },
   {
     "id": 60,
     "num": "61",
     "img": "../cartes/muna/la-demoiselle-des-neiges.webp",
     "nom": "La Demoiselle des Neiges",
-    "faction": "MUNA"
+    "faction": "MUNA",
+    "illustrateurice": "Nestor Papatriantafyllou"
   },
   {
     "id": 61,
     "num": "62",
     "img": "../cartes/muna/liechi.webp",
     "nom": "Liéchi",
-    "faction": "MUNA"
+    "faction": "MUNA",
+    "illustrateurice": "Ba Vo"
   },
   {
     "id": 62,
     "num": "63",
     "img": "../cartes/muna/demeter.webp",
     "nom": "Déméter",
-    "faction": "MUNA"
+    "faction": "MUNA",
+    "illustrateurice": "Zero Wen"
   },
   {
     "id": 63,
     "num": "64",
     "img": "../cartes/muna/semer.webp",
     "nom": "Semer",
-    "faction": "MUNA"
+    "faction": "MUNA",
+    "illustrateurice": "Romain Kurdi"
   },
   {
     "id": 64,
     "num": "65",
     "img": "../cartes/muna/perdu-en-foret.webp",
     "nom": "Perdu en Forêt",
-    "faction": "MUNA"
+    "faction": "MUNA",
+    "illustrateurice": "HuoMiao Studio"
   },
   {
     "id": 65,
     "num": "66",
     "img": "../cartes/muna/haricots-magiques.webp",
     "nom": "Haricots Magiques",
-    "faction": "MUNA"
+    "faction": "MUNA",
+    "illustrateurice": "Gael Giudicelli"
   },
   {
     "id": 66,
     "num": "67",
     "img": "../cartes/muna/tente-florale.webp",
     "nom": "Tente Florale",
-    "faction": "MUNA"
+    "faction": "MUNA",
+    "illustrateurice": "Zael"
   },
   {
     "id": 67,
     "num": "68a",
     "img": "../cartes/muna/taiga-saisie-par-les-glaces.webp",
     "nom": "Taïga Saisie par les Glaces",
-    "faction": "MUNA"
+    "faction": "MUNA",
+    "illustrateurice": "Zero Wen"
   },
   {
     "id": 68,
     "num": "68b",
     "img": "../cartes/muna/taiga-saisie-par-les-glaces_alt.webp",
     "nom": "Taïga Saisie par les Glaces (alt)",
-    "faction": "MUNA"
+    "faction": "MUNA",
+    "illustrateurice": "Max Fiévé"
   },
   {
     "id": 69,
     "num": "71",
     "img": "../cartes/ordis/limier.webp",
     "nom": "Limier",
-    "faction": "ORDIS"
+    "faction": "ORDIS",
+    "illustrateurice": "Anh Tung"
   },
   {
     "id": 70,
     "num": "72",
     "img": "../cartes/ordis/superviseuse-ordis.webp",
     "nom": "Superviseuse Ordis",
-    "faction": "ORDIS"
+    "faction": "ORDIS",
+    "illustrateurice": "Zael"
   },
   {
     "id": 71,
     "num": "73",
     "img": "../cartes/ordis/veilleur-ordis.webp",
     "nom": "Veilleur Ordis",
-    "faction": "ORDIS"
+    "faction": "ORDIS",
+    "illustrateurice": "Nestor Papatriantafyllou"
   },
   {
     "id": 72,
     "num": "74a",
     "img": "../cartes/ordis/sunisa-enseigne-devouee.webp",
     "nom": "Sunisa, Enseigne Dévouée",
-    "faction": "ORDIS"
+    "faction": "ORDIS",
+    "illustrateurice": "Justice Wong"
   },
   {
     "id": 73,
     "num": "74b",
     "img": "../cartes/ordis/sunisa-enseigne-devouee_alt.webp",
     "nom": "Sunisa, Enseigne Dévouée (alt)",
-    "faction": "ORDIS"
+    "faction": "ORDIS",
+    "illustrateurice": "Jean-Baptiste Andrier"
   },
   {
     "id": 74,
     "num": "75",
     "img": "../cartes/ordis/ebenezer-scrooge.webp",
     "nom": "Ebenezer Scrooge",
-    "faction": "ORDIS"
+    "faction": "ORDIS",
+    "illustrateurice": "Romain Kurdi"
   },
   {
     "id": 75,
     "num": "76",
     "img": "../cartes/ordis/dong-da-shen.webp",
     "nom": "Dong Da Shen",
-    "faction": "ORDIS"
+    "faction": "ORDIS",
+    "illustrateurice": "Edward Chee - Seok Yeong"
   },
   {
     "id": 76,
     "num": "77",
     "img": "../cartes/ordis/valemon.webp",
     "nom": "Valémon",
-    "faction": "ORDIS"
+    "faction": "ORDIS",
+    "illustrateurice": "Matteo Spirito"
   },
   {
     "id": 77,
     "num": "78",
     "img": "../cartes/ordis/operatrice-ordis.webp",
     "nom": "Opératrice Ordis",
-    "faction": "ORDIS"
+    "faction": "ORDIS",
+    "illustrateurice": "Taras Susak"
   },
   {
     "id": 78,
     "num": "79",
     "img": "../cartes/ordis/benzaiten.webp",
     "nom": "Benzaiten",
-    "faction": "ORDIS"
+    "faction": "ORDIS",
+    "illustrateurice": "Zero Wen"
   },
   {
     "id": 79,
     "num": "80",
     "img": "../cartes/ordis/cri-de-ralliement.webp",
     "nom": "Cri de Ralliement",
-    "faction": "ORDIS"
+    "faction": "ORDIS",
+    "illustrateurice": "Jean-Baptiste Andrier"
   },
   {
     "id": 80,
     "num": "81",
     "img": "../cartes/ordis/hypothermie.webp",
     "nom": "Hypothermie",
-    "faction": "ORDIS"
+    "faction": "ORDIS",
+    "illustrateurice": "Justice Wong"
   },
   {
     "id": 81,
     "num": "82",
     "img": "../cartes/ordis/renforts.webp",
     "nom": "Renforts",
-    "faction": "ORDIS"
+    "faction": "ORDIS",
+    "illustrateurice": "Jean-Baptiste Andrier"
   },
   {
     "id": 82,
     "num": "83",
     "img": "../cartes/ordis/case-prison.webp",
     "nom": "Case Prison",
-    "faction": "ORDIS"
+    "faction": "ORDIS",
+    "illustrateurice": "HuoMiao Studio"
   },
   {
     "id": 83,
     "num": "84",
     "img": "../cartes/ordis/armurerie-mobile.webp",
     "nom": "Armurerie Mobile",
-    "faction": "ORDIS"
+    "faction": "ORDIS",
+    "illustrateurice": "Jean-Baptiste Andrier"
   },
   {
     "id": 84,
     "num": "85a",
     "img": "../cartes/ordis/lac-saisi-par-les-glaces.webp",
     "nom": "Lac Saisi par les Glace",
-    "faction": "ORDIS"
+    "faction": "ORDIS",
+    "illustrateurice": "Kevin Sidharta"
   },
   {
     "id": 85,
     "num": "85b",
     "img": "../cartes/ordis/lac-saisi-par-les-glaces_alt.webp",
     "nom": "Lac Saisi par les Glace (alt)",
-    "faction": "ORDIS"
+    "faction": "ORDIS",
+    "illustrateurice": "Nestor Papatriantafyllou"
   },
   {
     "id": 86,
     "num": "88",
     "img": "../cartes/yzmir/larve-de-phalene.webp",
     "nom": "Larve de Phalène",
-    "faction": "YZMIR"
+    "faction": "YZMIR",
+    "illustrateurice": "Zael"
   },
   {
     "id": 87,
     "num": "89",
     "img": "../cartes/yzmir/chrysalide.webp",
     "nom": "Chrysalide",
-    "faction": "YZMIR"
+    "faction": "YZMIR",
+    "illustrateurice": "Zael"
   },
   {
     "id": 88,
     "num": "90",
     "img": "../cartes/yzmir/pamola.webp",
     "nom": "Pamola",
-    "faction": "YZMIR"
+    "faction": "YZMIR",
+    "illustrateurice": "Justice Wong"
   },
   {
     "id": 89,
     "num": "91",
     "img": "../cartes/yzmir/belasenka.webp",
     "nom": "Belasenka",
-    "faction": "YZMIR"
+    "faction": "YZMIR",
+    "illustrateurice": "Ba Vo"
   },
   {
     "id": 90,
     "num": "92a",
     "img": "../cartes/yzmir/aroro-rempart-dasgartha.webp",
     "nom": "Aroro, Rempart d'Asgartha",
-    "faction": "YZMIR"
+    "faction": "YZMIR",
+    "illustrateurice": "Khoa Viet"
   },
   {
     "id": 91,
     "num": "92b",
     "img": "../cartes/yzmir/aroro-rempart-dasgartha_alt.webp",
     "nom": "Aroro, Rempart d'Asgartha (alt)",
-    "faction": "YZMIR"
+    "faction": "YZMIR",
+    "illustrateurice": "Nestor Papatriantafyllou"
   },
   {
     "id": 92,
     "num": "93",
     "img": "../cartes/yzmir/la-reine-des-neiges.webp",
     "nom": "La Reine des Neiges",
-    "faction": "YZMIR"
+    "faction": "YZMIR",
+    "illustrateurice": "Taras Susak"
   },
   {
     "id": 93,
     "num": "94",
     "img": "../cartes/yzmir/givre.webp",
     "nom": "Givre",
-    "faction": "YZMIR"
+    "faction": "YZMIR",
+    "illustrateurice": "HuoMiao Studio"
   },
   {
     "id": 94,
     "num": "95",
     "img": "../cartes/yzmir/invocation-de-phalene.webp",
     "nom": "Invocation de Phalène",
-    "faction": "YZMIR"
+    "faction": "YZMIR",
+    "illustrateurice": "HuoMiao Studio"
   },
   {
     "id": 95,
     "num": "96",
     "img": "../cartes/yzmir/gel.webp",
     "nom": "Gel",
-    "faction": "YZMIR"
+    "faction": "YZMIR",
+    "illustrateurice": "HuoMiao Studio"
   },
   {
     "id": 96,
     "num": "97",
     "img": "../cartes/yzmir/blizzard.webp",
     "nom": "Blizzard",
-    "faction": "YZMIR"
+    "faction": "YZMIR",
+    "illustrateurice": "Jean-Baptiste Andrier"
   },
   {
     "id": 97,
     "num": "98",
     "img": "../cartes/yzmir/nuee-de-phalene.webp",
     "nom": "Nuée de Phalène",
-    "faction": "YZMIR"
+    "faction": "YZMIR",
+    "illustrateurice": "HuoMiao Studio"
   },
   {
     "id": 98,
     "num": "99",
     "img": "../cartes/yzmir/nova-hivernale.webp",
     "nom": "Nova Hivernale",
-    "faction": "YZMIR"
+    "faction": "YZMIR",
+    "illustrateurice": "Edward Chee - Seok Yeong"
   },
   {
     "id": 99,
     "num": "100",
     "img": "../cartes/yzmir/lanterne-aux-phalenes.webp",
     "nom": "Lanterne aux Phalènes",
-    "faction": "YZMIR"
+    "faction": "YZMIR",
+    "illustrateurice": "HuoMiao Studio"
   },
   {
     "id": 100,
     "num": "101a",
     "img": "../cartes/yzmir/col-saisi-par-les-glaces.webp",
     "nom": "Col Saisi par les Glaces",
-    "faction": "YZMIR"
+    "faction": "YZMIR",
+    "illustrateurice": "HuoMiao Studio"
   },
   {
     "id": 101,
     "num": "101b",
     "img": "../cartes/yzmir/col-saisi-par-les-glaces_alt.webp",
     "nom": "Col Saisi par les Glaces (alt)",
-    "faction": "YZMIR"
+    "faction": "YZMIR",
+    "illustrateurice": "Justice Wong"
   },
   {
     "id": 102,
     "num": "102",
     "img": "../cartes/yzmir/le-nilam-arbre-monde-fletri.webp",
     "nom": "Le Nilam, Arbre-Monde Flétri",
-    "faction": "YZMIR"
+    "faction": "YZMIR",
+    "illustrateurice": "Khoa Viet"
   }
 ]

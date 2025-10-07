@@ -1,6 +1,6 @@
 const fetchData = async () => {
   try {
-    const responseCartes = await fetch("data.json");
+    const responseCartes = await fetch("data_set2.json");
     const dataCartes = await responseCartes.json();
 
     const responseFactions = await fetch("data-factions.json");
