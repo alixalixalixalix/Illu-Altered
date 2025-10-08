@@ -81,7 +81,7 @@
   },
   {
     "id": 11,
-    "num": "11",
+    "num": "12",
     "img": "cartes/set3/axiom/botfix.webp",
     "nom": "Botfix",
     "faction": "AXIOM",
@@ -89,7 +89,7 @@
   },
   {
     "id": 12,
-    "num": "12",
+    "num": "13",
     "img": "cartes/set3/axiom/debordement-de-seve.webp",
     "nom": "Débordement de Sève",
     "faction": "AXIOM",
@@ -97,7 +97,7 @@
   },
   {
     "id": 13,
-    "num": "13",
+    "num": "14",
     "img": "cartes/set3/axiom/cabas-a-scara.webp",
     "nom": "Cabas à Scara",
     "faction": "AXIOM",
@@ -105,7 +105,7 @@
   },
   {
     "id": 14,
-    "num": "14",
+    "num": "15",
     "img": "cartes/set3/axiom/extracteur-de-seve.webp",
     "nom": "Extracteur de Sève",
     "faction": "AXIOM",
@@ -113,7 +113,7 @@
   },
   {
     "id": 15,
-    "num": "15a",
+    "num": "16a",
     "img": "cartes/set3/axiom/la-raffinerie.webp",
     "nom": "La Raffinerie",
     "faction": "AXIOM",
@@ -121,7 +121,7 @@
   },
   {
     "id": 16,
-    "num": "15b",
+    "num": "16b",
     "img": "cartes/set3/axiom/la-raffinerie_alt.webp",
     "nom": "La Raffinerie (alt)",
     "faction": "AXIOM",

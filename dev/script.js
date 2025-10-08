@@ -1,16 +1,26 @@
+let dataSelect;
+
 const fetchData = async () => {
   try {
-    const responseCartes = await fetch("data_set3.json");
-    const dataCartes = await responseCartes.json();
-
     const responseFactions = await fetch("data-factions.json");
     const dataFactions = await responseFactions.json();
 
-    function generatorCartes(dataCartes) {
+    const responseCartesSet2 = await fetch("data_set2.json");
+    const dataCartesSet2 = await responseCartesSet2.json();
+
+    const responseCartesSet3 = await fetch("data_set3.json");
+    const dataCartesSet3 = await responseCartesSet3.json();
+
+    const select = document.getElementById("set");
+    let numSelect = document.getElementById("set").options.selectedIndex;
+    let tabData = [dataCartesSet2, dataCartesSet3];
+    dataSelect = tabData[numSelect];
+
+    function generatorCartes(dataSelect) {
       const containerCartes = document.querySelector("#containerCartes");
       containerCartes.innerHTML = "";
 
-      for (let i = 0; i < dataCartes.length; i++) {
+      for (let i = 0; i < dataSelect.length; i++) {
         const div = document.createElement("div");
         div.classList.add("cardCarte");
         div.classList.add("grid3");
@@ -36,12 +46,12 @@ const fetchData = async () => {
         divIllustrateur.appendChild(nomIllustrateur);
         divIllustrateur.classList.add("divIllustrateur");
 
-        img.src = dataCartes[i].img;
-        nom.innerText = dataCartes[i].nom;
-        num.innerText = dataCartes[i].num;
+        img.src = dataSelect[i].img;
+        nom.innerText = dataSelect[i].nom;
+        num.innerText = dataSelect[i].num;
 
         iconIllustrateur.src = "icon-illustrateur.svg";
-        nomIllustrateur.innerText = dataCartes[i].illustrateurice;
+        nomIllustrateur.innerText = dataSelect[i].illustrateurice;
       }
     }
 
@@ -50,8 +60,6 @@ const fetchData = async () => {
       const containerButton = document.querySelector("#containerFaction");
       const boutonFaction = document.createElement("button");
       boutonFaction.classList.add("bouton");
-      //boutonFaction.style.border = "2px solid" + dataFactions[i].couleur;
-      //boutonFaction.style.color = dataFactions[i].couleur;
       containerButton.appendChild(boutonFaction);
       boutonFaction.innerText = dataFactions[i].nom;
     }
@@ -70,8 +78,6 @@ const fetchData = async () => {
         allButtonsFilters[4].classList.remove("factionActiveMuna");
         allButtonsFilters[5].classList.remove("factionActiveOrdis");
         allButtonsFilters[6].classList.remove("factionActiveYzmir");
-        //        allButtonsFilters[i].classList.add("factionActive"); //ajoute la class sur élément cliqué
-        //      allButtonsFilters[i].style.backgroundColor = allButtonsFilters[i].couleur
         if (i === 0) {
           allButtonsFilters[i].classList.add("factionActive");
         }
@@ -93,7 +99,7 @@ const fetchData = async () => {
         if (i === 6) {
           allButtonsFilters[i].classList.add("factionActiveYzmir");
         }
-        let filtreAction = dataCartes.filter(function (cartes) {
+        let filtreAction = dataSelect.filter(function (cartes) {
           if (allButtonsFilters[i].innerText === buttonAll) {
             return cartes.faction;
           } else {
@@ -133,7 +139,27 @@ const fetchData = async () => {
       });
     }
 
-    generatorCartes(dataCartes);
+    select.addEventListener("change", (event) => {
+      let numSelect2 = document.getElementById("set").options.selectedIndex;
+      let tabData2 = [dataCartesSet2, dataCartesSet3];
+      dataSelect = tabData2[numSelect2];
+
+      let allButtonsFilters = document.querySelectorAll(
+        "#containerFaction button"
+      );
+      allButtonsFilters[0].classList.add("factionActive");
+      allButtonsFilters[1].classList.remove("factionActive");
+      allButtonsFilters[2].classList.remove("factionActiveBravos");
+      allButtonsFilters[3].classList.remove("factionActiveLyra");
+      allButtonsFilters[4].classList.remove("factionActiveMuna");
+      allButtonsFilters[5].classList.remove("factionActiveOrdis");
+      allButtonsFilters[6].classList.remove("factionActiveYzmir");
+
+      generatorCartes(dataSelect);
+      applyGridToCartes();
+    });
+
+    generatorCartes(dataSelect);
     applyGridToCartes();
   } catch (error) {
     console.error("Erreur lors de la récupération des données :", error);
