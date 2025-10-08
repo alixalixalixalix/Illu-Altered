@@ -2,7 +2,7 @@
   {
     "id": 1,
     "num": "03",
-    "img": "../cartes/axiom/la-machine-dans-la-glace.webp",
+    "img": "cartes/set3/axiom/renifleur-de-seve.webp",
     "nom": "Renifleur de Sève",
     "faction": "AXIOM",
     "illustrateurice": "Kevin Sidharta"
@@ -10,7 +10,7 @@
   {
     "id": 2,
     "num": "04",
-    "img": "../cartes/axiom/macareux-a-roquettes.webp",
+    "img": "cartes/set3/axiom/drone-designer.webp",
     "nom": "Drone Designer",
     "faction": "AXIOM",
     "illustrateurice": "Anh Tung"
@@ -18,7 +18,7 @@
   {
     "id": 3,
     "num": "05",
-    "img": "../cartes/axiom/vaike-lenergeticienne.webp",
+    "img": "cartes/set3/axiom/les-grems.webp",
     "nom": "Les Grems",
     "faction": "AXIOM",
     "illustrateurice": "Atanas Lozanski"
@@ -26,7 +26,7 @@
   {
     "id": 4,
     "num": "06",
-    "img": "../cartes/axiom/vaike-lenergeticienne_alt.webp",
+    "img": "cartes/set3/axiom/drone-ratisseur.webp",
     "nom": "Drone Ratisseur",
     "faction": "AXIOM",
     "illustrateurice": "Anh Tung"
@@ -34,7 +34,7 @@
   {
     "id": 5,
     "num": "07",
-    "img": "../cartes/axiom/la-petite-fille-aux-allumettes.webp",
+    "img": "cartes/set3/axiom/taupetaraude.webp",
     "nom": "Taupetaraude",
     "faction": "AXIOM",
     "illustrateurice": "Anh Tung"
@@ -42,7 +42,7 @@
   {
     "id": 6,
     "num": "08",
-    "img": "../cartes/axiom/eclaireur-morse.webp",
+    "img": "cartes/set3/axiom/gestionnaire-de-penurie.webp",
     "nom": "Gestionnaire de Pénurie",
     "faction": "AXIOM",
     "illustrateurice": "Anh Tung"
@@ -50,7 +50,7 @@
   {
     "id": 7,
     "num": "09",
-    "img": "../cartes/axiom/porteuse-intrepide.webp",
+    "img": "cartes/set3/axiom/aby-livreuse-de-seve.webp",
     "nom": "Aby, Livreuse de Sève",
     "faction": "AXIOM",
     "illustrateurice": "Aaron Ming"
@@ -58,7 +58,7 @@
   {
     "id": 8,
     "num": "10a",
-    "img": "../cartes/axiom/lord-kelvin.webp",
+    "img": "cartes/set3/axiom/icare.webp",
     "nom": "Icare",
     "faction": "AXIOM",
     "illustrateurice": "Atanas Lozanski"
@@ -66,7 +66,7 @@
   {
     "id": 9,
     "num": "10b",
-    "img": "../cartes/axiom/prototype-defectueux.webp",
+    "img": "cartes/set3/axiom/icare_alt.webp",
     "nom": "Icare (alt)",
     "faction": "AXIOM",
     "illustrateurice": "Justice Wong"
@@ -74,7 +74,7 @@
   {
     "id": 10,
     "num": "11",
-    "img": "../cartes/axiom/vishvakarma.webp",
+    "img": "cartes/set3/axiom/prototype-ameliore.webp",
     "nom": "Prototype Amélioré",
     "faction": "AXIOM",
     "illustrateurice": "Anh Tung"
@@ -82,7 +82,7 @@
   {
     "id": 11,
     "num": "11",
-    "img": "../cartes/axiom/gibil.webp",
+    "img": "cartes/set3/axiom/botfix.webp",
     "nom": "Botfix",
     "faction": "AXIOM",
     "illustrateurice": "Kevin Sidharta"
@@ -90,7 +90,7 @@
   {
     "id": 12,
     "num": "12",
-    "img": "../cartes/axiom/livraison-gelee.webp",
+    "img": "cartes/set3/axiom/debordement-de-seve.webp",
     "nom": "Débordement de Sève",
     "faction": "AXIOM",
     "illustrateurice": "HuoMiao Studio"
@@ -98,7 +98,7 @@
   {
     "id": 13,
     "num": "13",
-    "img": "../cartes/axiom/avalanche.webp",
+    "img": "cartes/set3/axiom/cabas-a-scara.webp",
     "nom": "Cabas à Scara",
     "faction": "AXIOM",
     "illustrateurice": "Kevin Sidharta"
@@ -106,7 +106,7 @@
   {
     "id": 14,
     "num": "14",
-    "img": "../cartes/axiom/radiateur-kelonique.webp",
+    "img": "cartes/set3/axiom/extracteur-de-seve.webp",
     "nom": "Extracteur de Sève",
     "faction": "AXIOM",
     "illustrateurice": "Jean-Baptiste Andrier"
@@ -114,7 +114,7 @@
   {
     "id": 15,
     "num": "15a",
-    "img": "../cartes/axiom/galerie-saisie-par-les-glaces.webp",
+    "img": "cartes/set3/axiom/la-raffinerie.webp",
     "nom": "La Raffinerie",
     "faction": "AXIOM",
     "illustrateurice": "Jean-Baptiste Andrier"
@@ -122,15 +122,15 @@
   {
     "id": 16,
     "num": "15b",
-    "img": "../cartes/axiom/galerie-saisie-par-les-glaces_alt.webp",
-    "nom": "Galeries Saisies par les Glaces (alt)",
-    "faction": "La Raffinerie (alt)",
+    "img": "cartes/set3/axiom/la-raffinerie_alt.webp",
+    "nom": "La Raffinerie (alt)",
+    "faction": "AXIOM",
     "illustrateurice": "Victor Canton"
   },
   {
     "id": 17,
     "num": "17",
-    "img": "../cartes/axiom/recycleur-gele.webp",
+    "img": "cartes/set3/axiom/unite-lab-tech.webp",
     "nom": "Unité Lab Tech",
     "faction": "AXIOM",
     "illustrateurice": "Justice Wong"
@@ -138,7 +138,7 @@
   {
     "id": 18,
     "num": "20",
-    "img": "../cartes/bravos/lapin-ardent.webp",
+    "img": "cartes/set3/bravos/petit-cuistot.webp",
     "nom": "Petit Cuistot",
     "faction": "BRAVOS",
     "illustrateurice": "Nestor Papatriantafyllou"
@@ -146,7 +146,7 @@
   {
     "id": 19,
     "num": "21",
-    "img": "../cartes/bravos/seiringar-de-havre.webp",
+    "img": "cartes/set3/bravos/excavateur-bravos.webp",
     "nom": "Excavateur Bravos",
     "faction": "BRAVOS",
     "illustrateurice": "Ed Chee, S.Yong, Stephen"
@@ -154,7 +154,7 @@
   {
     "id": 20,
     "num": "22",
-    "img": "../cartes/bravos/skadi.webp",
+    "img": "cartes/set3/bravos/pendekar-bravos.webp",
     "nom": "Pendekar Bravos",
     "faction": "BRAVOS",
     "illustrateurice": "Ed Chee, S.Yong, Stephen"
@@ -162,7 +162,7 @@
   {
     "id": 21,
     "num": "23",
-    "img": "../cartes/bravos/deblayeur-bravos.webp",
+    "img": "cartes/set3/bravos/porteuse-desprit.webp",
     "nom": "Porteuse d'Esprit",
     "faction": "BRAVOS",
     "illustrateurice": "Nestor Papatriantafyllou"
@@ -170,7 +170,7 @@
   {
     "id": 22,
     "num": "24",
-    "img": "../cartes/bravos/secouriste-bravos.webp",
+    "img": "cartes/set3/bravos/skateuse-talarienne.webp",
     "nom": "Skateuse Talarienne",
     "faction": "BRAVOS",
     "illustrateurice": "Exia"
@@ -178,7 +178,7 @@
   {
     "id": 23,
     "num": "25",
-    "img": "../cartes/bravos/gericht-bretteur-honore.webp",
+    "img": "cartes/set3/bravos/chef-patissier.webp",
     "nom": "Chef Pâtissier",
     "faction": "BRAVOS",
     "illustrateurice": "Nestor Papatriantafyllou"
@@ -186,7 +186,7 @@
   {
     "id": 24,
     "num": "26",
-    "img": "../cartes/bravos/gericht-bretteur-honore_alt.webp",
+    "img": "cartes/set3/bravos/hestia.webp",
     "nom": "Hestia",
     "faction": "BRAVOS",
     "illustrateurice": "Nestor Papatriantafyllou"
@@ -194,7 +194,7 @@
   {
     "id": 25,
     "num": "27",
-    "img": "../cartes/bravos/akhlut.webp",
+    "img": "cartes/set3/bravos/aoife-avatar-de-feu.webp",
     "nom": "Aoife, Avatar de Feu",
     "faction": "BRAVOS",
     "illustrateurice": "Justice Wong"
@@ -202,7 +202,7 @@
   {
     "id": 26,
     "num": "28",
-    "img": "../cartes/bravos/amarok.webp",
+    "img": "cartes/set3/bravos/hydre-de-lerne.webp",
     "nom": "Hydre de Lerne",
     "faction": "BRAVOS",
     "illustrateurice": "Ed Chee, S.Yong, Stephen"
@@ -210,7 +210,7 @@
   {
     "id": 27,
     "num": "29",
-    "img": "../cartes/bravos/eros.webp",
+    "img": "cartes/set3/bravos/djinn-fulgurant.webp",
     "nom": "Djinn Fulgurant",
     "faction": "BRAVOS",
     "illustrateurice": "Justice Wong"
@@ -218,7 +218,7 @@
   {
     "id": 28,
     "num": "30a",
-    "img": "../cartes/bravos/geyser.webp",
+    "img": "cartes/set3/bravos/thesee.webp",
     "nom": "Thésée",
     "faction": "BRAVOS",
     "illustrateurice": "Ed Chee, S.Yong, Stephen"
@@ -226,7 +226,7 @@
   {
     "id": 29,
     "num": "30b",
-    "img": "../cartes/bravos/embrasement-de-mana.webp",
+    "img": "cartes/set3/bravos/thesee_alt.webp",
     "nom": "Thésée (alt)",
     "faction": "BRAVOS",
     "illustrateurice": "Kevin Sidharta"
@@ -234,7 +234,7 @@
   {
     "id": 30,
     "num": "31",
-    "img": "../cartes/bravos/bottes-techniques.webp",
+    "img": "cartes/set3/bravos/tasse-de-seve.webp",
     "nom": "Tasse de Sève",
     "faction": "BRAVOS",
     "illustrateurice": "Ed Chee, S.Yong, Stephen"
@@ -242,7 +242,7 @@
   {
     "id": 31,
     "num": "32",
-    "img": "../cartes/bravos/lait-darcolano.webp",
+    "img": "cartes/set3/bravos/duel-de-cran.webp",
     "nom": "Duel de Cran",
     "faction": "BRAVOS",
     "illustrateurice": "Ed Chee, S.Yong, Stephen"
@@ -250,7 +250,7 @@
   {
     "id": 32,
     "num": "33",
-    "img": "../cartes/bravos/barre-energetique-mangez-moi.webp",
+    "img": "cartes/set3/bravos/le-ragout.webp",
     "nom": "Le Ragoût",
     "faction": "BRAVOS",
     "illustrateurice": "Ed Chee, S.Yong, Stephen"
@@ -258,7 +258,7 @@
   {
     "id": 33,
     "num": "34a",
-    "img": "../cartes/bravos/pic-saisi-par-les-glaces.webp",
+    "img": "cartes/set3/bravos/le-mess.webp",
     "nom": "Le Mess",
     "faction": "BRAVOS",
     "illustrateurice": "Fahmi Fauzi"
@@ -266,7 +266,7 @@
   {
     "id": 34,
     "num": "34b",
-    "img": "../cartes/bravos/pic-saisi-par-les-glaces_alt.webp",
+    "img": "cartes/set3/bravos/le-mess_alt.webp",
     "nom": "Le Mess (alt)",
     "faction": "BRAVOS",
     "illustrateurice": "Victor Canton"
@@ -274,7 +274,7 @@
   {
     "id": 35,
     "num": "37",
-    "img": "../cartes/lyra/le-bonhomme-de-neige.webp",
+    "img": "cartes/set3/lyra/bassiste-de-bliss.webp",
     "nom": "Bassiste de Bliss",
     "faction": "LYRA",
     "illustrateurice": "Zero Wen"
@@ -282,7 +282,7 @@
   {
     "id": 36,
     "num": "38",
-    "img": "../cartes/lyra/entasseur-magpeng.webp",
+    "img": "cartes/set3/lyra/fan-de-bliss.webp",
     "nom": "Fan de Bliss",
     "faction": "LYRA",
     "illustrateurice": "Aaron Ming"
@@ -290,7 +290,7 @@
   {
     "id": 37,
     "num": "39",
-    "img": "../cartes/lyra/commando-boule-de-neige.webp",
+    "img": "cartes/set3/lyra/contorsionniste-lyra.webp",
     "nom": "Contorsionniste Lyra",
     "faction": "LYRA",
     "illustrateurice": "Khoa Viet"
@@ -298,7 +298,7 @@
   {
     "id": 38,
     "num": "40",
-    "img": "../cartes/lyra/feu-follet.webp",
+    "img": "cartes/set3/lyra/clavieriste-de-bliss.webp",
     "nom": "Claviériste de Bliss",
     "faction": "LYRA",
     "illustrateurice": "Zero Wen"
@@ -306,7 +306,7 @@
   {
     "id": 39,
     "num": "41a",
-    "img": "../cartes/lyra/nyala-habile-illusionniste.webp",
+    "img": "cartes/set3/lyra/dedale.webp",
     "nom": "Dédale",
     "faction": "LYRA",
     "illustrateurice": "Taras Susak"
@@ -314,7 +314,7 @@
   {
     "id": 40,
     "num": "41b",
-    "img": "../cartes/lyra/nyala-habile-illusionniste_alt.webp",
+    "img": "cartes/set3/lyra/dedale_alt.webp",
     "nom": "Dédale (alt)",
     "faction": "LYRA",
     "illustrateurice": "Zael"
@@ -322,7 +322,7 @@
   {
     "id": 41,
     "num": "42",
-    "img": "../cartes/lyra/nisse.webp",
+    "img": "cartes/set3/lyra/lakshmi.webp",
     "nom": "Lakshmi",
     "faction": "LYRA",
     "illustrateurice": "Taras Susak"
@@ -330,7 +330,7 @@
   {
     "id": 42,
     "num": "43",
-    "img": "../cartes/lyra/heimdall.webp",
+    "img": "cartes/set3/lyra/batteur-de-bliss.webp",
     "nom": "Batteur de Bliss",
     "faction": "LYRA",
     "illustrateurice": "Zero Wen"
@@ -338,7 +338,7 @@
   {
     "id": 43,
     "num": "44",
-    "img": "../cartes/lyra/le-pere-noel.webp",
+    "img": "cartes/set3/lyra/efren-marionnettiste.webp",
     "nom": "Efren, Marionnettiste",
     "faction": "LYRA",
     "illustrateurice": "Bastien Jez"
@@ -346,7 +346,7 @@
   {
     "id": 44,
     "num": "45",
-    "img": "../cartes/lyra/tour-de-passe-passe.webp",
+    "img": "cartes/set3/lyra/lhomme-dans-le-labyrinthe.webp",
     "nom": "L'Homme dans le Labyrinthe",
     "faction": "LYRA",
     "illustrateurice": "Taras Susak"
@@ -354,7 +354,7 @@
   {
     "id": 45,
     "num": "46",
-    "img": "../cartes/lyra/viree-endiablee.webp",
+    "img": "cartes/set3/lyra/poignantes-retrouvailles.webp",
     "nom": "Poignantes Retrouvailles",
     "faction": "LYRA",
     "illustrateurice": "Ina Wong"
@@ -362,7 +362,7 @@
   {
     "id": 46,
     "num": "47",
-    "img": "../cartes/lyra/douce-nuit.webp",
+    "img": "cartes/set3/lyra/duende-de-seve.webp",
     "nom": "Duende de Sève",
     "faction": "LYRA",
     "illustrateurice": "Rémi Jacquot"
@@ -370,7 +370,7 @@
   {
     "id": 47,
     "num": "48",
-    "img": "../cartes/lyra/briser-la-glace.webp",
+    "img": "cartes/set3/lyra/bis.webp",
     "nom": "Bis",
     "faction": "LYRA",
     "illustrateurice": "Justice Wong"
@@ -378,7 +378,7 @@
   {
     "id": 48,
     "num": "49",
-    "img": "../cartes/lyra/tenue-hivernale.webp",
+    "img": "cartes/set3/lyra/marque-dune-croix.webp",
     "nom": "Marqué d'une Croix",
     "faction": "LYRA",
     "illustrateurice": "HuoMiao Studio"
@@ -386,7 +386,7 @@
   {
     "id": 49,
     "num": "50a",
-    "img": "../cartes/lyra/le-traineau-enchante.webp",
+    "img": "cartes/set3/lyra/la-scene.webp",
     "nom": "La Scène",
     "faction": "LYRA",
     "illustrateurice": "Zero Wen"
@@ -394,7 +394,7 @@
   {
     "id": 50,
     "num": "50b",
-    "img": "../cartes/lyra/toundra-saisie-par-les-glaces.webp",
+    "img": "cartes/set3/lyra/la-scene_alt.webp",
     "nom": "La Scène (alt)",
     "faction": "LYRA",
     "illustrateurice": "Victor Canton"
@@ -402,7 +402,7 @@
   {
     "id": 51,
     "num": "51",
-    "img": "../cartes/lyra/toundra-saisie-par-les-glaces_alt.webp",
+    "img": "cartes/set3/lyra/le-wayfarer.webp",
     "nom": "Le Wayfarer",
     "faction": "LYRA",
     "illustrateurice": "Fahmi Fauzi"
@@ -410,7 +410,7 @@
   {
     "id": 52,
     "num": "54",
-    "img": "../cartes/muna/champignon-extenueur.webp",
+    "img": "cartes/set3/muna/fouisseur-noch.webp",
     "nom": "Fouisseur Nouch",
     "faction": "MUNA",
     "illustrateurice": "Ba Vo"
@@ -418,7 +418,7 @@
   {
     "id": 53,
     "num": "55",
-    "img": "../cartes/muna/jack-frost.webp",
+    "img": "cartes/set3/muna/beillerave.webp",
     "nom": "Beillerave",
     "faction": "MUNA",
     "illustrateurice": "Ba Vo"
@@ -426,7 +426,7 @@
   {
     "id": 54,
     "num": "56",
-    "img": "../cartes/muna/persephone.webp",
+    "img": "cartes/set3/muna/renarde-integre.webp",
     "nom": "Renarde Intègre",
     "faction": "MUNA",
     "illustrateurice": "Romain Kurdi"
@@ -434,7 +434,7 @@
   {
     "id": 55,
     "num": "57",
-    "img": "../cartes/muna/loutre-rempoteuse.webp",
+    "img": "cartes/set3/muna/corgi-caline.webp",
     "nom": "Corgi Câline",
     "faction": "MUNA",
     "illustrateurice": "Zael"
@@ -442,7 +442,7 @@
   {
     "id": 56,
     "num": "58",
-    "img": "../cartes/muna/saskia-naturaliste-rusee.webp",
+    "img": "cartes/set3/muna/flore-maraichere-attentive.webp",
     "nom": "Flore, Maraichère Attentive",
     "faction": "MUNA",
     "illustrateurice": "Ba Vo"
@@ -450,7 +450,7 @@
   {
     "id": 57,
     "num": "59",
-    "img": "../cartes/muna/saskia-naturaliste-rusee_alt.webp",
+    "img": "cartes/set3/muna/la-petite-souris.webp",
     "nom": "La Petite Souris",
     "faction": "MUNA",
     "illustrateurice": "Jean-Baptiste Andrier"
@@ -458,7 +458,7 @@
   {
     "id": 58,
     "num": "60",
-    "img": "../cartes/muna/yeti.webp",
+    "img": "cartes/set3/muna/essaim-de-libellumines.webp",
     "nom": "Essaim de Libellumines",
     "faction": "MUNA",
     "illustrateurice": "Khoa Viet"
@@ -466,7 +466,7 @@
   {
     "id": 59,
     "num": "61",
-    "img": "../cartes/muna/puissant-simbi.webp",
+    "img": "cartes/set3/muna/grand-bois.webp",
     "nom": "Grand Bois",
     "faction": "MUNA",
     "illustrateurice": "Ba Vo"
@@ -474,7 +474,7 @@
   {
     "id": 60,
     "num": "62",
-    "img": "../cartes/muna/la-demoiselle-des-neiges.webp",
+    "img": "cartes/set3/muna/arawn.webp",
     "nom": "Arawn",
     "faction": "MUNA",
     "illustrateurice": "Taras Susak"
@@ -482,7 +482,7 @@
   {
     "id": 61,
     "num": "63a",
-    "img": "../cartes/muna/liechi.webp",
+    "img": "cartes/set3/muna/le-minotaure.webp",
     "nom": "Le Minotaure",
     "faction": "MUNA",
     "illustrateurice": "Matteo Spirito"
@@ -490,7 +490,7 @@
   {
     "id": 62,
     "num": "63b",
-    "img": "../cartes/muna/demeter.webp",
+    "img": "cartes/set3/muna/le-minotaure_alt.webp",
     "nom": "Le Minotaure (alt)",
     "faction": "MUNA",
     "illustrateurice": "Zero Wen"
@@ -498,7 +498,7 @@
   {
     "id": 63,
     "num": "64",
-    "img": "../cartes/muna/semer.webp",
+    "img": "cartes/set3/muna/dissemination-de-seve.webp",
     "nom": "Dissémination de Sève",
     "faction": "MUNA",
     "illustrateurice": "Zael"
@@ -506,7 +506,7 @@
   {
     "id": 64,
     "num": "65",
-    "img": "../cartes/muna/perdu-en-foret.webp",
+    "img": "cartes/set3/muna/requiem.webp",
     "nom": "Requiem",
     "faction": "MUNA",
     "illustrateurice": "Jean-Baptiste Andrier"
@@ -514,7 +514,7 @@
   {
     "id": 65,
     "num": "66",
-    "img": "../cartes/muna/haricots-magiques.webp",
+    "img": "cartes/set3/muna/nourrissement.webp",
     "nom": "Nourrissement",
     "faction": "MUNA",
     "illustrateurice": "Nestor Papatriantafyllou"
@@ -522,7 +522,7 @@
   {
     "id": 66,
     "num": "67",
-    "img": "../cartes/muna/tente-florale.webp",
+    "img": "cartes/set3/muna/le-sous-bois.webp",
     "nom": "Le Sous-Bois",
     "faction": "MUNA",
     "illustrateurice": "Ba Vo"
@@ -530,7 +530,7 @@
   {
     "id": 67,
     "num": "68a",
-    "img": "../cartes/muna/taiga-saisie-par-les-glaces.webp",
+    "img": "cartes/set3/muna/la-ferme.webp",
     "nom": "La Ferme",
     "faction": "MUNA",
     "illustrateurice": "Khoa Viet"
@@ -538,7 +538,7 @@
   {
     "id": 68,
     "num": "68b",
-    "img": "../cartes/muna/taiga-saisie-par-les-glaces_alt.webp",
+    "img": "cartes/set3/muna/la-ferme_alt.webp",
     "nom": "La Ferme (alt)",
     "faction": "MUNA",
     "illustrateurice": "Victor Canton"
@@ -546,7 +546,7 @@
   {
     "id": 69,
     "num": "71",
-    "img": "../cartes/ordis/limier.webp",
+    "img": "cartes/set3/ordis/crieur-ordis.webp",
     "nom": "Crieur Ordis",
     "faction": "ORDIS",
     "illustrateurice": "Matteo Spirito"
@@ -554,7 +554,7 @@
   {
     "id": 70,
     "num": "72",
-    "img": "../cartes/ordis/superviseuse-ordis.webp",
+    "img": "cartes/set3/ordis/commis-du-personnel.webp",
     "nom": "Commis du Personnel",
     "faction": "ORDIS",
     "illustrateurice": "Romain Kurdi"
@@ -562,7 +562,7 @@
   {
     "id": 71,
     "num": "73",
-    "img": "../cartes/ordis/veilleur-ordis.webp",
+    "img": "cartes/set3/ordis/comptable-ordis.webp",
     "nom": "Comptable Ordis",
     "faction": "ORDIS",
     "illustrateurice": "Matteo Spirito"
@@ -570,7 +570,7 @@
   {
     "id": 72,
     "num": "74",
-    "img": "../cartes/ordis/sunisa-enseigne-devouee.webp",
+    "img": "cartes/set3/ordis/leo-expert-en-reliques.webp",
     "nom": "Leo, Expert en Reliques",
     "faction": "ORDIS",
     "illustrateurice": "Fahmi Fauzi"
@@ -578,7 +578,7 @@
   {
     "id": 73,
     "num": "75",
-    "img": "../cartes/ordis/sunisa-enseigne-devouee_alt.webp",
+    "img": "cartes/set3/ordis/templier-de-laegis.webp",
     "nom": "Templier de l'Aegis",
     "faction": "ORDIS",
     "illustrateurice": "Taras Susak"
@@ -586,7 +586,7 @@
   {
     "id": 74,
     "num": "76",
-    "img": "../cartes/ordis/ebenezer-scrooge.webp",
+    "img": "cartes/set3/ordis/regisseuse-ordis.webp",
     "nom": "Régisseuse Ordis",
     "faction": "ORDIS",
     "illustrateurice": "Matteo Spirito"
@@ -594,7 +594,7 @@
   {
     "id": 75,
     "num": "77",
-    "img": "../cartes/ordis/dong-da-shen.webp",
+    "img": "cartes/set3/ordis/fiore-dei-liberi.webp",
     "nom": "Fiore dei Liberi",
     "faction": "ORDIS",
     "illustrateurice": "Jean-Baptiste Andrier"
@@ -602,7 +602,7 @@
   {
     "id": 76,
     "num": "78",
-    "img": "../cartes/ordis/valemon.webp",
+    "img": "cartes/set3/ordis/inspecteur-sanitaire.webp",
     "nom": "Inspecteur Sanitaire",
     "faction": "ORDIS",
     "illustrateurice": "Justice Wong"
@@ -610,7 +610,7 @@
   {
     "id": 77,
     "num": "79a",
-    "img": "../cartes/ordis/operatrice-ordis.webp",
+    "img": "cartes/set3/ordis/ariane.webp",
     "nom": "Ariane",
     "faction": "ORDIS",
     "illustrateurice": "Damian Audino"
@@ -618,7 +618,7 @@
   {
     "id": 78,
     "num": "79b",
-    "img": "../cartes/ordis/benzaiten.webp",
+    "img": "cartes/set3/ordis/ariane_alt.webp",
     "nom": "Ariane (alt)",
     "faction": "ORDIS",
     "illustrateurice": "Zero Wen"
@@ -626,7 +626,7 @@
   {
     "id": 79,
     "num": "80",
-    "img": "../cartes/ordis/cri-de-ralliement.webp",
+    "img": "cartes/set3/ordis/simurgh.webp",
     "nom": "Simurgh",
     "faction": "ORDIS",
     "illustrateurice": "Khoa Viet"
@@ -634,7 +634,7 @@
   {
     "id": 80,
     "num": "81",
-    "img": "../cartes/ordis/hypothermie.webp",
+    "img": "cartes/set3/ordis/conscription.webp",
     "nom": "Conscription",
     "faction": "ORDIS",
     "illustrateurice": "Romain Kurdi"
@@ -642,7 +642,7 @@
   {
     "id": 81,
     "num": "82",
-    "img": "../cartes/ordis/renforts.webp",
+    "img": "cartes/set3/ordis/retrait-de-licence.webp",
     "nom": "Retrait de Licence",
     "faction": "ORDIS",
     "illustrateurice": "Justice Wong"
@@ -650,7 +650,7 @@
   {
     "id": 82,
     "num": "83",
-    "img": "../cartes/ordis/case-prison.webp",
+    "img": "cartes/set3/ordis/testament-de-rune.webp",
     "nom": "Testament de Rune",
     "faction": "ORDIS",
     "illustrateurice": "Fahmi Fauzi"
@@ -658,7 +658,7 @@
   {
     "id": 83,
     "num": "84a",
-    "img": "../cartes/ordis/armurerie-mobile.webp",
+    "img": "cartes/set3/ordis/la-grand-place.webp",
     "nom": "La Grand-Place",
     "faction": "ORDIS",
     "illustrateurice": "Jean-Baptiste Andrier"
@@ -666,7 +666,7 @@
   {
     "id": 84,
     "num": "84b",
-    "img": "../cartes/ordis/lac-saisi-par-les-glaces.webp",
+    "img": "cartes/set3/ordis/la-grand-place_alt.webp",
     "nom": "La Grand-Place (alt)",
     "faction": "ORDIS",
     "illustrateurice": "Victor Canton"
@@ -674,7 +674,7 @@
   {
     "id": 85,
     "num": "85",
-    "img": "../cartes/ordis/lac-saisi-par-les-glaces_alt.webp",
+    "img": "cartes/set3/ordis/mesektet.webp",
     "nom": "Mesektet",
     "faction": "ORDIS",
     "illustrateurice": "Taras Susak"
@@ -682,7 +682,7 @@
   {
     "id": 86,
     "num": "88",
-    "img": "../cartes/yzmir/larve-de-phalene.webp",
+    "img": "cartes/set3/yzmir/griffonneur-etoile.webp",
     "nom": "Griffonneur Étoilé",
     "faction": "YZMIR",
     "illustrateurice": "Zero Wen"
@@ -690,7 +690,7 @@
   {
     "id": 87,
     "num": "89a",
-    "img": "../cartes/yzmir/chrysalide.webp",
+    "img": "cartes/set3/yzmir/pasiphae.webp",
     "nom": "Pasiphaé",
     "faction": "YZMIR",
     "illustrateurice": "Zael"
@@ -698,7 +698,7 @@
   {
     "id": 88,
     "num": "89b",
-    "img": "../cartes/yzmir/pamola.webp",
+    "img": "cartes/set3/yzmir/pasiphae_alt.webp",
     "nom": "Pasiphaé (alt)",
     "faction": "YZMIR",
     "illustrateurice": "Jean-Baptiste Andrier"
@@ -706,7 +706,7 @@
   {
     "id": 89,
     "num": "90",
-    "img": "../cartes/yzmir/belasenka.webp",
+    "img": "cartes/set3/yzmir/tatoueur-yzmir.webp",
     "nom": "Tatoueur Yzmir",
     "faction": "YZMIR",
     "illustrateurice": "Zero Wen"
@@ -714,7 +714,7 @@
   {
     "id": 90,
     "num": "91",
-    "img": "../cartes/yzmir/aroro-rempart-dasgartha.webp",
+    "img": "cartes/set3/yzmir/infirmiere-yzmir.webp",
     "nom": "Infirmière Yzmir",
     "faction": "YZMIR",
     "illustrateurice": "Dimas Iswara"
@@ -722,7 +722,7 @@
   {
     "id": 91,
     "num": "92",
-    "img": "../cartes/yzmir/aroro-rempart-dasgartha_alt.webp",
+    "img": "cartes/set3/yzmir/indic-du-qorgan.webp",
     "nom": "Indic du Qorgan",
     "faction": "YZMIR",
     "illustrateurice": "HuoMiao Studio"
@@ -730,7 +730,7 @@
   {
     "id": 92,
     "num": "93",
-    "img": "../cartes/yzmir/la-reine-des-neiges.webp",
+    "img": "cartes/set3/yzmir/entomologiste-yzmir.webp",
     "nom": "Entomologiste Yzmir",
     "faction": "YZMIR",
     "illustrateurice": "Victor Canton"
@@ -738,7 +738,7 @@
   {
     "id": 93,
     "num": "94",
-    "img": "../cartes/yzmir/givre.webp",
+    "img": "cartes/set3/yzmir/sylas-sorcier-insondable.webp",
     "nom": "Sylas, Sorcier Insondable",
     "faction": "YZMIR",
     "illustrateurice": "Zero Wen"
@@ -746,7 +746,7 @@
   {
     "id": 94,
     "num": "95",
-    "img": "../cartes/yzmir/invocation-de-phalene.webp",
+    "img": "cartes/set3/yzmir/merlin.webp",
     "nom": "Merlin",
     "faction": "YZMIR",
     "illustrateurice": "Taras Susak"
@@ -754,7 +754,7 @@
   {
     "id": 95,
     "num": "96",
-    "img": "../cartes/yzmir/gel.webp",
+    "img": "cartes/set3/yzmir/laffame.webp",
     "nom": "L'Affamé",
     "faction": "YZMIR",
     "illustrateurice": "Taras Susak"
@@ -762,7 +762,7 @@
   {
     "id": 96,
     "num": "97",
-    "img": "../cartes/yzmir/blizzard.webp",
+    "img": "cartes/set3/yzmir/infusion-de-seve.webp",
     "nom": "Infusion de Sève",
     "faction": "YZMIR",
     "illustrateurice": "HuoMiao Studio"
@@ -770,7 +770,7 @@
   {
     "id": 97,
     "num": "98",
-    "img": "../cartes/yzmir/nuee-de-phalene.webp",
+    "img": "cartes/set3/yzmir/evanescence.webp",
     "nom": "Évanescence",
     "faction": "YZMIR",
     "illustrateurice": "Justice Wong"
@@ -778,7 +778,7 @@
   {
     "id": 98,
     "num": "99",
-    "img": "../cartes/yzmir/nova-hivernale.webp",
+    "img": "cartes/set3/yzmir/metamorphose.webp",
     "nom": "Métamorphose",
     "faction": "YZMIR",
     "illustrateurice": "Zero Wen"
@@ -786,7 +786,7 @@
   {
     "id": 99,
     "num": "100",
-    "img": "../cartes/yzmir/lanterne-aux-phalenes.webp",
+    "img": "cartes/set3/yzmir/festin-de-pensees.webp",
     "nom": "Festin de Pensées",
     "faction": "YZMIR",
     "illustrateurice": "HuoMiao Studio"
@@ -794,7 +794,7 @@
   {
     "id": 100,
     "num": "101a",
-    "img": "../cartes/yzmir/col-saisi-par-les-glaces.webp",
+    "img": "cartes/set3/yzmir/les-fleches-du-nilam.webp",
     "nom": "Les Flèches du Nilam",
     "faction": "YZMIR",
     "illustrateurice": "Jean-Baptiste Andrier"
@@ -802,7 +802,7 @@
   {
     "id": 101,
     "num": "101b",
-    "img": "../cartes/yzmir/col-saisi-par-les-glaces_alt.webp",
+    "img": "cartes/set3/yzmir/les-fleches-du-nilam_alt.webp",
     "nom": "Les Flèches du Nilam (alt)",
     "faction": "YZMIR",
     "illustrateurice": "Victor Canton"
@@ -810,7 +810,7 @@
   {
     "id": 102,
     "num": "102",
-    "img": "../cartes/yzmir/le-nilam-arbre-monde-fletri.webp",
+    "img": "cartes/set3/yzmir/le-sepulcre-des-sages.webp",
     "nom": "Le Sépulcre des Sages",
     "faction": "YZMIR",
     "illustrateurice": "Jean-Baptiste Andrier"

@@ -5,7 +5,7 @@
     <link rel="stylesheet" href="style.css" />
     <link rel="shortcut icon" type="image/x-icon" href="icon.png" />
     <title>ILLU | ALTERED SET 2</title>
-    <link rel="stylesheet" href="https://use.typekit.net/kja0rbw.css">
+    <link rel="stylesheet" href="https://use.typekit.net/kja0rbw.css" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -13,10 +13,17 @@
       rel="stylesheet"
     />
   </head>
-  <body>    
-    <div id="containerButton">
-      <button id="all" class="bouton factionActive">TOUT</button>
-    </div>
+  <body>
+    <header>
+      <select name="set" id="set">
+        <option value="set2" selected>SET 2 | L'Épreuve du Froid</option>
+        <option value="set3">SET 3 | Murmures du Labyrinthe</option>
+      </select>
+      <div id="containerFaction">
+        <button id="all" class="bouton factionActive">Toute faction</button>
+      </div>
+    </header>
+
     <div id="containerGrid">
       <p>Nombre de colonnes</p>
       <button>2</button>
