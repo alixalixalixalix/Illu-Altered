@@ -55,7 +55,7 @@ const fetchData = async () => {
       }
     }
 
-    // Affichage des boutton Tags
+    // Affichage des boutton filtre FACTION
     for (i = 0; i < dataFactions.length; i++) {
       const containerButton = document.querySelector("#containerFaction");
       const boutonFaction = document.createElement("button");
@@ -64,7 +64,7 @@ const fetchData = async () => {
       boutonFaction.innerText = dataFactions[i].nom;
     }
 
-    // Tri tag fonctionnel
+    // Tri faction fonctionnel
     let allButtonsFilters = document.querySelectorAll(
       "#containerFaction button"
     );
@@ -159,6 +159,8 @@ const fetchData = async () => {
       applyGridToCartes();
     });
 
+
+
     generatorCartes(dataSelect);
     applyGridToCartes();
   } catch (error) {
@@ -167,3 +169,9 @@ const fetchData = async () => {
 };
 
 fetchData();
+
+
+/*
+1. if clic sur rare : img.src = dataSelect[i].imgR;
+
+*/

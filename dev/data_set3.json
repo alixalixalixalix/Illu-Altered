@@ -3,6 +3,8 @@
     "id": 1,
     "num": "03",
     "img": "cartes/set3/axiom/renifleur-de-seve.webp",
+    "imgR": "cartes/set3/axiom/rare/renifleur-de-seve.webp",
+    "imgC": "cartes/set3/axiom/commune/renifleur-de-seve.webp",
     "nom": "Renifleur de Sève",
     "faction": "AXIOM",
     "illustrateurice": "Kevin Sidharta"

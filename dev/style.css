@@ -92,7 +92,7 @@ select {
   color: white;
 }
 
-#containerGrid {
+#containerGrid, #containerRarete {
   margin-bottom: 36px;
   margin-right: 36px;
   display: flex;
