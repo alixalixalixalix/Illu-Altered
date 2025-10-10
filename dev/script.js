@@ -24,7 +24,9 @@ const fetchData = async () => {
         const div = document.createElement("div");
         div.classList.add("cardCarte");
         div.classList.add("grid3");
-        const img = document.createElement("img");
+        const imgU = document.createElement("img");
+        const imgR = document.createElement("img");
+        const imgC = document.createElement("img");
         const divInfo = document.createElement("div");
         const nom = document.createElement("p");
         const num = document.createElement("p");
@@ -33,8 +35,15 @@ const fetchData = async () => {
         const nomIllustrateur = document.createElement("p");
 
         containerCartes.appendChild(div);
-        div.appendChild(img);
-        img.classList.add("img-carte");
+        div.appendChild(imgU);
+        div.appendChild(imgR);
+        div.appendChild(imgC);
+        imgU.classList.add("img-carte");
+        imgR.classList.add("img-carte");
+        imgC.classList.add("img-carte");
+        imgU.classList.add("unique");
+        imgR.classList.add("rare");
+        imgC.classList.add("commune");
         div.appendChild(divInfo);
         divInfo.classList.add("carte-info");
 
@@ -46,7 +55,9 @@ const fetchData = async () => {
         divIllustrateur.appendChild(nomIllustrateur);
         divIllustrateur.classList.add("divIllustrateur");
 
-        img.src = dataSelect[i].img;
+        imgU.src = dataSelect[i].imgU;
+        imgR.src = dataSelect[i].imgR;
+        imgC.src = dataSelect[i].imgC;
         nom.innerText = dataSelect[i].nom;
         num.innerText = dataSelect[i].num;
 
@@ -159,7 +170,39 @@ const fetchData = async () => {
       applyGridToCartes();
     });
 
-
+    const buttonUnique = document.getElementById("button-unique");
+    const buttonRare = document.getElementById("button-rare");
+    const buttonCommune = document.getElementById("button-commune");
+    buttonCommune.addEventListener("click", function () {
+      const cartesUnique = document.querySelectorAll(".unique");
+      const cartesRare = document.querySelectorAll(".rare");
+      const cartesCommune = document.querySelectorAll(".commune");
+      for (let i = 0; i < dataSelect.length; i++) {
+        cartesCommune[i].style.display = "block";
+        cartesRare[i].style.display = "none";
+        cartesUnique[i].style.display = "none";
+      }
+    });
+    buttonRare.addEventListener("click", function () {
+      const cartesUnique = document.querySelectorAll(".unique");
+      const cartesRare = document.querySelectorAll(".rare");
+      const cartesCommune = document.querySelectorAll(".commune");
+      for (let i = 0; i < dataSelect.length; i++) {
+        cartesCommune[i].style.display = "none";
+        cartesRare[i].style.display = "block";
+        cartesUnique[i].style.display = "none";
+      }
+    });
+    buttonUnique.addEventListener("click", function () {
+      const cartesUnique = document.querySelectorAll(".unique");
+      const cartesRare = document.querySelectorAll(".rare");
+      const cartesCommune = document.querySelectorAll(".commune");
+      for (let i = 0; i < dataSelect.length; i++) {
+        cartesCommune[i].style.display = "none";
+        cartesRare[i].style.display = "none";
+        cartesUnique[i].style.display = "block";
+      }
+    });
 
     generatorCartes(dataSelect);
     applyGridToCartes();
@@ -170,8 +213,7 @@ const fetchData = async () => {
 
 fetchData();
 
-
 /*
-1. if clic sur rare : img.src = dataSelect[i].imgR;
+1. if clic sur rare : ;
 
 */
