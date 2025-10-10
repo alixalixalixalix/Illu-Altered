@@ -20,6 +20,13 @@ const fetchData = async () => {
       const containerCartes = document.querySelector("#containerCartes");
       containerCartes.innerHTML = "";
 
+      const buttonUnique = document.getElementById("button-unique");
+      const buttonRare = document.getElementById("button-rare");
+      const buttonCommune = document.getElementById("button-commune");
+      buttonCommune.classList.remove("rareteActive");
+      buttonRare.classList.remove("rareteActive");
+      buttonUnique.classList.add("rareteActive");
+
       for (let i = 0; i < dataSelect.length; i++) {
         const div = document.createElement("div");
         div.classList.add("cardCarte");
@@ -174,33 +181,42 @@ const fetchData = async () => {
     const buttonRare = document.getElementById("button-rare");
     const buttonCommune = document.getElementById("button-commune");
     buttonCommune.addEventListener("click", function () {
+      buttonCommune.classList.add("rareteActive");
+      buttonRare.classList.remove("rareteActive");
+      buttonUnique.classList.remove("rareteActive");
       const cartesUnique = document.querySelectorAll(".unique");
       const cartesRare = document.querySelectorAll(".rare");
       const cartesCommune = document.querySelectorAll(".commune");
       for (let i = 0; i < dataSelect.length; i++) {
-        cartesCommune[i].style.display = "block";
+        cartesCommune[i].style.display = "flex";
         cartesRare[i].style.display = "none";
         cartesUnique[i].style.display = "none";
       }
     });
     buttonRare.addEventListener("click", function () {
+      buttonCommune.classList.remove("rareteActive");
+      buttonRare.classList.add("rareteActive");
+      buttonUnique.classList.remove("rareteActive");
       const cartesUnique = document.querySelectorAll(".unique");
       const cartesRare = document.querySelectorAll(".rare");
       const cartesCommune = document.querySelectorAll(".commune");
       for (let i = 0; i < dataSelect.length; i++) {
         cartesCommune[i].style.display = "none";
-        cartesRare[i].style.display = "block";
+        cartesRare[i].style.display = "flex";
         cartesUnique[i].style.display = "none";
       }
     });
     buttonUnique.addEventListener("click", function () {
+      buttonCommune.classList.remove("rareteActive");
+      buttonRare.classList.remove("rareteActive");
+      buttonUnique.classList.add("rareteActive");
       const cartesUnique = document.querySelectorAll(".unique");
       const cartesRare = document.querySelectorAll(".rare");
       const cartesCommune = document.querySelectorAll(".commune");
       for (let i = 0; i < dataSelect.length; i++) {
         cartesCommune[i].style.display = "none";
         cartesRare[i].style.display = "none";
-        cartesUnique[i].style.display = "block";
+        cartesUnique[i].style.display = "flex";
       }
     });
 
@@ -212,8 +228,3 @@ const fetchData = async () => {
 };
 
 fetchData();
-
-/*
-1. if clic sur rare : ;
-
-*/

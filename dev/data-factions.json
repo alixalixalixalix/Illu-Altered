@@ -1,32 +1,32 @@
 [
   {
     "id": 1,
-    "nom": "AXIOM",
+    "nom": "Axiom",
     "couleur": "#784032"
   },
   {
     "id": 2,
-    "nom": "BRAVOS",
+    "nom": "Bravos",
     "couleur": "#B12420"
   },
   {
     "id": 3,
-    "nom": "LYRA",
+    "nom": "Lyra",
     "couleur": "#C4335F"
   },
   {
     "id": 4,
-    "nom": "MUNA",
+    "nom": "Muna",
     "couleur": "#39693F"
   },
   {
     "id": 5,
-    "nom": "ORDIS",
+    "nom": "Ordis",
     "couleur": "#005976"
   },
   {
     "id": 6,
-    "nom": "YZMIR",
+    "nom": "Yzmir",
     "couleur": "#7E497B"
   }
 ]
