@@ -411,7 +411,7 @@
   },
   {
     "id": 41,
-    "num": "109",
+    "num": "110",
     "imgU": "cartes/set4/bravos/jeton-halua.webp",
     "imgR": "cartes/set4/bravos/jeton-halua.webp",
     "imgC": "cartes/set4/bravos/jeton-halua.webp",
@@ -577,7 +577,7 @@
     "imgC": "cartes/set4/lyra/0_commune/sceau-lyra_alt.webp",
     "nom": "Sceau Lyra (alt)",
     "faction": "Lyra",
-    "illustrateurice": "IIIIIIIII"
+    "illustrateurice": "Iris Wincker"
   },
   {
     "id": 41,
@@ -787,7 +787,7 @@
     "imgC": "cartes/set4/muna/0_commune/sceau-muna_alt.webp",
     "nom": "Sceau Muna (alt)",
     "faction": "Muna",
-    "illustrateurice": "IIIIIIIIIIIII"
+    "illustrateurice": "Iris Wincker"
   },
   {
     "id": 41,
@@ -987,7 +987,7 @@
     "imgC": "cartes/set4/ordis/0_commune/sceau-ordis_alt.webp",
     "nom": "Sceau Ordis (alt)",
     "faction": "Ordis",
-    "illustrateurice": "IIIIIIIIIIIII"
+    "illustrateurice": "Iris Wincker"
   },
   {
     "id": 41,
@@ -1031,12 +1031,212 @@
   },
   {
     "id": 41,
-    "num": "74",
-    "imgU": "cartes/set4/ordis/AAAAAAAA.webp",
-    "imgR": "cartes/set4/ordis/0_rare/BBBBBBBB.webp",
-    "imgC": "cartes/set4/ordis/0_commune/CCCCCCCC.webp",
-    "nom": "DDDDDDDDDD",
-    "faction": "Ordis",
-    "illustrateurice": "IIIIIIIIIIIII"
+    "num": "91",
+    "imgU": "cartes/set4/yzmir/moyo.webp",
+    "imgR": "cartes/set4/yzmir/moyo.webp",
+    "imgC": "cartes/set4/yzmir/moyo.webp",
+    "nom": "Moyo & Silk",
+    "faction": "Yzmir",
+    "illustrateurice": "Taras Susak"
+  },
+  {
+    "id": 41,
+    "num": "92",
+    "imgU": "cartes/set4/yzmir/ondine.webp",
+    "imgR": "cartes/set4/yzmir/0_rare/ondine.webp",
+    "imgC": "cartes/set4/yzmir/0_commune/ondine.webp",
+    "nom": "Ondine",
+    "faction": "Yzmir",
+    "illustrateurice": "Leena Sooba"
+  },
+  {
+    "id": 41,
+    "num": "93",
+    "imgU": "cartes/set4/yzmir/acolyte-studieux.webp",
+    "imgR": "cartes/set4/yzmir/0_rare/acolyte-studieux.webp",
+    "imgC": "cartes/set4/yzmir/0_commune/acolyte-studieux.webp",
+    "nom": "Acolyte Studieux",
+    "faction": "Yzmir",
+    "illustrateurice": "Tristan Bideau"
+  },
+  {
+    "id": 41,
+    "num": "94",
+    "imgU": "cartes/set4/yzmir/la-tortue.webp",
+    "imgR": "cartes/set4/yzmir/0_rare/la-tortue.webp",
+    "imgC": "cartes/set4/yzmir/0_commune/la-tortue.webp",
+    "nom": "La Tortue",
+    "faction": "Yzmir",
+    "illustrateurice": "Matteo Spirito"
+  },
+  {
+    "id": 41,
+    "num": "95",
+    "imgU": "cartes/set4/yzmir/kali.webp",
+    "imgR": "cartes/set4/yzmir/0_rare/kali.webp",
+    "imgC": "cartes/set4/yzmir/0_commune/kali.webp",
+    "nom": "Kali",
+    "faction": "Yzmir",
+    "illustrateurice": "Zero Wen"
+  },
+  {
+    "id": 41,
+    "num": "96",
+    "imgU": "cartes/set4/yzmir/singe-aile.webp",
+    "imgR": "cartes/set4/yzmir/0_rare/singe-aile.webp",
+    "imgC": "cartes/set4/yzmir/0_commune/singe-aile.webp",
+    "nom": "Singe Ailé",
+    "faction": "Yzmir",
+    "illustrateurice": "Anh Tung"
+  },
+  {
+    "id": 41,
+    "num": "97",
+    "imgU": "cartes/set4/yzmir/caladrius.webp",
+    "imgR": "cartes/set4/yzmir/0_rare/caladrius.webp",
+    "imgC": "cartes/set4/yzmir/0_commune/caladrius.webp",
+    "nom": "Caladrius",
+    "faction": "Yzmir",
+    "illustrateurice": "Fahmi Fauzi"
+  },
+  {
+    "id": 41,
+    "num": "98",
+    "imgU": "cartes/set4/yzmir/suha-operatrice-du-qorgan.webp",
+    "imgR": "cartes/set4/yzmir/0_rare/suha-operatrice-du-qorgan.webp",
+    "imgC": "cartes/set4/yzmir/0_commune/suha-operatrice-du-qorgan.webp",
+    "nom": "Suha, Opératrice du Qorgan",
+    "faction": "Yzmir",
+    "illustrateurice": "Tristan Bideau"
+  },
+  {
+    "id": 41,
+    "num": "99",
+    "imgU": "cartes/set4/yzmir/shiva.webp",
+    "imgR": "cartes/set4/yzmir/0_rare/shiva.webp",
+    "imgC": "cartes/set4/yzmir/0_commune/shiva.webp",
+    "nom": "Shiva",
+    "faction": "Yzmir",
+    "illustrateurice": "Taras Susak"
+  },
+  {
+    "id": 41,
+    "num": "100a",
+    "imgU": "cartes/set4/yzmir/alelo-leviathan-enigmatique.webp",
+    "imgR": "cartes/set4/yzmir/0_rare/alelo-leviathan-enigmatique.webp",
+    "imgC": "cartes/set4/yzmir/0_commune/alelo-leviathan-enigmatique.webp",
+    "nom": "Alelo, Léviathan Énigmatique",
+    "faction": "Yzmir",
+    "illustrateurice": "Matteo Spirito"
+  },
+  {
+    "id": 41,
+    "num": "100b",
+    "imgU": "cartes/set4/yzmir/alelo-leviathan-enigmatique_alt.webp",
+    "imgR": "cartes/set4/yzmir/0_rare/alelo-leviathan-enigmatique_alt.webp",
+    "imgC": "cartes/set4/yzmir/0_commune/alelo-leviathan-enigmatique_alt.webp",
+    "nom": "Alelo, Léviathan Énigmatique (alt)",
+    "faction": "Yzmir",
+    "illustrateurice": "DOBA"
+  },
+  {
+    "id": 41,
+    "num": "101",
+    "imgU": "cartes/set4/yzmir/appat.webp",
+    "imgR": "cartes/set4/yzmir/0_rare/appat.webp",
+    "imgC": "cartes/set4/yzmir/0_commune/appat.webp",
+    "nom": "Appât",
+    "faction": "Yzmir",
+    "illustrateurice": "Kevin Sidharta"
+  },
+  {
+    "id": 41,
+    "num": "102a",
+    "imgU": "cartes/set4/yzmir/sceau-yzmir.webp",
+    "imgR": "cartes/set4/yzmir/0_rare/sceau-yzmir.webp",
+    "imgC": "cartes/set4/yzmir/0_commune/sceau-yzmir.webp",
+    "nom": "Sceau Yzmir",
+    "faction": "Yzmir",
+    "illustrateurice": "HuoMiao Studio"
+  },
+  {
+    "id": 41,
+    "num": "102b",
+    "imgU": "cartes/set4/yzmir/sceau-yzmir_alt.webp",
+    "imgR": "cartes/set4/yzmir/0_rare/sceau-yzmir_alt.webp",
+    "imgC": "cartes/set4/yzmir/0_commune/sceau-yzmir_alt.webp",
+    "nom": "Sceau Yzmir (alt)",
+    "faction": "Yzmir",
+    "illustrateurice": "Iris Wincker"
+  },
+  {
+    "id": 41,
+    "num": "103",
+    "imgU": "cartes/set4/yzmir/lavage-de-cerveau.webp",
+    "imgR": "cartes/set4/yzmir/0_rare/lavage-de-cerveau.webp",
+    "imgC": "cartes/set4/yzmir/0_commune/lavage-de-cerveau.webp",
+    "nom": "Lavage de Cerveau",
+    "faction": "Yzmir",
+    "illustrateurice": "DOBA"
+  },
+  {
+    "id": 41,
+    "num": "104",
+    "imgU": "cartes/set4/yzmir/collision-de-phalenes.webp",
+    "imgR": "cartes/set4/yzmir/0_rare/collision-de-phalenes.webp",
+    "imgC": "cartes/set4/yzmir/0_commune/collision-de-phalenes.webp",
+    "nom": "Collision de Phalènes",
+    "faction": "Yzmir",
+    "illustrateurice": "Ed Chee, S.Yong, Stephen"
+  },
+  {
+    "id": 41,
+    "num": "105",
+    "imgU": "cartes/set4/yzmir/apparition-de-phalene.webp",
+    "imgR": "cartes/set4/yzmir/0_rare/apparition-de-phalene.webp",
+    "imgC": "cartes/set4/yzmir/0_commune/apparition-de-phalene.webp",
+    "nom": "Apparition de Phalène",
+    "faction": "Yzmir",
+    "illustrateurice": "HuoMiao Studio"
+  },
+  {
+    "id": 41,
+    "num": "106",
+    "imgU": "cartes/set4/yzmir/fureur-de-sakarabru.webp",
+    "imgR": "cartes/set4/yzmir/0_rare/fureur-de-sakarabru.webp",
+    "imgC": "cartes/set4/yzmir/0_commune/fureur-de-sakarabru.webp",
+    "nom": "Fureur de Sakarabru",
+    "faction": "Yzmir",
+    "illustrateurice": "DOBA"
+  },
+  {
+    "id": 41,
+    "num": "107",
+    "imgU": "cartes/set4/yzmir/trahison.webp",
+    "imgR": "cartes/set4/yzmir/0_rare/trahison.webp",
+    "imgC": "cartes/set4/yzmir/0_commune/trahison.webp",
+    "nom": "Trahuson",
+    "faction": "Yzmir",
+    "illustrateurice": "Justice Wong"
+  },
+  {
+    "id": 41,
+    "num": "108",
+    "imgU": "cartes/set4/yzmir/le-puits-des-larmes.webp",
+    "imgR": "cartes/set4/yzmir/0_rare/le-puits-des-larmes.webp",
+    "imgC": "cartes/set4/yzmir/0_commune/le-puits-des-larmes.webp",
+    "nom": "Le Puits des Larmes",
+    "faction": "Yzmir",
+    "illustrateurice": "Khoa Viet"
+  },
+  {
+    "id": 41,
+    "num": "113",
+    "imgU": "cartes/set4/yzmir/jeton-phalene.webp",
+    "imgR": "cartes/set4/yzmir/jeton-phalene.webp",
+    "imgC": "cartes/set4/yzmir/jeton-phalene.webp",
+    "nom": "Jeton Phalène",
+    "faction": "Yzmir",
+    "illustrateurice": "Justice Wong"
   }
 ]
