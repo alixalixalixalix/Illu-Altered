@@ -1,0 +1,412 @@
+[
+  {
+    "id": 0,
+    "num": "01",
+    "imgU": "cartes/set4/axiom/isaree.webp",
+    "imgR": "cartes/set4/axiom/isaree.webp",
+    "imgC": "cartes/set4/axiom/isaree.webp",
+    "nom": "Isaree & Pebble",
+    "faction": "Axiom",
+    "illustrateurice": "Justice Wong"
+  },
+  {
+    "id": 1,
+    "num": "02",
+    "imgU": "cartes/set4/axiom/gavroche.webp",
+    "imgR": "cartes/set4/axiom/0_rare/gavroche.webp",
+    "imgC": "cartes/set4/axiom/0_commune/gavroche.webp",
+    "nom": "Gavroche",
+    "faction": "Axiom",
+    "illustrateurice": "Anh Tung"
+  },
+  {
+    "id": 2,
+    "num": "03",
+    "imgU": "cartes/set4/axiom/bessie-coleman.webp",
+    "imgR": "cartes/set4/axiom/0_rare/bessie-coleman.webp",
+    "imgC": "cartes/set4/axiom/0_commune/bessie-coleman.webp",
+    "nom": "Bessie Coleman",
+    "faction": "Axiom",
+    "illustrateurice": "DOBA"
+  },
+  {
+    "id": 3,
+    "num": "04",
+    "imgU": "cartes/set4/axiom/expert-en-demolition.webp",
+    "imgR": "cartes/set4/axiom/0_rare/expert-en-demolition.webp",
+    "imgC": "cartes/set4/axiom/0_commune/expert-en-demolition.webp",
+    "nom": "Expert en Démolition",
+    "faction": "Axiom",
+    "illustrateurice": "Victor Canton"
+  },
+  {
+    "id": 4,
+    "num": "05",
+    "imgU": "cartes/set4/axiom/paju-pilote-axiom.webp",
+    "imgR": "cartes/set4/axiom/0_rare/paju-pilote-axiom.webp",
+    "imgC": "cartes/set4/axiom/0_commune/paju-pilote-axiom.webp",
+    "nom": "Paju, Pilote Axiom",
+    "faction": "Axiom",
+    "illustrateurice": "Victor Canton"
+  },
+  {
+    "id": 5,
+    "num": "06",
+    "imgU": "cartes/set4/axiom/marionnettiste-axiom.webp",
+    "imgR": "cartes/set4/axiom/0_rare/marionnettiste-axiom.webp",
+    "imgC": "cartes/set4/axiom/0_commune/marionnettiste-axiom.webp",
+    "nom": "Marionnettiste Axiom",
+    "faction": "Axiom",
+    "illustrateurice": "Anh Tung"
+  },
+  {
+    "id": 6,
+    "num": "07",
+    "imgU": "cartes/set4/axiom/marie-curie.webp",
+    "imgR": "cartes/set4/axiom/0_rare/marie-curie.webp",
+    "imgC": "cartes/set4/axiom/0_commune/marie-curie.webp",
+    "nom": "Marie Curie",
+    "faction": "Axiom",
+    "illustrateurice": "Taras Susak"
+  },
+  {
+    "id": 7,
+    "num": "08",
+    "imgU": "cartes/set4/axiom/meduse.webp",
+    "imgR": "cartes/set4/axiom/0_rare/meduse.webp",
+    "imgC": "cartes/set4/axiom/0_commune/meduse.webp",
+    "nom": "Méduse",
+    "faction": "Axiom",
+    "illustrateurice": "Nestor Papatriantafyllou"
+  },
+  {
+    "id": 8,
+    "num": "09",
+    "imgU": "cartes/set4/axiom/farfetch-2-0.webp",
+    "imgR": "cartes/set4/axiom/0_rare/farfetch-2-0.webp",
+    "imgC": "cartes/set4/axiom/0_commune/farfetch-2-0.webp",
+    "nom": "FarFetch 2.0",
+    "faction": "Axiom",
+    "illustrateurice": "Zael"
+  },
+  {
+    "id": 9,
+    "num": "10a",
+    "imgU": "cartes/set4/axiom/lucan-leviathan-affame.webp",
+    "imgR": "cartes/set4/axiom/0_rare/lucan-leviathan-affame.webp",
+    "imgC": "cartes/set4/axiom/0_commune/lucan-leviathan-affame.webp",
+    "nom": "Lucan, Léviathan Affamé",
+    "faction": "Axiom",
+    "illustrateurice": "Jean-Baptiste Andrier"
+  },
+  {
+    "id": 10,
+    "num": "10b",
+    "imgU": "cartes/set4/axiom/lucan-leviathan-affame_alt.webp",
+    "imgR": "cartes/set4/axiom/0_rare/lucan-leviathan-affame_alt.webp",
+    "imgC": "cartes/set4/axiom/0_commune/lucan-leviathan-affame_alt.webp",
+    "nom": "Lucan, Léviathan Affamé",
+    "faction": "Axiom",
+    "illustrateurice": "Anh Tung"
+  },
+  {
+    "id": 11,
+    "num": "11a",
+    "imgU": "cartes/set4/axiom/sceau-axiom.webp",
+    "imgR": "cartes/set4/axiom/0_rare/sceau-axiom.webp",
+    "imgC": "cartes/set4/axiom/0_commune/sceau-axiom.webp",
+    "nom": "Sceau Axiom",
+    "faction": "Axiom",
+    "illustrateurice": "Jean-Baptiste Andrier"
+  },
+  {
+    "id": 12,
+    "num": "11b",
+    "imgU": "cartes/set4/axiom/sceau-axiom_alt.webp",
+    "imgR": "cartes/set4/axiom/0_rare/sceau-axiom_alt.webp",
+    "imgC": "cartes/set4/axiom/0_commune/sceau-axiom_alt.webp",
+    "nom": "Sceau Axiom",
+    "faction": "Axiom",
+    "illustrateurice": "EEEEEEEEEEEEEE"
+  },
+  {
+    "id": 13,
+    "num": "12",
+    "imgU": "cartes/set4/axiom/detonation.webp",
+    "imgR": "cartes/set4/axiom/0_rare/detonation.webp",
+    "imgC": "cartes/set4/axiom/0_commune/detonation.webp",
+    "nom": "Détonation",
+    "faction": "Axiom",
+    "illustrateurice": "Jean-Baptiste Andrier"
+  },
+  {
+    "id": 14,
+    "num": "13",
+    "imgU": "cartes/set4/axiom/station-de-reapprovionnement.webp",
+    "imgR": "cartes/set4/axiom/0_rare/station-de-reapprovionnement.webp",
+    "imgC": "cartes/set4/axiom/0_commune/station-de-reapprovionnement.webp",
+    "nom": "Station de Réapprovisionnement",
+    "faction": "Axiom",
+    "illustrateurice": "Jean-Baptiste Andrier"
+  },
+  {
+    "id": 15,
+    "num": "14",
+    "imgU": "cartes/set4/axiom/carriere-daerolithe.webp",
+    "imgR": "cartes/set4/axiom/0_rare/carriere-daerolithe.webp",
+    "imgC": "cartes/set4/axiom/0_commune/carriere-daerolithe.webp",
+    "nom": "Carrière d'Aérolithe",
+    "faction": "Axiom",
+    "illustrateurice": "Jean-Baptiste Andrier"
+  },
+  {
+    "id": 16,
+    "num": "15",
+    "imgU": "cartes/set4/axiom/recif-daerolithe.webp",
+    "imgR": "cartes/set4/axiom/0_rare/recif-daerolithe.webp",
+    "imgC": "cartes/set4/axiom/0_commune/recif-daerolithe.webp",
+    "nom": "Récif d'Aérolithe",
+    "faction": "Axiom",
+    "illustrateurice": "Khoa Viet"
+  },
+  {
+    "id": 17,
+    "num": "16",
+    "imgU": "cartes/set4/axiom/navette-des-scarabots.webp",
+    "imgR": "cartes/set4/axiom/0_rare/navette-des-scarabots.webp",
+    "imgC": "cartes/set4/axiom/0_commune/navette-des-scarabots.webp",
+    "nom": "Navette des Scarabots",
+    "faction": "Axiom",
+    "illustrateurice": "Kevin Sidharta"
+  },
+  {
+    "id": 18,
+    "num": "17",
+    "imgU": "cartes/set4/axiom/depot-abandonne.webp",
+    "imgR": "cartes/set4/axiom/0_rare/depot-abandonne.webp",
+    "imgC": "cartes/set4/axiom/0_commune/depot-abandonne.webp",
+    "nom": "Dépôt Abandonné",
+    "faction": "Axiom",
+    "illustrateurice": "Taras Susak"
+  },
+  {
+    "id": 19,
+    "num": "18",
+    "imgU": "cartes/set4/axiom/couveuse-des-scarabots.webp",
+    "imgR": "cartes/set4/axiom/0_rare/couveuse-des-scarabots.webp",
+    "imgC": "cartes/set4/axiom/0_commune/couveuse-des-scarabots.webp",
+    "nom": "Couveuse des Scarabots",
+    "faction": "Axiom",
+    "illustrateurice": "Justice Wong"
+  },
+  {
+    "id": 20,
+    "num": "109",
+    "imgU": "cartes/set4/axiom/scarabots.webp",
+    "imgR": "cartes/set4/axiom/scarabots.webp",
+    "imgC": "cartes/set4/axiom/scarabots.webp",
+    "nom": "Jeton Scarabot",
+    "faction": "Axiom",
+    "illustrateurice": "Justice Wong"
+  },
+  {
+    "id": 20,
+    "num": "19",
+    "imgU": "cartes/set4/bravos/sol.webp",
+    "imgR": "cartes/set4/bravos/sol.webp",
+    "imgC": "cartes/set4/bravos/sol.webp",
+    "nom": "Sol & Halua",
+    "faction": "Bravos",
+    "illustrateurice": "Justice Wong"
+  },
+  {
+    "id": 20,
+    "num": "20",
+    "imgU": "cartes/set4/bravos/grenouille-bondissante.webp",
+    "imgR": "cartes/set4/bravos/grenouille-bondissante.webp",
+    "imgC": "cartes/set4/bravos/grenouille-bondissante.webp",
+    "nom": "Grenouille Bondissante",
+    "faction": "Bravos",
+    "illustrateurice": "Abigael Giroud"
+  },
+  {
+    "id": 20,
+    "num": "21",
+    "imgU": "cartes/set4/bravos/partenaire-daltrun.webp",
+    "imgR": "cartes/set4/bravos/partenaire-daltrun.webp",
+    "imgC": "cartes/set4/bravos/partenaire-daltrun.webp",
+    "nom": "Partenaire d'Altrun",
+    "faction": "Bravos",
+    "illustrateurice": "Ed Chee, S Yong, Stephen"
+  },
+  {
+    "id": 20,
+    "num": "22",
+    "imgU": "cartes/set4/bravos/tengu.webp",
+    "imgR": "cartes/set4/bravos/tengu.webp",
+    "imgC": "cartes/set4/bravos/tengu.webp",
+    "nom": "Tengu",
+    "faction": "Bravos",
+    "illustrateurice": "Ed Chee, S Yong, Stephen"
+  },
+  {
+    "id": 23,
+    "num": "23",
+    "imgU": "cartes/set4/bravos/guetteur-de-leviathans.webp",
+    "imgR": "cartes/set4/bravos/guetteur-de-leviathans.webp",
+    "imgC": "cartes/set4/bravos/guetteur-de-leviathans.webp",
+    "nom": "Guetteur de Léviathans",
+    "faction": "Bravos",
+    "illustrateurice": "Justice Wong"
+  },
+  {
+    "id": 24,
+    "num": "24",
+    "imgU": "cartes/set4/bravos/djinn-ardent.webp",
+    "imgR": "cartes/set4/bravos/djinn-ardent.webp",
+    "imgC": "cartes/set4/bravos/djinn-ardent.webp",
+    "nom": "Djinn Ardent",
+    "faction": "Bravos",
+    "illustrateurice": "Jean-Baptiste Andrier"
+  },
+  {
+    "id": 20,
+    "num": "25",
+    "imgU": "cartes/set4/bravos/pheleas-fogg.webp",
+    "imgR": "cartes/set4/bravos/pheleas-fogg.webp",
+    "imgC": "cartes/set4/bravos/pheleas-fogg.webp",
+    "nom": "Phileas Fogg",
+    "faction": "Bravos",
+    "illustrateurice": "DOBA"
+  },
+  {
+    "id": 20,
+    "num": "26",
+    "imgU": "cartes/set4/bravos/harponneuse-bravos.webp",
+    "imgR": "cartes/set4/bravos/harponneuse-bravos.webp",
+    "imgC": "cartes/set4/bravos/harponneuse-bravos.webp",
+    "nom": "Harponneuse Bravos",
+    "faction": "Bravos",
+    "illustrateurice": "Justice Wong"
+  },
+  {
+    "id": 20,
+    "num": "27",
+    "imgU": "cartes/set4/bravos/parachutiste-en-wingsuit.webp",
+    "imgR": "cartes/set4/bravos/parachutiste-en-wingsuit.webp",
+    "imgC": "cartes/set4/bravos/parachutiste-en-wingsuit.webp",
+    "nom": "Parachutiste en Wingsuit",
+    "faction": "Bravos",
+    "illustrateurice": "Justice Wong"
+  },
+  {
+    "id": 20,
+    "num": "28",
+    "imgU": "cartes/set4/bravos/priya-signaleuse-bravos.webp",
+    "imgR": "cartes/set4/bravos/priya-signaleuse-bravos.webp",
+    "imgC": "cartes/set4/bravos/priya-signaleuse-bravos.webp",
+    "nom": "Priya, Signaleuse Bravos",
+    "faction": "Bravos",
+    "illustrateurice": "DOBA"
+  },
+  {
+    "id": 20,
+    "num": "29",
+    "imgU": "cartes/set4/bravos/le-lievre.webp",
+    "imgR": "cartes/set4/bravos/le-lievre.webp",
+    "imgC": "cartes/set4/bravos/le-lievre.webp",
+    "nom": "Le Lièvre",
+    "faction": "Bravos",
+    "illustrateurice": "DOBA"
+  },
+  {
+    "id": 20,
+    "num": "30",
+    "imgU": "cartes/set4/bravos/beowulf.webp",
+    "imgR": "cartes/set4/bravos/beowulf.webp",
+    "imgC": "cartes/set4/bravos/beowulf.webp",
+    "nom": "Beowulf",
+    "faction": "Bravos",
+    "illustrateurice": "Justice Wong"
+  },
+  {
+    "id": 20,
+    "num": "31a",
+    "imgU": "cartes/set4/bravos/halua-leviathan-dechaine.webp",
+    "imgR": "cartes/set4/bravos/halua-leviathan-dechaine.webp",
+    "imgC": "cartes/set4/bravos/halua-leviathan-dechaine.webp",
+    "nom": "Halua, Léviathan Déchaîné",
+    "faction": "Bravos",
+    "illustrateurice": "Matteo Spirito"
+  },
+  {
+    "id": 20,
+    "num": "31b",
+    "imgU": "cartes/set4/bravos/halua-leviathan-dechaine_alt.webp",
+    "imgR": "cartes/set4/bravos/halua-leviathan-dechaine_alt.webp",
+    "imgC": "cartes/set4/bravos/halua-leviathan-dechaine_alt.webp",
+    "nom": "Halua, Léviathan Déchaîné",
+    "faction": "Bravos",
+    "illustrateurice": "Tristan Bideau"
+  },
+  {
+    "id": 20,
+    "num": "32",
+    "imgU": "cartes/set4/bravos/rage.webp",
+    "imgR": "cartes/set4/bravos/rage.webp",
+    "imgC": "cartes/set4/bravos/rage.webp",
+    "nom": "Rage",
+    "faction": "Bravos",
+    "illustrateurice": "Justice Wong"
+  },
+  {
+    "id": 20,
+    "num": "33a",
+    "imgU": "cartes/set4/bravos/sceau-bravos.webp",
+    "imgR": "cartes/set4/bravos/sceau-bravos.webp",
+    "imgC": "cartes/set4/bravos/sceau-bravos.webp",
+    "nom": "Sceau Bravos",
+    "faction": "Bravos",
+    "illustrateurice": "Ed Chee, S Yong, Stephen"
+  },
+  {
+    "id": 20,
+    "num": "33b",
+    "imgU": "cartes/set4/bravos/sceau-bravos_alt.webp",
+    "imgR": "cartes/set4/bravos/sceau-bravos_alt.webp",
+    "imgC": "cartes/set4/bravos/sceau-bravos_alt.webp",
+    "nom": "Sceau Bravos",
+    "faction": "Bravos",
+    "illustrateurice": ""
+  },
+  {
+    "id": 20,
+    "num": "34",
+    "imgU": "cartes/set4/bravos/la-chasse-de-sol.webp",
+    "imgR": "cartes/set4/bravos/la-chasse-de-sol.webp",
+    "imgC": "cartes/set4/bravos/la-chasse-de-sol.webp",
+    "nom": "La Chasse de Sol",
+    "faction": "Bravos",
+    "illustrateurice": "Justice Wong"
+  },
+  {
+    "id": 20,
+    "num": "35",
+    "imgU": "cartes/set4/bravos/chantier-naval-volant.webp",
+    "imgR": "cartes/set4/bravos/chantier-naval-volant.webp",
+    "imgC": "cartes/set4/bravos/chantier-naval-volant.webp",
+    "nom": "Chantier Naval Volant",
+    "faction": "Bravos",
+    "illustrateurice": "Ed Chee, S Yong, Stephen"
+  },
+  {
+    "id": 20,
+    "num": "36",
+    "imgU": "cartes/set4/bravos/parlement-des-cendres.webp",
+    "imgR": "cartes/set4/bravos/parlement-des-cendres.webp",
+    "imgC": "cartes/set4/bravos/parlement-des-cendres.webp",
+    "nom": "Parlement des Cendres",
+    "faction": "Bravos",
+    "illustrateurice": "Nestor Papatriantafyllou"
+  }
+]

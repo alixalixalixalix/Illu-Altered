@@ -170,6 +170,10 @@ select {
         opacity: 0.6;
         cursor: pointer;
       }
+      img {
+        width: 24px;
+        cursor: pointer;
+      }
     }
     .gridActif,
     .rareteActive {
@@ -179,7 +183,19 @@ select {
   }
 }
 
-
 .commune, .rare {
   display: none;
+}
+
+span {
+  display: none;
+  position: absolute;
+  background: #CCCCCC;
+  color: black;
+  padding: 2px 4px;
+  border-radius: 4px;
+}
+
+a:hover span {
+  display: flex;
 }
