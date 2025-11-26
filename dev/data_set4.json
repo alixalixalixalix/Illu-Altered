@@ -1,6 +1,6 @@
 [
   {
-    "id": 0,
+    "id": 1,
     "num": "01",
     "imgU": "cartes/set4/axiom/isaree.webp",
     "imgR": "cartes/set4/axiom/isaree.webp",
@@ -10,7 +10,7 @@
     "illustrateurice": "Justice Wong"
   },
   {
-    "id": 1,
+    "id": 2,
     "num": "02",
     "imgU": "cartes/set4/axiom/gavroche.webp",
     "imgR": "cartes/set4/axiom/0_rare/gavroche.webp",
@@ -20,7 +20,7 @@
     "illustrateurice": "Anh Tung"
   },
   {
-    "id": 2,
+    "id": 3,
     "num": "03",
     "imgU": "cartes/set4/axiom/bessie-coleman.webp",
     "imgR": "cartes/set4/axiom/0_rare/bessie-coleman.webp",
@@ -30,7 +30,7 @@
     "illustrateurice": "DOBA"
   },
   {
-    "id": 3,
+    "id": 4,
     "num": "04",
     "imgU": "cartes/set4/axiom/expert-en-demolition.webp",
     "imgR": "cartes/set4/axiom/0_rare/expert-en-demolition.webp",
@@ -40,7 +40,7 @@
     "illustrateurice": "Victor Canton"
   },
   {
-    "id": 4,
+    "id": 5,
     "num": "05",
     "imgU": "cartes/set4/axiom/paju-pilote-axiom.webp",
     "imgR": "cartes/set4/axiom/0_rare/paju-pilote-axiom.webp",
@@ -50,7 +50,7 @@
     "illustrateurice": "Victor Canton"
   },
   {
-    "id": 5,
+    "id": 6,
     "num": "06",
     "imgU": "cartes/set4/axiom/marionnettiste-axiom.webp",
     "imgR": "cartes/set4/axiom/0_rare/marionnettiste-axiom.webp",
@@ -60,7 +60,7 @@
     "illustrateurice": "Anh Tung"
   },
   {
-    "id": 6,
+    "id": 7,
     "num": "07",
     "imgU": "cartes/set4/axiom/marie-curie.webp",
     "imgR": "cartes/set4/axiom/0_rare/marie-curie.webp",
@@ -70,7 +70,7 @@
     "illustrateurice": "Taras Susak"
   },
   {
-    "id": 7,
+    "id": 8,
     "num": "08",
     "imgU": "cartes/set4/axiom/meduse.webp",
     "imgR": "cartes/set4/axiom/0_rare/meduse.webp",
@@ -80,7 +80,7 @@
     "illustrateurice": "Nestor Papatriantafyllou"
   },
   {
-    "id": 8,
+    "id": 9,
     "num": "09",
     "imgU": "cartes/set4/axiom/farfetch-2-0.webp",
     "imgR": "cartes/set4/axiom/0_rare/farfetch-2-0.webp",
@@ -90,7 +90,7 @@
     "illustrateurice": "Zael"
   },
   {
-    "id": 9,
+    "id": 10,
     "num": "10a",
     "imgU": "cartes/set4/axiom/lucan-leviathan-affame.webp",
     "imgR": "cartes/set4/axiom/0_rare/lucan-leviathan-affame.webp",
@@ -100,17 +100,17 @@
     "illustrateurice": "Jean-Baptiste Andrier"
   },
   {
-    "id": 10,
+    "id": 11,
     "num": "10b",
     "imgU": "cartes/set4/axiom/lucan-leviathan-affame_alt.webp",
     "imgR": "cartes/set4/axiom/0_rare/lucan-leviathan-affame_alt.webp",
     "imgC": "cartes/set4/axiom/0_commune/lucan-leviathan-affame_alt.webp",
-    "nom": "Lucan, Léviathan Affamé",
+    "nom": "Lucan, Léviathan Affamé (alt)",
     "faction": "Axiom",
     "illustrateurice": "Anh Tung"
   },
   {
-    "id": 11,
+    "id": 12,
     "num": "11a",
     "imgU": "cartes/set4/axiom/sceau-axiom.webp",
     "imgR": "cartes/set4/axiom/0_rare/sceau-axiom.webp",
@@ -120,17 +120,17 @@
     "illustrateurice": "Jean-Baptiste Andrier"
   },
   {
-    "id": 12,
+    "id": 13,
     "num": "11b",
     "imgU": "cartes/set4/axiom/sceau-axiom_alt.webp",
     "imgR": "cartes/set4/axiom/0_rare/sceau-axiom_alt.webp",
     "imgC": "cartes/set4/axiom/0_commune/sceau-axiom_alt.webp",
-    "nom": "Sceau Axiom",
+    "nom": "Sceau Axiom (alt)",
     "faction": "Axiom",
     "illustrateurice": "EEEEEEEEEEEEEE"
   },
   {
-    "id": 13,
+    "id": 14,
     "num": "12",
     "imgU": "cartes/set4/axiom/detonation.webp",
     "imgR": "cartes/set4/axiom/0_rare/detonation.webp",
@@ -140,7 +140,7 @@
     "illustrateurice": "Jean-Baptiste Andrier"
   },
   {
-    "id": 14,
+    "id": 15,
     "num": "13",
     "imgU": "cartes/set4/axiom/station-de-reapprovionnement.webp",
     "imgR": "cartes/set4/axiom/0_rare/station-de-reapprovionnement.webp",
@@ -150,7 +150,7 @@
     "illustrateurice": "Jean-Baptiste Andrier"
   },
   {
-    "id": 15,
+    "id": 16,
     "num": "14",
     "imgU": "cartes/set4/axiom/carriere-daerolithe.webp",
     "imgR": "cartes/set4/axiom/0_rare/carriere-daerolithe.webp",
@@ -160,7 +160,7 @@
     "illustrateurice": "Jean-Baptiste Andrier"
   },
   {
-    "id": 16,
+    "id": 17,
     "num": "15",
     "imgU": "cartes/set4/axiom/recif-daerolithe.webp",
     "imgR": "cartes/set4/axiom/0_rare/recif-daerolithe.webp",
@@ -170,7 +170,7 @@
     "illustrateurice": "Khoa Viet"
   },
   {
-    "id": 17,
+    "id": 18,
     "num": "16",
     "imgU": "cartes/set4/axiom/navette-des-scarabots.webp",
     "imgR": "cartes/set4/axiom/0_rare/navette-des-scarabots.webp",
@@ -180,7 +180,7 @@
     "illustrateurice": "Kevin Sidharta"
   },
   {
-    "id": 18,
+    "id": 19,
     "num": "17",
     "imgU": "cartes/set4/axiom/depot-abandonne.webp",
     "imgR": "cartes/set4/axiom/0_rare/depot-abandonne.webp",
@@ -190,7 +190,7 @@
     "illustrateurice": "Taras Susak"
   },
   {
-    "id": 19,
+    "id": 20,
     "num": "18",
     "imgU": "cartes/set4/axiom/couveuse-des-scarabots.webp",
     "imgR": "cartes/set4/axiom/0_rare/couveuse-des-scarabots.webp",
@@ -200,7 +200,7 @@
     "illustrateurice": "Justice Wong"
   },
   {
-    "id": 20,
+    "id": 21,
     "num": "109",
     "imgU": "cartes/set4/axiom/scarabots.webp",
     "imgR": "cartes/set4/axiom/scarabots.webp",
@@ -210,203 +210,833 @@
     "illustrateurice": "Justice Wong"
   },
   {
-    "id": 20,
+    "id": 22,
     "num": "19",
     "imgU": "cartes/set4/bravos/sol.webp",
-    "imgR": "cartes/set4/bravos/sol.webp",
-    "imgC": "cartes/set4/bravos/sol.webp",
+    "imgR": "cartes/set4/bravos/0_rare/sol.webp",
+    "imgC": "cartes/set4/bravos/0_commune/sol.webp",
     "nom": "Sol & Halua",
     "faction": "Bravos",
     "illustrateurice": "Justice Wong"
   },
   {
-    "id": 20,
+    "id": 23,
     "num": "20",
     "imgU": "cartes/set4/bravos/grenouille-bondissante.webp",
-    "imgR": "cartes/set4/bravos/grenouille-bondissante.webp",
-    "imgC": "cartes/set4/bravos/grenouille-bondissante.webp",
+    "imgR": "cartes/set4/bravos/0_rare/grenouille-bondissante.webp",
+    "imgC": "cartes/set4/bravos/0_commune/grenouille-bondissante.webp",
     "nom": "Grenouille Bondissante",
     "faction": "Bravos",
     "illustrateurice": "Abigael Giroud"
   },
   {
-    "id": 20,
+    "id": 24,
     "num": "21",
     "imgU": "cartes/set4/bravos/partenaire-daltrun.webp",
-    "imgR": "cartes/set4/bravos/partenaire-daltrun.webp",
-    "imgC": "cartes/set4/bravos/partenaire-daltrun.webp",
+    "imgR": "cartes/set4/bravos/0_rare/partenaire-daltrun.webp",
+    "imgC": "cartes/set4/bravos/0_commune/partenaire-daltrun.webp",
     "nom": "Partenaire d'Altrun",
     "faction": "Bravos",
-    "illustrateurice": "Ed Chee, S Yong, Stephen"
+    "illustrateurice": "Ed Chee, S.Yong, Stephen"
   },
   {
-    "id": 20,
+    "id": 25,
     "num": "22",
     "imgU": "cartes/set4/bravos/tengu.webp",
-    "imgR": "cartes/set4/bravos/tengu.webp",
-    "imgC": "cartes/set4/bravos/tengu.webp",
+    "imgR": "cartes/set4/bravos/0_rare/tengu.webp",
+    "imgC": "cartes/set4/bravos/0_commune/tengu.webp",
     "nom": "Tengu",
     "faction": "Bravos",
-    "illustrateurice": "Ed Chee, S Yong, Stephen"
+    "illustrateurice": "Ed Chee, S.Yong, Stephen"
   },
   {
-    "id": 23,
+    "id": 26,
     "num": "23",
     "imgU": "cartes/set4/bravos/guetteur-de-leviathans.webp",
-    "imgR": "cartes/set4/bravos/guetteur-de-leviathans.webp",
-    "imgC": "cartes/set4/bravos/guetteur-de-leviathans.webp",
+    "imgR": "cartes/set4/bravos/0_rare/guetteur-de-leviathans.webp",
+    "imgC": "cartes/set4/bravos/0_commune/guetteur-de-leviathans.webp",
     "nom": "Guetteur de Léviathans",
     "faction": "Bravos",
     "illustrateurice": "Justice Wong"
   },
   {
-    "id": 24,
+    "id": 27,
     "num": "24",
     "imgU": "cartes/set4/bravos/djinn-ardent.webp",
-    "imgR": "cartes/set4/bravos/djinn-ardent.webp",
-    "imgC": "cartes/set4/bravos/djinn-ardent.webp",
+    "imgR": "cartes/set4/bravos/0_rare/djinn-ardent.webp",
+    "imgC": "cartes/set4/bravos/0_commune/djinn-ardent.webp",
     "nom": "Djinn Ardent",
     "faction": "Bravos",
     "illustrateurice": "Jean-Baptiste Andrier"
   },
   {
-    "id": 20,
+    "id": 28,
     "num": "25",
     "imgU": "cartes/set4/bravos/pheleas-fogg.webp",
-    "imgR": "cartes/set4/bravos/pheleas-fogg.webp",
-    "imgC": "cartes/set4/bravos/pheleas-fogg.webp",
+    "imgR": "cartes/set4/bravos/0_rare/pheleas-fogg.webp",
+    "imgC": "cartes/set4/bravos/0_commune/pheleas-fogg.webp",
     "nom": "Phileas Fogg",
     "faction": "Bravos",
     "illustrateurice": "DOBA"
   },
   {
-    "id": 20,
+    "id": 29,
     "num": "26",
     "imgU": "cartes/set4/bravos/harponneuse-bravos.webp",
-    "imgR": "cartes/set4/bravos/harponneuse-bravos.webp",
-    "imgC": "cartes/set4/bravos/harponneuse-bravos.webp",
+    "imgR": "cartes/set4/bravos/0_rare/harponneuse-bravos.webp",
+    "imgC": "cartes/set4/bravos/0_commune/harponneuse-bravos.webp",
     "nom": "Harponneuse Bravos",
     "faction": "Bravos",
     "illustrateurice": "Justice Wong"
   },
   {
-    "id": 20,
+    "id": 30,
     "num": "27",
     "imgU": "cartes/set4/bravos/parachutiste-en-wingsuit.webp",
-    "imgR": "cartes/set4/bravos/parachutiste-en-wingsuit.webp",
-    "imgC": "cartes/set4/bravos/parachutiste-en-wingsuit.webp",
+    "imgR": "cartes/set4/bravos/0_rare/parachutiste-en-wingsuit.webp",
+    "imgC": "cartes/set4/bravos/0_commune/parachutiste-en-wingsuit.webp",
     "nom": "Parachutiste en Wingsuit",
     "faction": "Bravos",
     "illustrateurice": "Justice Wong"
   },
   {
-    "id": 20,
+    "id": 31,
     "num": "28",
     "imgU": "cartes/set4/bravos/priya-signaleuse-bravos.webp",
-    "imgR": "cartes/set4/bravos/priya-signaleuse-bravos.webp",
-    "imgC": "cartes/set4/bravos/priya-signaleuse-bravos.webp",
+    "imgR": "cartes/set4/bravos/0_rare/priya-signaleuse-bravos.webp",
+    "imgC": "cartes/set4/bravos/0_commune/priya-signaleuse-bravos.webp",
     "nom": "Priya, Signaleuse Bravos",
     "faction": "Bravos",
     "illustrateurice": "DOBA"
   },
   {
-    "id": 20,
+    "id": 32,
     "num": "29",
     "imgU": "cartes/set4/bravos/le-lievre.webp",
-    "imgR": "cartes/set4/bravos/le-lievre.webp",
-    "imgC": "cartes/set4/bravos/le-lievre.webp",
+    "imgR": "cartes/set4/bravos/0_rare/le-lievre.webp",
+    "imgC": "cartes/set4/bravos/0_commune/le-lievre.webp",
     "nom": "Le Lièvre",
     "faction": "Bravos",
     "illustrateurice": "DOBA"
   },
   {
-    "id": 20,
+    "id": 33,
     "num": "30",
     "imgU": "cartes/set4/bravos/beowulf.webp",
-    "imgR": "cartes/set4/bravos/beowulf.webp",
-    "imgC": "cartes/set4/bravos/beowulf.webp",
+    "imgR": "cartes/set4/bravos/0_rare/beowulf.webp",
+    "imgC": "cartes/set4/bravos/0_commune/beowulf.webp",
     "nom": "Beowulf",
     "faction": "Bravos",
     "illustrateurice": "Justice Wong"
   },
   {
-    "id": 20,
+    "id": 34,
     "num": "31a",
     "imgU": "cartes/set4/bravos/halua-leviathan-dechaine.webp",
-    "imgR": "cartes/set4/bravos/halua-leviathan-dechaine.webp",
-    "imgC": "cartes/set4/bravos/halua-leviathan-dechaine.webp",
+    "imgR": "cartes/set4/bravos/0_rare/halua-leviathan-dechaine.webp",
+    "imgC": "cartes/set4/bravos/0_commune/halua-leviathan-dechaine.webp",
     "nom": "Halua, Léviathan Déchaîné",
     "faction": "Bravos",
     "illustrateurice": "Matteo Spirito"
   },
   {
-    "id": 20,
+    "id": 35,
     "num": "31b",
     "imgU": "cartes/set4/bravos/halua-leviathan-dechaine_alt.webp",
-    "imgR": "cartes/set4/bravos/halua-leviathan-dechaine_alt.webp",
-    "imgC": "cartes/set4/bravos/halua-leviathan-dechaine_alt.webp",
-    "nom": "Halua, Léviathan Déchaîné",
+    "imgR": "cartes/set4/bravos/0_rare/halua-leviathan-dechaine_alt.webp",
+    "imgC": "cartes/set4/bravos/0_commune/halua-leviathan-dechaine_alt.webp",
+    "nom": "Halua, Léviathan Déchaîné (alt)",
     "faction": "Bravos",
     "illustrateurice": "Tristan Bideau"
   },
   {
-    "id": 20,
+    "id": 36,
     "num": "32",
     "imgU": "cartes/set4/bravos/rage.webp",
-    "imgR": "cartes/set4/bravos/rage.webp",
-    "imgC": "cartes/set4/bravos/rage.webp",
+    "imgR": "cartes/set4/bravos/0_rare/rage.webp",
+    "imgC": "cartes/set4/bravos/0_commune/rage.webp",
     "nom": "Rage",
     "faction": "Bravos",
     "illustrateurice": "Justice Wong"
   },
   {
-    "id": 20,
+    "id": 37,
     "num": "33a",
     "imgU": "cartes/set4/bravos/sceau-bravos.webp",
-    "imgR": "cartes/set4/bravos/sceau-bravos.webp",
-    "imgC": "cartes/set4/bravos/sceau-bravos.webp",
+    "imgR": "cartes/set4/bravos/0_rare/sceau-bravos.webp",
+    "imgC": "cartes/set4/bravos/0_commune/sceau-bravos.webp",
     "nom": "Sceau Bravos",
     "faction": "Bravos",
-    "illustrateurice": "Ed Chee, S Yong, Stephen"
+    "illustrateurice": "Ed Chee, S.Yong, Stephen"
   },
   {
-    "id": 20,
+    "id": 38,
     "num": "33b",
     "imgU": "cartes/set4/bravos/sceau-bravos_alt.webp",
-    "imgR": "cartes/set4/bravos/sceau-bravos_alt.webp",
-    "imgC": "cartes/set4/bravos/sceau-bravos_alt.webp",
-    "nom": "Sceau Bravos",
+    "imgR": "cartes/set4/bravos/0_rare/sceau-bravos_alt.webp",
+    "imgC": "cartes/set4/bravos/0_commune/sceau-bravos_alt.webp",
+    "nom": "Sceau Bravos (alt)",
     "faction": "Bravos",
     "illustrateurice": ""
   },
   {
-    "id": 20,
+    "id": 39,
     "num": "34",
     "imgU": "cartes/set4/bravos/la-chasse-de-sol.webp",
-    "imgR": "cartes/set4/bravos/la-chasse-de-sol.webp",
-    "imgC": "cartes/set4/bravos/la-chasse-de-sol.webp",
+    "imgR": "cartes/set4/bravos/0_rare/la-chasse-de-sol.webp",
+    "imgC": "cartes/set4/bravos/0_commune/la-chasse-de-sol.webp",
     "nom": "La Chasse de Sol",
     "faction": "Bravos",
     "illustrateurice": "Justice Wong"
   },
   {
-    "id": 20,
+    "id": 40,
     "num": "35",
     "imgU": "cartes/set4/bravos/chantier-naval-volant.webp",
-    "imgR": "cartes/set4/bravos/chantier-naval-volant.webp",
-    "imgC": "cartes/set4/bravos/chantier-naval-volant.webp",
+    "imgR": "cartes/set4/bravos/0_rare/chantier-naval-volant.webp",
+    "imgC": "cartes/set4/bravos/0_commune/chantier-naval-volant.webp",
     "nom": "Chantier Naval Volant",
     "faction": "Bravos",
-    "illustrateurice": "Ed Chee, S Yong, Stephen"
+    "illustrateurice": "Ed Chee, S.Yong, Stephen"
   },
   {
-    "id": 20,
+    "id": 41,
     "num": "36",
     "imgU": "cartes/set4/bravos/parlement-des-cendres.webp",
-    "imgR": "cartes/set4/bravos/parlement-des-cendres.webp",
-    "imgC": "cartes/set4/bravos/parlement-des-cendres.webp",
+    "imgR": "cartes/set4/bravos/0_rare/parlement-des-cendres.webp",
+    "imgC": "cartes/set4/bravos/0_commune/parlement-des-cendres.webp",
     "nom": "Parlement des Cendres",
     "faction": "Bravos",
     "illustrateurice": "Nestor Papatriantafyllou"
+  },
+  {
+    "id": 41,
+    "num": "109",
+    "imgU": "cartes/set4/bravos/jeton-halua.webp",
+    "imgR": "cartes/set4/bravos/jeton-halua.webp",
+    "imgC": "cartes/set4/bravos/jeton-halua.webp",
+    "nom": "Jeton Halua",
+    "faction": "Bravos",
+    "illustrateurice": "Fahmi Fauzi"
+  },
+  {
+    "id": 41,
+    "num": "37",
+    "imgU": "cartes/set4/lyra/nadir.webp",
+    "imgR": "cartes/set4/lyra/nadir.webp",
+    "imgC": "cartes/set4/lyra/nadir.webp",
+    "nom": "Nadir & Bubbles",
+    "faction": "Lyra",
+    "illustrateurice": "Zero Wen"
+  },
+  {
+    "id": 41,
+    "num": "38",
+    "imgU": "cartes/set4/lyra/guide-de-montagne.webp",
+    "imgR": "cartes/set4/lyra/0_rare/guide-de-montagne.webp",
+    "imgC": "cartes/set4/lyra/0_commune/guide-de-montagne.webp",
+    "nom": "Guide de Montagne",
+    "faction": "Lyra",
+    "illustrateurice": "Ba Vo"
+  },
+  {
+    "id": 41,
+    "num": "39",
+    "imgU": "cartes/set4/lyra/nymphe-des-forets.webp",
+    "imgR": "cartes/set4/lyra/0_rare/nymphe-des-forets.webp",
+    "imgC": "cartes/set4/lyra/0_commune/nymphe-des-forets.webp",
+    "nom": "Nymphe des Forêts",
+    "faction": "Lyra",
+    "illustrateurice": "HuoMiao Studio"
+  },
+  {
+    "id": 41,
+    "num": "40",
+    "imgU": "cartes/set4/lyra/champignon-collant.webp",
+    "imgR": "cartes/set4/lyra/0_rare/champignon-collant.webp",
+    "imgC": "cartes/set4/lyra/0_commune/champignon-collant.webp",
+    "nom": "Champignon Collant",
+    "faction": "Lyra",
+    "illustrateurice": "Khoa Viet"
+  },
+  {
+    "id": 41,
+    "num": "41",
+    "imgU": "cartes/set4/lyra/cartographe-lyra.webp",
+    "imgR": "cartes/set4/lyra/0_rare/cartographe-lyra.webp",
+    "imgC": "cartes/set4/lyra/0_commune/cartographe-lyra.webp",
+    "nom": "Cartographe Lyra",
+    "faction": "Lyra",
+    "illustrateurice": "Matteo Spirito"
+  },
+  {
+    "id": 41,
+    "num": "42",
+    "imgU": "cartes/set4/lyra/nymphe-des-mers.webp",
+    "imgR": "cartes/set4/lyra/0_rare/nymphe-des-mers.webp",
+    "imgC": "cartes/set4/lyra/0_commune/nymphe-des-mers.webp",
+    "nom": "Nymphe des Mers",
+    "faction": "Lyra",
+    "illustrateurice": "Nestor Papatriantafyllou"
+  },
+  {
+    "id": 41,
+    "num": "43",
+    "imgU": "cartes/set4/lyra/nymphe-des-montagnes.webp",
+    "imgR": "cartes/set4/lyra/0_rare/nymphe-des-montagnes.webp",
+    "imgC": "cartes/set4/lyra/0_commune/nymphe-des-montagnes.webp",
+    "nom": "Nymphe des Montagnes",
+    "faction": "Lyra",
+    "illustrateurice": "Tristan Bideau"
+  },
+  {
+    "id": 41,
+    "num": "44",
+    "imgU": "cartes/set4/lyra/acrobate-aerienne-lyra.webp",
+    "imgR": "cartes/set4/lyra/0_rare/acrobate-aerienne-lyra.webp",
+    "imgC": "cartes/set4/lyra/0_commune/acrobate-aerienne-lyra.webp",
+    "nom": "Acrobates Aérienne Lyra",
+    "faction": "Lyra",
+    "illustrateurice": "Jefrey Yonathan"
+  },
+  {
+    "id": 41,
+    "num": "45",
+    "imgU": "cartes/set4/lyra/daikokuten.webp",
+    "imgR": "cartes/set4/lyra/0_rare/daikokuten.webp",
+    "imgC": "cartes/set4/lyra/0_commune/daikokuten.webp",
+    "nom": "Daikokuten",
+    "faction": "Lyra",
+    "illustrateurice": "Zero Wen"
+  },
+  {
+    "id": 41,
+    "num": "46",
+    "imgU": "cartes/set4/lyra/nout.webp",
+    "imgR": "cartes/set4/lyra/0_rare/nout.webp",
+    "imgC": "cartes/set4/lyra/0_commune/nout.webp",
+    "nom": "Nout",
+    "faction": "Lyra",
+    "illustrateurice": "Exia"
+  },
+  {
+    "id": 41,
+    "num": "47a",
+    "imgU": "cartes/set4/lyra/koi-leviathan-espiegle.webp",
+    "imgR": "cartes/set4/lyra/0_rare/koi-leviathan-espiegle.webp",
+    "imgC": "cartes/set4/lyra/0_commune/koi-leviathan-espiegle.webp",
+    "nom": "Koï, Léviathan Espiègle",
+    "faction": "Lyra",
+    "illustrateurice": "Zero Wen"
+  },
+  {
+    "id": 41,
+    "num": "47b",
+    "imgU": "cartes/set4/lyra/koi-leviathan-espiegle_alt.webp",
+    "imgR": "cartes/set4/lyra/0_rare/koi-leviathan-espiegle_alt.webp",
+    "imgC": "cartes/set4/lyra/0_commune/koi-leviathan-espiegle_alt.webp",
+    "nom": "Koï, Léviathan Espiègle (alt)",
+    "faction": "Lyra",
+    "illustrateurice": "DOBA"
+  },
+  {
+    "id": 41,
+    "num": "48",
+    "imgU": "cartes/set4/lyra/eris.webp",
+    "imgR": "cartes/set4/lyra/0_rare/eris.webp",
+    "imgC": "cartes/set4/lyra/0_commune/eris.webp",
+    "nom": "Éris",
+    "faction": "Lyra",
+    "illustrateurice": "Zero Wen"
+  },
+  {
+    "id": 41,
+    "num": "49",
+    "imgU": "cartes/set4/lyra/vent-douest.webp",
+    "imgR": "cartes/set4/lyra/0_rare/vent-douest.webp",
+    "imgC": "cartes/set4/lyra/0_commune/vent-douest.webp",
+    "nom": "Vent d'Ouest",
+    "faction": "Lyra",
+    "illustrateurice": "Kevin Sidharta"
+  },
+  {
+    "id": 41,
+    "num": "50a",
+    "imgU": "cartes/set4/lyra/sceau-lyra.webp",
+    "imgR": "cartes/set4/lyra/0_rare/sceau-lyra.webp",
+    "imgC": "cartes/set4/lyra/0_commune/sceau-lyra.webp",
+    "nom": "Sceau Lyra",
+    "faction": "Lyra",
+    "illustrateurice": "Ed Chee, S.Yong, Stephen"
+  },
+  {
+    "id": 41,
+    "num": "50b",
+    "imgU": "cartes/set4/lyra/sceau-lyra_alt.webp",
+    "imgR": "cartes/set4/lyra/0_rare/sceau-lyra_alt.webp",
+    "imgC": "cartes/set4/lyra/0_commune/sceau-lyra_alt.webp",
+    "nom": "Sceau Lyra (alt)",
+    "faction": "Lyra",
+    "illustrateurice": "IIIIIIIII"
+  },
+  {
+    "id": 41,
+    "num": "51",
+    "imgU": "cartes/set4/lyra/benediction-de-la-cartographe.webp",
+    "imgR": "cartes/set4/lyra/0_rare/benediction-de-la-cartographe.webp",
+    "imgC": "cartes/set4/lyra/0_commune/benediction-de-la-cartographe.webp",
+    "nom": "Bénédiction de la Cartographe",
+    "faction": "Lyra",
+    "illustrateurice": "Anh Tung"
+  },
+  {
+    "id": 41,
+    "num": "52",
+    "imgU": "cartes/set4/lyra/perdu-dans-le-courant.webp",
+    "imgR": "cartes/set4/lyra/0_rare/perdu-dans-le-courant.webp",
+    "imgC": "cartes/set4/lyra/0_commune/perdu-dans-le-courant.webp",
+    "nom": "Perdu dans le Courant",
+    "faction": "Lyra",
+    "illustrateurice": "Anh Tung"
+  },
+  {
+    "id": 41,
+    "num": "53",
+    "imgU": "cartes/set4/lyra/lopera.webp",
+    "imgR": "cartes/set4/lyra/0_rare/lopera.webp",
+    "imgC": "cartes/set4/lyra/0_commune/lopera.webp",
+    "nom": "L'Opéra",
+    "faction": "Lyra",
+    "illustrateurice": "Ba Vo"
+  },
+  {
+    "id": 41,
+    "num": "54",
+    "imgU": "cartes/set4/lyra/latelier-de-peinture.webp",
+    "imgR": "cartes/set4/lyra/0_rare/latelier-de-peinture.webp",
+    "imgC": "cartes/set4/lyra/0_commune/latelier-de-peinture.webp",
+    "nom": "L'Atelier de Peinture",
+    "faction": "Lyra",
+    "illustrateurice": "Tristan Bideau"
+  },
+  {
+    "id": 41,
+    "num": "55",
+    "imgU": "cartes/set4/muna/kauri.webp",
+    "imgR": "cartes/set4/muna/kauri.webp",
+    "imgC": "cartes/set4/muna/kauri.webp",
+    "nom": "Kauri & Puff",
+    "faction": "Muna",
+    "illustrateurice": "Ba Vo"
+  },
+  {
+    "id": 41,
+    "num": "56",
+    "imgU": "cartes/set4/muna/rouge-gorge-rancunier.webp",
+    "imgR": "cartes/set4/muna/0_rare/rouge-gorge-rancunier.webp",
+    "imgC": "cartes/set4/muna/0_commune/rouge-gorge-rancunier.webp",
+    "nom": "Rouge-gorge Rancunier",
+    "faction": "Muna",
+    "illustrateurice": "Anh Tung"
+  },
+  {
+    "id": 41,
+    "num": "57",
+    "imgU": "cartes/set4/muna/pelican-serviable.webp",
+    "imgR": "cartes/set4/muna/0_rare/pelican-serviable.webp",
+    "imgC": "cartes/set4/muna/0_commune/pelican-serviable.webp",
+    "nom": "Pélican Serviable",
+    "faction": "Muna",
+    "illustrateurice": "Zael"
+  },
+  {
+    "id": 41,
+    "num": "58",
+    "imgU": "cartes/set4/muna/pan.webp",
+    "imgR": "cartes/set4/muna/0_rare/pan.webp",
+    "imgC": "cartes/set4/muna/0_commune/pan.webp",
+    "nom": "Pan",
+    "faction": "Muna",
+    "illustrateurice": "Ed Chee, S.Yong, Stephen"
+  },
+  {
+    "id": 41,
+    "num": "59",
+    "imgU": "cartes/set4/muna/dodo-dormeur.webp",
+    "imgR": "cartes/set4/muna/0_rare/dodo-dormeur.webp",
+    "imgC": "cartes/set4/muna/0_commune/dodo-dormeur.webp",
+    "nom": "Dodo Dormeur",
+    "faction": "Muna",
+    "illustrateurice": "HuoMiao Studio"
+  },
+  {
+    "id": 41,
+    "num": "60",
+    "imgU": "cartes/set4/muna/grue-migratrice.webp",
+    "imgR": "cartes/set4/muna/0_rare/grue-migratrice.webp",
+    "imgC": "cartes/set4/muna/0_commune/grue-migratrice.webp",
+    "nom": "Grue Migratrice",
+    "faction": "Muna",
+    "illustrateurice": "Zael"
+  },
+  {
+    "id": 41,
+    "num": "61",
+    "imgU": "cartes/set4/muna/eru-emissaire-de-la-nature.webp",
+    "imgR": "cartes/set4/muna/0_rare/eru-emissaire-de-la-nature.webp",
+    "imgC": "cartes/set4/muna/0_commune/eru-emissaire-de-la-nature.webp",
+    "nom": "Eru, Émissaire de la Nature",
+    "faction": "Muna",
+    "illustrateurice": "Nestor Papatriantafyllou"
+  },
+  {
+    "id": 41,
+    "num": "62",
+    "imgU": "cartes/set4/muna/coucou-chamarre.webp",
+    "imgR": "cartes/set4/muna/0_rare/coucou-chamarre.webp",
+    "imgC": "cartes/set4/muna/0_commune/coucou-chamarre.webp",
+    "nom": "Coucou Chamarré",
+    "faction": "Muna",
+    "illustrateurice": "Seppyo"
+  },
+  {
+    "id": 41,
+    "num": "63",
+    "imgU": "cartes/set4/muna/oiseau-cuirasse.webp",
+    "imgR": "cartes/set4/muna/0_rare/oiseau-cuirasse.webp",
+    "imgC": "cartes/set4/muna/0_commune/oiseau-cuirasse.webp",
+    "nom": "Oiseau Cuirassé",
+    "faction": "Muna",
+    "illustrateurice": "Victor Canton"
+  },
+  {
+    "id": 41,
+    "num": "64",
+    "imgU": "cartes/set4/muna/vouivre.webp",
+    "imgR": "cartes/set4/muna/0_rare/vouivre.webp",
+    "imgC": "cartes/set4/muna/0_commune/vouivre.webp",
+    "nom": "Vouivre",
+    "faction": "Muna",
+    "illustrateurice": "Matteo Spirito"
+  },
+  {
+    "id": 41,
+    "num": "65a",
+    "imgU": "cartes/set4/muna/zaratan-leviathan-sociable.webp",
+    "imgR": "cartes/set4/muna/0_rare/zaratan-leviathan-sociable.webp",
+    "imgC": "cartes/set4/muna/0_commune/zaratan-leviathan-sociable.webp",
+    "nom": "Zaratan, Léviathan Sociable",
+    "faction": "Muna",
+    "illustrateurice": "Ba Vo"
+  },
+  {
+    "id": 41,
+    "num": "65b",
+    "imgU": "cartes/set4/muna/zaratan-leviathan-sociable_alt.webp",
+    "imgR": "cartes/set4/muna/0_rare/zaratan-leviathan-sociable_alt.webp",
+    "imgC": "cartes/set4/muna/0_commune/zaratan-leviathan-sociable_alt.webp",
+    "nom": "Zaratan, Léviathan Sociable (alt)",
+    "faction": "Muna",
+    "illustrateurice": "Justice Wong"
+  },
+  {
+    "id": 41,
+    "num": "66",
+    "imgU": "cartes/set4/muna/tane.webp",
+    "imgR": "cartes/set4/muna/0_rare/tane.webp",
+    "imgC": "cartes/set4/muna/0_commune/tane.webp",
+    "nom": "Tāne",
+    "faction": "Muna",
+    "illustrateurice": "Fahmi Fauzi"
+  },
+  {
+    "id": 41,
+    "num": "67",
+    "imgU": "cartes/set4/muna/lintervention-de-kauri.webp",
+    "imgR": "cartes/set4/muna/0_rare/lintervention-de-kauri.webp",
+    "imgC": "cartes/set4/muna/0_commune/lintervention-de-kauri.webp",
+    "nom": "L'Intervention de Kauri",
+    "faction": "Muna",
+    "illustrateurice": "Zero Wen"
+  },
+  {
+    "id": 41,
+    "num": "68",
+    "imgU": "cartes/set4/muna/compter-les-moutons.webp",
+    "imgR": "cartes/set4/muna/0_rare/compter-les-moutons.webp",
+    "imgC": "cartes/set4/muna/0_commune/compter-les-moutons.webp",
+    "nom": "Compter les Moutons",
+    "faction": "Muna",
+    "illustrateurice": "HuoMiao Studio"
+  },
+  {
+    "id": 41,
+    "num": "69a",
+    "imgU": "cartes/set4/muna/sceau-muna.webp",
+    "imgR": "cartes/set4/muna/0_rare/sceau-muna.webp",
+    "imgC": "cartes/set4/muna/0_commune/sceau-muna.webp",
+    "nom": "Sceau Muna",
+    "faction": "Muna",
+    "illustrateurice": "Justice Wong"
+  },
+  {
+    "id": 41,
+    "num": "69b",
+    "imgU": "cartes/set4/muna/sceau-muna_alt.webp",
+    "imgR": "cartes/set4/muna/0_rare/sceau-muna_alt.webp",
+    "imgC": "cartes/set4/muna/0_commune/sceau-muna_alt.webp",
+    "nom": "Sceau Muna (alt)",
+    "faction": "Muna",
+    "illustrateurice": "IIIIIIIIIIIII"
+  },
+  {
+    "id": 41,
+    "num": "70",
+    "imgU": "cartes/set4/muna/le-defi-de-puff.webp",
+    "imgR": "cartes/set4/muna/0_rare/le-defi-de-puff.webp",
+    "imgC": "cartes/set4/muna/0_commune/le-defi-de-puff.webp",
+    "nom": "Le Défi de Puff",
+    "faction": "Muna",
+    "illustrateurice": "Ba Vo"
+  },
+  {
+    "id": 41,
+    "num": "71",
+    "imgU": "cartes/set4/muna/destins-lies.webp",
+    "imgR": "cartes/set4/muna/0_rare/destins-lies.webp",
+    "imgC": "cartes/set4/muna/0_commune/destins-lies.webp",
+    "nom": "Destins Liés",
+    "faction": "Muna",
+    "illustrateurice": "Kevin Sidharta"
+  },
+  {
+    "id": 41,
+    "num": "72",
+    "imgU": "cartes/set4/muna/champ-de-laine.webp",
+    "imgR": "cartes/set4/muna/0_rare/BBBchamp-de-laineBBBBB.webp",
+    "imgC": "cartes/set4/muna/0_commune/champ-de-laine.webp",
+    "nom": "Champ de Laine",
+    "faction": "Muna",
+    "illustrateurice": "Fahmi Fauzi"
+  },
+  {
+    "id": 41,
+    "num": "112",
+    "imgU": "cartes/set4/muna/jeton-dotouffu.webp",
+    "imgR": "cartes/set4/muna/jeton-dotouffu.webp",
+    "imgC": "cartes/set4/muna/jeton-dotouffu.webp",
+    "nom": "Dotouffu",
+    "faction": "Muna",
+    "illustrateurice": "Fahmi Fauzi"
+  },
+  {
+    "id": 41,
+    "num": "73",
+    "imgU": "cartes/set4/ordis/zhen.webp",
+    "imgR": "cartes/set4/ordis/zhen.webp",
+    "imgC": "cartes/set4/ordis/zhen.webp",
+    "nom": "Zhen & Zéphyr",
+    "faction": "Ordis",
+    "illustrateurice": "Zero Wen"
+  },
+  {
+    "id": 41,
+    "num": "74",
+    "imgU": "cartes/set4/ordis/le-vilain-petit-canard.webp",
+    "imgR": "cartes/set4/ordis/0_rare/le-vilain-petit-canard.webp",
+    "imgC": "cartes/set4/ordis/0_commune/le-vilain-petit-canard.webp",
+    "nom": "Le Vilain Petit Canard",
+    "faction": "Ordis",
+    "illustrateurice": "Kevin Sidharta"
+  },
+  {
+    "id": 41,
+    "num": "75",
+    "imgU": "cartes/set4/ordis/bonnet-bleu.webp",
+    "imgR": "cartes/set4/ordis/0_rare/bonnet-bleu.webp",
+    "imgC": "cartes/set4/ordis/0_commune/bonnet-bleu.webp",
+    "nom": "Bonnet-Bleu",
+    "faction": "Ordis",
+    "illustrateurice": "Jean-Baptiste Andrier"
+  },
+  {
+    "id": 41,
+    "num": "76",
+    "imgU": "cartes/set4/ordis/troupiere-elevee.webp",
+    "imgR": "cartes/set4/ordis/0_rare/troupiere-elevee.webp",
+    "imgC": "cartes/set4/ordis/0_commune/troupiere-elevee.webp",
+    "nom": "Troupière Élevée",
+    "faction": "Ordis",
+    "illustrateurice": "Jefrey Yonathan"
+  },
+  {
+    "id": 41,
+    "num": "77",
+    "imgU": "cartes/set4/ordis/gargouille.webp",
+    "imgR": "cartes/set4/ordis/0_rare/gargouille.webp",
+    "imgC": "cartes/set4/ordis/0_commune/gargouille.webp",
+    "nom": "Gargouille",
+    "faction": "Ordis",
+    "illustrateurice": "Taras Susak"
+  },
+  {
+    "id": 41,
+    "num": "78",
+    "imgU": "cartes/set4/ordis/emissaire-ordis.webp",
+    "imgR": "cartes/set4/ordis/0_rare/emissaire-ordis.webp",
+    "imgC": "cartes/set4/ordis/0_commune/emissaire-ordis.webp",
+    "nom": "Émissaire Ordis",
+    "faction": "Ordis",
+    "illustrateurice": "Ed Chee, S.Yong, Stephen"
+  },
+  {
+    "id": 41,
+    "num": "79",
+    "imgU": "cartes/set4/ordis/vigile-ordis.webp",
+    "imgR": "cartes/set4/ordis/0_rare/vigile-ordis.webp",
+    "imgC": "cartes/set4/ordis/0_commune/vigile-ordis.webp",
+    "nom": "Vigile Ordis",
+    "faction": "Ordis",
+    "illustrateurice": "Justice Wong"
+  },
+  {
+    "id": 41,
+    "num": "80",
+    "imgU": "cartes/set4/ordis/melusine.webp",
+    "imgR": "cartes/set4/ordis/0_rare/melusine.webp",
+    "imgC": "cartes/set4/ordis/0_commune/melusine.webp",
+    "nom": "Mélusine",
+    "faction": "Ordis",
+    "illustrateurice": "Zael"
+  },
+  {
+    "id": 41,
+    "num": "81",
+    "imgU": "cartes/set4/ordis/doppelganger.webp",
+    "imgR": "cartes/set4/ordis/0_rare/doppelganger.webp",
+    "imgC": "cartes/set4/ordis/0_commune/doppelganger.webp",
+    "nom": "Doppelgänger",
+    "faction": "Ordis",
+    "illustrateurice": "HuoMiao Studio"
+  },
+  {
+    "id": 41,
+    "num": "82",
+    "imgU": "cartes/set4/ordis/yanna-agent-du-qorgan.webp",
+    "imgR": "cartes/set4/ordis/0_rare/yanna-agent-du-qorgan.webp",
+    "imgC": "cartes/set4/ordis/0_commune/yanna-agent-du-qorgan.webp",
+    "nom": "Yanna, Agent du Qorgan",
+    "faction": "Ordis",
+    "illustrateurice": "Ba Vo"
+  },
+  {
+    "id": 41,
+    "num": "83a",
+    "imgU": "cartes/set4/ordis/sagitta-leviathan-celeste.webp",
+    "imgR": "cartes/set4/ordis/0_rare/sagitta-leviathan-celeste.webp",
+    "imgC": "cartes/set4/ordis/0_commune/sagitta-leviathan-celeste.webp",
+    "nom": "Sagitta, Léviathan Céleste",
+    "faction": "Ordis",
+    "illustrateurice": "Ba Vo"
+  },
+  {
+    "id": 41,
+    "num": "83b",
+    "imgU": "cartes/set4/ordis/sagitta-leviathan-celeste_alt.webp",
+    "imgR": "cartes/set4/ordis/0_rare/sagitta-leviathan-celeste_alt.webp",
+    "imgC": "cartes/set4/ordis/0_commune/sagitta-leviathan-celeste_alt.webp",
+    "nom": "Sagitta, Léviathan Céleste (alt)",
+    "faction": "Ordis",
+    "illustrateurice": "Zael"
+  },
+  {
+    "id": 41,
+    "num": "84",
+    "imgU": "cartes/set4/ordis/nike.webp",
+    "imgR": "cartes/set4/ordis/0_rare/nike.webp",
+    "imgC": "cartes/set4/ordis/0_commune/nike.webp",
+    "nom": "Nikè",
+    "faction": "Ordis",
+    "illustrateurice": "Aaron Ming"
+  },
+  {
+    "id": 41,
+    "num": "85",
+    "imgU": "cartes/set4/ordis/envol.webp",
+    "imgR": "cartes/set4/ordis/0_rare/envol.webp",
+    "imgC": "cartes/set4/ordis/0_commune/envol.webp",
+    "nom": "Envol",
+    "faction": "Ordis",
+    "illustrateurice": "HuoMiao Studio"
+  },
+  {
+    "id": 41,
+    "num": "86a",
+    "imgU": "cartes/set4/ordis/sceau-ordis.webp",
+    "imgR": "cartes/set4/ordis/0_rare/sceau-ordis.webp",
+    "imgC": "cartes/set4/ordis/0_commune/sceau-ordis.webp",
+    "nom": "Sceau Ordis",
+    "faction": "Ordis",
+    "illustrateurice": "Zero Wen"
+  },
+  {
+    "id": 41,
+    "num": "86b",
+    "imgU": "cartes/set4/ordis/sceau-ordis_alt.webp",
+    "imgR": "cartes/set4/ordis/0_rare/sceau-ordis_alt.webp",
+    "imgC": "cartes/set4/ordis/0_commune/sceau-ordis_alt.webp",
+    "nom": "Sceau Ordis (alt)",
+    "faction": "Ordis",
+    "illustrateurice": "IIIIIIIIIIIII"
+  },
+  {
+    "id": 41,
+    "num": "87",
+    "imgU": "cartes/set4/ordis/juste-ciel.webp",
+    "imgR": "cartes/set4/ordis/0_rare/juste-ciel.webp",
+    "imgC": "cartes/set4/ordis/0_commune/juste-ciel.webp",
+    "nom": "Juste Ciel !",
+    "faction": "Ordis",
+    "illustrateurice": "Zero Wen"
+  },
+  {
+    "id": 41,
+    "num": "88",
+    "imgU": "cartes/set4/ordis/odyssee-des-cieux.webp",
+    "imgR": "cartes/set4/ordis/0_rare/odyssee-des-cieux.webp",
+    "imgC": "cartes/set4/ordis/0_commune/odyssee-des-cieux.webp",
+    "nom": "Odyssée des Cieux",
+    "faction": "Ordis",
+    "illustrateurice": "Matteo Spirito"
+  },
+  {
+    "id": 41,
+    "num": "89",
+    "imgU": "cartes/set4/ordis/mandjet.webp",
+    "imgR": "cartes/set4/ordis/0_rare/mandjet.webp",
+    "imgC": "cartes/set4/ordis/0_commune/mandjet.webp",
+    "nom": "Mandjet",
+    "faction": "Ordis",
+    "illustrateurice": "Anh Tung"
+  },
+  {
+    "id": 41,
+    "num": "90",
+    "imgU": "cartes/set4/ordis/lorigamium.webp",
+    "imgR": "cartes/set4/ordis/0_rare/lorigamium.webp",
+    "imgC": "cartes/set4/ordis/0_commune/lorigamium.webp",
+    "nom": "L'Origamium",
+    "faction": "Ordis",
+    "illustrateurice": "Jean-Baptiste Andrier"
+  },
+  {
+    "id": 41,
+    "num": "74",
+    "imgU": "cartes/set4/ordis/AAAAAAAA.webp",
+    "imgR": "cartes/set4/ordis/0_rare/BBBBBBBB.webp",
+    "imgC": "cartes/set4/ordis/0_commune/CCCCCCCC.webp",
+    "nom": "DDDDDDDDDD",
+    "faction": "Ordis",
+    "illustrateurice": "IIIIIIIIIIIII"
   }
 ]
