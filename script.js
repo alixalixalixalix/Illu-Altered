@@ -11,9 +11,12 @@ const fetchData = async () => {
     const responseCartesSet3 = await fetch("data_set3.json");
     const dataCartesSet3 = await responseCartesSet3.json();
 
+    const responseCartesSet4 = await fetch("data_set4.json");
+    const dataCartesSet4 = await responseCartesSet4.json();
+
     const select = document.getElementById("set");
     let numSelect = document.getElementById("set").options.selectedIndex;
-    let tabData = [dataCartesSet2, dataCartesSet3];
+    let tabData = [dataCartesSet2, dataCartesSet3, dataCartesSet4];
     dataSelect = tabData[numSelect];
 
     function generatorCartes(dataSelect) {
@@ -159,7 +162,7 @@ const fetchData = async () => {
 
     select.addEventListener("change", (event) => {
       let numSelect2 = document.getElementById("set").options.selectedIndex;
-      let tabData2 = [dataCartesSet2, dataCartesSet3];
+      let tabData2 = [dataCartesSet2, dataCartesSet3, dataCartesSet4];
       dataSelect = tabData2[numSelect2];
 
       let allButtonsFilters = document.querySelectorAll(

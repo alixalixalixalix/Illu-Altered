@@ -127,7 +127,7 @@
     "imgC": "cartes/set4/axiom/0_commune/sceau-axiom_alt.webp",
     "nom": "Sceau Axiom (alt)",
     "faction": "Axiom",
-    "illustrateurice": "EEEEEEEEEEEEEE"
+    "illustrateurice": "Iris Wincker"
   },
   {
     "id": 14,
@@ -142,9 +142,9 @@
   {
     "id": 15,
     "num": "13",
-    "imgU": "cartes/set4/axiom/station-de-reapprovionnement.webp",
-    "imgR": "cartes/set4/axiom/0_rare/station-de-reapprovionnement.webp",
-    "imgC": "cartes/set4/axiom/0_commune/station-de-reapprovionnement.webp",
+    "imgU": "cartes/set4/axiom/station-de-reapprovisionnement.webp",
+    "imgR": "cartes/set4/axiom/0_rare/station-de-reapprovisionnement.webp",
+    "imgC": "cartes/set4/axiom/0_commune/station-de-reapprovisionnement.webp",
     "nom": "Station de Réapprovisionnement",
     "faction": "Axiom",
     "illustrateurice": "Jean-Baptiste Andrier"
@@ -202,9 +202,9 @@
   {
     "id": 21,
     "num": "109",
-    "imgU": "cartes/set4/axiom/scarabots.webp",
-    "imgR": "cartes/set4/axiom/scarabots.webp",
-    "imgC": "cartes/set4/axiom/scarabots.webp",
+    "imgU": "cartes/set4/axiom/jeton-scarabot.webp",
+    "imgR": "cartes/set4/axiom/jeton-scarabot.webp",
+    "imgC": "cartes/set4/axiom/jeton-scarabot.webp",
     "nom": "Jeton Scarabot",
     "faction": "Axiom",
     "illustrateurice": "Justice Wong"
@@ -213,8 +213,8 @@
     "id": 22,
     "num": "19",
     "imgU": "cartes/set4/bravos/sol.webp",
-    "imgR": "cartes/set4/bravos/0_rare/sol.webp",
-    "imgC": "cartes/set4/bravos/0_commune/sol.webp",
+    "imgR": "cartes/set4/bravos/sol.webp",
+    "imgC": "cartes/set4/bravos/sol.webp",
     "nom": "Sol & Halua",
     "faction": "Bravos",
     "illustrateurice": "Justice Wong"
@@ -272,9 +272,9 @@
   {
     "id": 28,
     "num": "25",
-    "imgU": "cartes/set4/bravos/pheleas-fogg.webp",
-    "imgR": "cartes/set4/bravos/0_rare/pheleas-fogg.webp",
-    "imgC": "cartes/set4/bravos/0_commune/pheleas-fogg.webp",
+    "imgU": "cartes/set4/bravos/phileas-fogg.webp",
+    "imgR": "cartes/set4/bravos/0_rare/phileas-fogg.webp",
+    "imgC": "cartes/set4/bravos/0_commune/phileas-fogg.webp",
     "nom": "Phileas Fogg",
     "faction": "Bravos",
     "illustrateurice": "DOBA"
@@ -377,7 +377,7 @@
     "imgC": "cartes/set4/bravos/0_commune/sceau-bravos_alt.webp",
     "nom": "Sceau Bravos (alt)",
     "faction": "Bravos",
-    "illustrateurice": ""
+    "illustrateurice": "Iris Wincker"
   },
   {
     "id": 39,
@@ -813,10 +813,10 @@
     "id": 41,
     "num": "72",
     "imgU": "cartes/set4/muna/champ-de-laine.webp",
-    "imgR": "cartes/set4/muna/0_rare/BBBchamp-de-laineBBBBB.webp",
+    "imgR": "cartes/set4/muna/0_rare/champ-de-laine.webp",
     "imgC": "cartes/set4/muna/0_commune/champ-de-laine.webp",
     "nom": "Champ de Laine",
-    "faction": "Muna",
+    "faction": "Muna", 
     "illustrateurice": "Fahmi Fauzi"
   },
   {
@@ -992,9 +992,9 @@
   {
     "id": 41,
     "num": "87",
-    "imgU": "cartes/set4/ordis/juste-ciel.webp",
-    "imgR": "cartes/set4/ordis/0_rare/juste-ciel.webp",
-    "imgC": "cartes/set4/ordis/0_commune/juste-ciel.webp",
+    "imgU": "cartes/set4/ordis/juste-ciel!.webp",
+    "imgR": "cartes/set4/ordis/0_rare/juste-ciel!.webp",
+    "imgC": "cartes/set4/ordis/0_commune/juste-ciel!.webp",
     "nom": "Juste Ciel !",
     "faction": "Ordis",
     "illustrateurice": "Zero Wen"
@@ -1232,9 +1232,9 @@
   {
     "id": 41,
     "num": "113",
-    "imgU": "cartes/set4/yzmir/jeton-phalene.webp",
-    "imgR": "cartes/set4/yzmir/jeton-phalene.webp",
-    "imgC": "cartes/set4/yzmir/jeton-phalene.webp",
+    "imgU": "cartes/set4/yzmir/jeton-phalene-de-mana.webp",
+    "imgR": "cartes/set4/yzmir/jeton-phalene-de-mana.webp",
+    "imgC": "cartes/set4/yzmir/jeton-phalene-de-mana.webp",
     "nom": "Jeton Phalène",
     "faction": "Yzmir",
     "illustrateurice": "Justice Wong"
