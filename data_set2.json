@@ -27,7 +27,7 @@
     "imgC": "cartes/set2/axiom/0_commune/vaike-lenergeticienne.webp",
     "nom": "Vaike, l'Énergéticienne",
     "faction": "Axiom",
-    "illustrateurice": "Taras Susak"
+    "illustrateurice": "Zero Wen"
   },
   {
     "id": 4,
@@ -37,7 +37,7 @@
     "imgC": "cartes/set2/axiom/0_commune/vaike-lenergeticienne_alt.webp",
     "nom": "Vaike, l'Énergéticienne (alt)",
     "faction": "Axiom",
-    "illustrateurice": "Zero Wen"
+    "illustrateurice": "Taras Susak"
   },
   {
     "id": 5,
@@ -147,7 +147,7 @@
     "imgC": "cartes/set2/axiom/0_commune/galerie-saisie-par-les-glaces.webp",
     "nom": "Galeries Saisies par les Glaces",
     "faction": "Axiom",
-    "illustrateurice": "Jean-Baptiste Andrier"
+    "illustrateurice": "Kevin Sidharta"
   },
   {
     "id": 16,
@@ -157,7 +157,7 @@
     "imgC": "cartes/set2/axiom/0_commune/galerie-saisie-par-les-glaces_alt.webp",
     "nom": "Galeries Saisies par les Glaces (alt)",
     "faction": "Axiom",
-    "illustrateurice": "Kevin Sidharta"
+    "illustrateurice": "Jean-Baptiste Andrier"
   },
   {
     "id": 17,
@@ -227,7 +227,7 @@
     "imgC": "cartes/set2/bravos/0_commune/gericht-bretteur-honore.webp",
     "nom": "Gericht, Bretteur Honoré",
     "faction": "Bravos",
-    "illustrateurice": "Zero Wen"
+    "illustrateurice": "Nestor Papatriantafyllou"
   },
   {
     "id": 24,
@@ -237,7 +237,7 @@
     "imgC": "cartes/set2/bravos/0_commune/gericht-bretteur-honore_alt.webp",
     "nom": "Gericht, Bretteur Honoré (alt)",
     "faction": "Bravos",
-    "illustrateurice": "Nestor Papatriantafyllou"
+    "illustrateurice": "Zero Wen"
   },
   {
     "id": 25,
@@ -327,7 +327,7 @@
     "imgC": "cartes/set2/bravos/0_commune/pic-saisi-par-les-glaces.webp",
     "nom": "Pic Saisi par les Glaces",
     "faction": "Bravos",
-    "illustrateurice": "Fahmi Fauzi"
+    "illustrateurice": "Matteo Spirito"
   },
   {
     "id": 34,
@@ -337,7 +337,7 @@
     "imgC": "cartes/set2/bravos/0_commune/pic-saisi-par-les-glaces_alt.webp",
     "nom": "Pic Saisi par les Glaces (alt)",
     "faction": "Bravos",
-    "illustrateurice": "Matteo Spirito"
+    "illustrateurice": "Fahmi Fauzi"
   },
   {
     "id": 35,
@@ -497,7 +497,7 @@
     "imgC": "cartes/set2/lyra/0_commune/toundra-saisie-par-les-glaces.webp",
     "nom": "Toundra Saisie par les Glaces",
     "faction": "Lyra",
-    "illustrateurice": "Justice Wong"
+    "illustrateurice": "Fahmi Fauzi"
   },
   {
     "id": 51,
@@ -507,7 +507,7 @@
     "imgC": "cartes/set2/lyra/0_commune/toundra-saisie-par-les-glaces_alt.webp",
     "nom": "Toundra Saisie par les Glaces (alt)",
     "faction": "Lyra",
-    "illustrateurice": "Fahmi Fauzi"
+    "illustrateurice": "Justice Wong"
   },
   {
     "id": 52,
@@ -557,7 +557,7 @@
     "imgC": "cartes/set2/muna/0_commune/saskia-naturaliste-rusee.webp",
     "nom": "Saskia, Naturaliste Rusée",
     "faction": "Muna",
-    "illustrateurice": "Zero Wen"
+    "illustrateurice": "Nestor Papatriantafyllou"
   },
   {
     "id": 57,
@@ -567,7 +567,7 @@
     "imgC": "cartes/set2/muna/0_commune/saskia-naturaliste-rusee_alt.webp",
     "nom": "Saskia, Naturaliste Rusée (alt)",
     "faction": "Muna",
-    "illustrateurice": "Nestor Papatriantafyllou"
+    "illustrateurice": "Zero Wen"
   },
   {
     "id": 58,
@@ -717,7 +717,7 @@
     "imgC": "cartes/set2/ordis/0_commune/sunisa-enseigne-devouee.webp",
     "nom": "Sunisa, Enseigne Dévouée",
     "faction": "Ordis",
-    "illustrateurice": "Justice Wong"
+    "illustrateurice": "Jean-Baptiste Andrier"
   },
   {
     "id": 73,
@@ -727,7 +727,7 @@
     "imgC": "cartes/set2/ordis/0_commune/sunisa-enseigne-devouee_alt.webp",
     "nom": "Sunisa, Enseigne Dévouée (alt)",
     "faction": "Ordis",
-    "illustrateurice": "Jean-Baptiste Andrier"
+    "illustrateurice": "Justice Wong"
   },
   {
     "id": 74,
@@ -897,7 +897,7 @@
     "imgC": "cartes/set2/yzmir/0_commune/aroro-rempart-dasgartha.webp",
     "nom": "Aroro, Rempart d'Asgartha",
     "faction": "Yzmir",
-    "illustrateurice": "Khoa Viet"
+    "illustrateurice": "Nestor Papatriantafyllou"
   },
   {
     "id": 91,
@@ -907,7 +907,7 @@
     "imgC": "cartes/set2/yzmir/0_commune/aroro-rempart-dasgartha_alt.webp",
     "nom": "Aroro, Rempart d'Asgartha (alt)",
     "faction": "Yzmir",
-    "illustrateurice": "Nestor Papatriantafyllou"
+    "illustrateurice": "Khoa Viet"
   },
   {
     "id": 92,
@@ -997,7 +997,7 @@
     "imgC": "cartes/set2/yzmir/0_commune/col-saisi-par-les-glaces.webp",
     "nom": "Col Saisi par les Glaces",
     "faction": "Yzmir",
-    "illustrateurice": "HuoMiao Studio"
+    "illustrateurice": "Justice Wong"
   },
   {
     "id": 101,
@@ -1007,7 +1007,7 @@
     "imgC": "cartes/set2/yzmir/0_commune/col-saisi-par-les-glaces_alt.webp",
     "nom": "Col Saisi par les Glaces (alt)",
     "faction": "Yzmir",
-    "illustrateurice": "Justice Wong"
+    "illustrateurice": "HuoMiao Studio"
   },
   {
     "id": 102,
