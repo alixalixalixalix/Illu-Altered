@@ -5,6 +5,9 @@ const fetchData = async () => {
     const responseFactions = await fetch("data-factions.json");
     const dataFactions = await responseFactions.json();
 
+    const responseCartesSet1 = await fetch("data_set1.json");
+    const dataCartesSet1 = await responseCartesSet1.json();
+
     const responseCartesSet2 = await fetch("data_set2.json");
     const dataCartesSet2 = await responseCartesSet2.json();
 
@@ -16,7 +19,7 @@ const fetchData = async () => {
 
     const select = document.getElementById("set");
     let numSelect = document.getElementById("set").options.selectedIndex;
-    let tabData = [dataCartesSet2, dataCartesSet3, dataCartesSet4];
+    let tabData = [dataCartesSet1, dataCartesSet2, dataCartesSet3, dataCartesSet4];
     dataSelect = tabData[numSelect];
 
     function generatorCartes(dataSelect) {
@@ -162,7 +165,7 @@ const fetchData = async () => {
 
     select.addEventListener("change", (event) => {
       let numSelect2 = document.getElementById("set").options.selectedIndex;
-      let tabData2 = [dataCartesSet2, dataCartesSet3, dataCartesSet4];
+      let tabData2 = [dataCartesSet1, dataCartesSet2, dataCartesSet3, dataCartesSet4];
       dataSelect = tabData2[numSelect2];
 
       let allButtonsFilters = document.querySelectorAll(
