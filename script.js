@@ -17,9 +17,18 @@ const fetchData = async () => {
     const responseCartesSet4 = await fetch("data_set4.json");
     const dataCartesSet4 = await responseCartesSet4.json();
 
+    const responseCartesSet5 = await fetch("data_set5.json");
+    const dataCartesSet5 = await responseCartesSet5.json();
+
     const select = document.getElementById("set");
     let numSelect = document.getElementById("set").options.selectedIndex;
-    let tabData = [dataCartesSet1, dataCartesSet2, dataCartesSet3, dataCartesSet4];
+    let tabData = [
+      dataCartesSet1,
+      dataCartesSet2,
+      dataCartesSet3,
+      dataCartesSet4,
+      dataCartesSet5,
+    ];
     dataSelect = tabData[numSelect];
 
     function generatorCartes(dataSelect) {
@@ -90,7 +99,7 @@ const fetchData = async () => {
 
     // Tri faction fonctionnel
     let allButtonsFilters = document.querySelectorAll(
-      "#containerFaction button"
+      "#containerFaction button",
     );
     let buttonAll = document.getElementById("all").innerText;
     for (let i = 0; i < allButtonsFilters.length; i++) {
@@ -165,11 +174,16 @@ const fetchData = async () => {
 
     select.addEventListener("change", (event) => {
       let numSelect2 = document.getElementById("set").options.selectedIndex;
-      let tabData2 = [dataCartesSet1, dataCartesSet2, dataCartesSet3, dataCartesSet4];
+      let tabData2 = [
+        dataCartesSet1,
+        dataCartesSet2,
+        dataCartesSet3,
+        dataCartesSet4,
+      ];
       dataSelect = tabData2[numSelect2];
 
       let allButtonsFilters = document.querySelectorAll(
-        "#containerFaction button"
+        "#containerFaction button",
       );
       allButtonsFilters[0].classList.add("factionActive");
       allButtonsFilters[1].classList.remove("factionActive");

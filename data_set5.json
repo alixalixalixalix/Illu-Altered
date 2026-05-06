@@ -1,0 +1,1262 @@
+[
+  {
+    "id": 1,
+    "num": "01a",
+    "imgU": "cartes/set5/axiom/della-bolt.webp",
+    "imgR": "cartes/set5/axiom/della-bolt.webp",
+    "imgC": "cartes/set5/axiom/della-bolt.webp",
+    "nom": "Della & Bolt",
+    "faction": "Axiom",
+    "illustrateurice": "Tristan Bideau"
+  },
+  {
+    "id": 2,
+    "num": "01b",
+    "imgU": "cartes/set5/axiom/della-bolt_alt.webp",
+    "imgR": "cartes/set5/axiom/della-bolt_alt.webp",
+    "imgC": "cartes/set5/axiom/della-bolt_alt.webp",
+    "nom": "Della & Bolt (alt)",
+    "faction": "Axiom",
+    "illustrateurice": "Tristan Bideau"
+  },
+  {
+    "id": 3,
+    "num": "02",
+    "imgU": "cartes/set5/axiom/ira-participant-a-la-foire.webp",
+    "imgR": "cartes/set5/axiom/0_rare/ira-participant-a-la-foire.webp",
+    "imgC": "cartes/set5/axiom/0_commune/ira-participant-a-la-foire.webp",
+    "nom": "Ira, Participant à la Foire",
+    "faction": "Axiom",
+    "illustrateurice": "Tristan Bideau"
+  },
+  {
+    "id": 4,
+    "num": "03",
+    "imgU": "cartes/set5/axiom/machiniste-axiom.webp",
+    "imgR": "cartes/set5/axiom/0_rare/machiniste-axiom.webp",
+    "imgC": "cartes/set5/axiom/0_commune/machiniste-axiom.webp",
+    "nom": "Machiniste Axiom",
+    "faction": "Axiom",
+    "illustrateurice": "Jean-Baptiste Andrier"
+  },
+  {
+    "id": 5,
+    "num": "04",
+    "imgU": "cartes/set5/axiom/leonard-de-vinci.webp",
+    "imgR": "cartes/set5/axiom/0_rare/leonard-de-vinci.webp",
+    "imgC": "cartes/set5/axiom/0_commune/leonard-de-vinci.webp",
+    "nom": "Léonard de Vinci",
+    "faction": "Axiom",
+    "illustrateurice": "Atanas Lozanski"
+  },
+  {
+    "id": 6,
+    "num": "05",
+    "imgU": "cartes/set5/axiom/nikola-tesla.webp",
+    "imgR": "cartes/set5/axiom/0_rare/nikola-tesla.webp",
+    "imgC": "cartes/set5/axiom/0_commune/nikola-tesla.webp",
+    "nom": "Nikola Tesla",
+    "faction": "Axiom",
+    "illustrateurice": "Fahmi Fauzi"
+  },
+  {
+    "id": 7,
+    "num": "06",
+    "imgU": "cartes/set5/axiom/tik-tok.webp",
+    "imgR": "cartes/set5/axiom/0_rare/tik-tok.webp",
+    "imgC": "cartes/set5/axiom/0_commune/tik-tok.webp",
+    "nom": "Tik-Tok",
+    "faction": "Axiom",
+    "illustrateurice": "Jean-Baptiste Andrier"
+  },
+  {
+    "id": 8,
+    "num": "07",
+    "imgU": "cartes/set5/axiom/distribubot.webp",
+    "imgR": "cartes/set5/axiom/0_rare/distribubot.webp",
+    "imgC": "cartes/set5/axiom/0_commune/distribubot.webp",
+    "nom": "Distribubot",
+    "faction": "Axiom",
+    "illustrateurice": "Anh Tung"
+  },
+  {
+    "id": 9,
+    "num": "08",
+    "imgU": "cartes/set5/axiom/magnat-reka.webp",
+    "imgR": "cartes/set5/axiom/0_rare/magnat-reka.webp",
+    "imgC": "cartes/set5/axiom/0_commune/magnat-reka.webp",
+    "nom": "Magnat Reka",
+    "faction": "Axiom",
+    "illustrateurice": "Nestor Papatriantafyllou"
+  },
+  {
+    "id": 10,
+    "num": "09",
+    "imgU": "cartes/set5/axiom/lhote.webp",
+    "imgR": "cartes/set5/axiom/0_rare/lhote.webp",
+    "imgC": "cartes/set5/axiom/0_commune/lhote.webp",
+    "nom": "L'Hôte",
+    "faction": "Axiom",
+    "illustrateurice": "Taras Susak"
+  },
+  {
+    "id": 11,
+    "num": "10",
+    "imgU": "cartes/set5/axiom/bioingenieure-reka.webp",
+    "imgR": "cartes/set5/axiom/0_rare/bioingenieure-reka.webp",
+    "imgC": "cartes/set5/axiom/0_commune/bioingenieure-reka.webp",
+    "nom": "Bioingénieure Reka",
+    "faction": "Axiom",
+    "illustrateurice": "Victor Canton"
+  },
+  {
+    "id": 12,
+    "num": "11a",
+    "imgU": "cartes/set5/axiom/sphura-hexarque-reka.webp",
+    "imgR": "cartes/set5/axiom/sphura-hexarque-reka.webp",
+    "imgC": "cartes/set5/axiom/sphura-hexarque-reka.webp",
+    "nom": "Sphura, Hexarque Reka",
+    "faction": "Axiom",
+    "illustrateurice": "Anh Tung"
+  },
+  {
+    "id": 13,
+    "num": "11b",
+    "imgU": "cartes/set5/axiom/sphura-hexarque-reka_alt.webp",
+    "imgR": "cartes/set5/axiom/sphura-hexarque-reka_alt.webp",
+    "imgC": "cartes/set5/axiom/sphura-hexarque-reka_alt.webp",
+    "nom": "Sphura, Hexarque Reka (alt)",
+    "faction": "Axiom",
+    "illustrateurice": "Taras Susak"
+  },
+  {
+    "id": 14,
+    "num": "12",
+    "imgU": "cartes/set5/axiom/thomas-edison.webp",
+    "imgR": "cartes/set5/axiom/0_rare/thomas-edison.webp",
+    "imgC": "cartes/set5/axiom/0_commune/thomas-edison.webp",
+    "nom": "Thomas Edison",
+    "faction": "Axiom",
+    "illustrateurice": "Victor Canton"
+  },
+  {
+    "id": 15,
+    "num": "13",
+    "imgU": "cartes/set5/axiom/demonstration-ratee.webp",
+    "imgR": "cartes/set5/axiom/0_rare/demonstration-ratee.webp",
+    "imgC": "cartes/set5/axiom/0_commune/demonstration-ratee.webp",
+    "nom": "Démonstration Ratée",
+    "faction": "Axiom",
+    "illustrateurice": "Jean-Baptiste Andrier"
+  },
+  {
+    "id": 16,
+    "num": "14a",
+    "imgU": "cartes/set5/axiom/rencontre-technologique.webp",
+    "imgR": "cartes/set5/axiom/0_rare/rencontre-technologique.webp",
+    "imgC": "cartes/set5/axiom/0_commune/rencontre-technologique.webp",
+    "nom": "Rencontre Technologique",
+    "faction": "Axiom",
+    "illustrateurice": "DOBA"
+  },
+  {
+    "id": 17,
+    "num": "14b",
+    "imgU": "cartes/set5/axiom/rencontre-technologique_alt.webp",
+    "imgR": "cartes/set5/axiom/0_rare/rencontre-technologique_alt.webp",
+    "imgC": "cartes/set5/axiom/0_commune/rencontre-technologique_alt.webp",
+    "nom": "Rencontre Technologique",
+    "faction": "Axiom",
+    "illustrateurice": "Kevin Sidharta"
+  },
+  {
+    "id": 18,
+    "num": "15",
+    "imgU": "cartes/set5/axiom/unite-fab-lab.webp",
+    "imgR": "cartes/set5/axiom/0_rare/unite-fab-lab.webp",
+    "imgC": "cartes/set5/axiom/0_commune/unite-fab-lab.webp",
+    "nom": "Unité Fab Lab",
+    "faction": "Axiom",
+    "illustrateurice": "Anh Tung"
+  },
+  {
+    "id": 19,
+    "num": "16",
+    "imgU": "cartes/set5/axiom/exposition-axiom.webp",
+    "imgR": "cartes/set5/axiom/0_rare/exposition-axiom.webp",
+    "imgC": "cartes/set5/axiom/0_commune/exposition-axiom.webp",
+    "nom": "Exposition Axiom",
+    "faction": "Axiom",
+    "illustrateurice": "Jean-Baptiste Andrier"
+  },
+  {
+    "id": 20,
+    "num": "17",
+    "imgU": "cartes/set5/axiom/foire-scientifique.webp",
+    "imgR": "cartes/set5/axiom/0_rare/foire-scientifique.webp",
+    "imgC": "cartes/set5/axiom/0_commune/foire-scientifique.webp",
+    "nom": "Foire Scientifique",
+    "faction": "Axiom",
+    "illustrateurice": "Jean-Baptiste Andrier"
+  },
+  {
+    "id": 20,
+    "num": "18",
+    "imgU": "cartes/set5/axiom/le-consortium.webp",
+    "imgR": "cartes/set5/axiom/0_rare/le-consortium.webp",
+    "imgC": "cartes/set5/axiom/0_commune/le-consortium.webp",
+    "nom": "Le Consortium",
+    "faction": "Axiom",
+    "illustrateurice": "Fahmi Fauzi"
+  },
+  {
+    "id": 21,
+    "num": "19",
+    "imgU": "cartes/set5/bravos/sol-halua_alt.webp",
+    "imgR": "cartes/set5/bravos/sol-halua_alt.webp",
+    "imgC": "cartes/set5/bravos/sol-halua_alt.webp",
+    "nom": "Sol & Halua (alt)",
+    "faction": "Bravos",
+    "illustrateurice": "Zero Wen"
+  },
+  {
+    "id": 23,
+    "num": "20",
+    "imgU": "cartes/set5/bravos/ecureuil-volant.webp",
+    "imgR": "cartes/set5/bravos/0_rare/ecureuil-volant.webp",
+    "imgC": "cartes/set5/bravos/0_commune/ecureuil-volant.webp",
+    "nom": "Écureuil Volant",
+    "faction": "Bravos",
+    "illustrateurice": "Matteo Spirito"
+  },
+  {
+    "id": 24,
+    "num": "21",
+    "imgU": "cartes/set5/bravos/plongeuse-serviable.webp",
+    "imgR": "cartes/set5/bravos/0_rare/plongeuse-serviable.webp",
+    "imgC": "cartes/set5/bravos/0_commune/plongeuse-serviable.webp",
+    "nom": "Plongeuse Serviable",
+    "faction": "Bravos",
+    "illustrateurice": "Zero Wen"
+  },
+  {
+    "id": 25,
+    "num": "22",
+    "imgU": "cartes/set5/bravos/vigie-bravos.webp",
+    "imgR": "cartes/set5/bravos/0_rare/vigie-bravos.webp",
+    "imgC": "cartes/set5/bravos/0_commune/vigie-bravos.webp",
+    "nom": "Vigie Bravos",
+    "faction": "Bravos",
+    "illustrateurice": "Christopher Young"
+  },
+  {
+    "id": 26,
+    "num": "23",
+    "imgU": "cartes/set5/bravos/isabel-letham.webp",
+    "imgR": "cartes/set5/bravos/0_rare/isabel-letham.webp",
+    "imgC": "cartes/set5/bravos/0_commune/isabel-letham.webp",
+    "nom": "Isabel Letham",
+    "faction": "Bravos",
+    "illustrateurice": "HuoMiao Studio"
+  },
+  {
+    "id": 27,
+    "num": "24",
+    "imgU": "cartes/set5/bravos/skipper-reka.webp",
+    "imgR": "cartes/set5/bravos/0_rare/skipper-reka.webp",
+    "imgC": "cartes/set5/bravos/0_commune/skipper-reka.webp",
+    "nom": "Skipper Reka",
+    "faction": "Bravos",
+    "illustrateurice": "Jefrey Yonathan"
+  },
+  {
+    "id": 28,
+    "num": "25",
+    "imgU": "cartes/set5/bravos/nimbo-instructeur.webp",
+    "imgR": "cartes/set5/bravos/0_rare/nimbo-instructeur.webp",
+    "imgC": "cartes/set5/bravos/0_commune/nimbo-instructeur.webp",
+    "nom": "Nimbo-Instructeur",
+    "faction": "Bravos",
+    "illustrateurice": "Victor Canton"
+  },
+  {
+    "id": 29,
+    "num": "26",
+    "imgU": "cartes/set5/bravos/aerosurfeur-bravos.webp",
+    "imgR": "cartes/set5/bravos/0_rare/aerosurfeur-bravos.webp",
+    "imgC": "cartes/set5/bravos/0_commune/aerosurfeur-bravos.webp",
+    "nom": "Aérosurfeur Bravos",
+    "faction": "Bravos",
+    "illustrateurice": "Zael"
+  },
+  {
+    "id": 30,
+    "num": "27",
+    "imgU": "cartes/set5/bravos/colporteur-reka.webp",
+    "imgR": "cartes/set5/bravos/0_rare/colporteur-reka.webp",
+    "imgC": "cartes/set5/bravos/0_commune/colporteur-reka.webp",
+    "nom": "Colporteur Reka",
+    "faction": "Bravos",
+    "illustrateurice": "Gamon Studio"
+  },
+  {
+    "id": 31,
+    "num": "28",
+    "imgU": "cartes/set5/bravos/entraineur-de-havre.webp",
+    "imgR": "cartes/set5/bravos/0_rare/entraineur-de-havre.webp",
+    "imgC": "cartes/set5/bravos/0_commune/entraineur-de-havre.webp",
+    "nom": "Entraîneur de Havre",
+    "faction": "Bravos",
+    "illustrateurice": "Khoa Viet"
+  },
+  {
+    "id": 32,
+    "num": "29",
+    "imgU": "cartes/set5/bravos/kedarm.webp",
+    "imgR": "cartes/set5/bravos/0_rare/kedarm.webp",
+    "imgC": "cartes/set5/bravos/0_commune/kedarm.webp",
+    "nom": "Kedarm",
+    "faction": "Bravos",
+    "illustrateurice": "Zaeliven"
+  },
+  {
+    "id": 33,
+    "num": "30",
+    "imgU": "cartes/set5/bravos/frere-disparu.webp",
+    "imgR": "cartes/set5/bravos/0_rare/frere-disparu.webp",
+    "imgC": "cartes/set5/bravos/0_commune/frere-disparu.webp",
+    "nom": "Frère Disparu",
+    "faction": "Bravos",
+    "illustrateurice": "Zero Wen"
+  },
+  {
+    "id": 34,
+    "num": "31",
+    "imgU": "cartes/set5/bravos/pecheur-reka.webp",
+    "imgR": "cartes/set5/bravos/0_rare/pecheur-reka.webp",
+    "imgC": "cartes/set5/bravos/0_commune/pecheur-reka.webp",
+    "nom": "Pêcheur Reka",
+    "faction": "Bravos",
+    "illustrateurice": "Victor Canton"
+  },
+  {
+    "id": 35,
+    "num": "32",
+    "imgU": "cartes/set5/bravos/nephele.webp",
+    "imgR": "cartes/set5/bravos/0_rare/nephele.webp",
+    "imgC": "cartes/set5/bravos/0_commune/nephele.webp",
+    "nom": "Néphélé",
+    "faction": "Bravos",
+    "illustrateurice": "Taras Susak"
+  },
+  {
+    "id": 36,
+    "num": "33a",
+    "imgU": "cartes/set5/bravos/wanax-hexarque-reka.webp",
+    "imgR": "cartes/set5/bravos/wanax-hexarque-reka.webp",
+    "imgC": "cartes/set5/bravos/wanax-hexarque-reka.webp",
+    "nom": "Wanax, Hexarque Reka",
+    "faction": "Bravos",
+    "illustrateurice": "Taras Susak"
+  },
+  {
+    "id": 37,
+    "num": "33b",
+    "imgU": "cartes/set5/bravos/wanax-hexarque-reka_alt.webp",
+    "imgR": "cartes/set5/bravos/wanax-hexarque-reka_alt.webp",
+    "imgC": "cartes/set5/bravos/wanax-hexarque-reka_alt.webp",
+    "nom": "Wanax, Hexarque Reka (alt)",
+    "faction": "Bravos",
+    "illustrateurice": "Taras Susak"
+  },
+  {
+    "id": 38,
+    "num": "34a",
+    "imgU": "cartes/set5/bravos/rencontre-au-marche.webp",
+    "imgR": "cartes/set5/bravos/0_rare/rencontre-au-marche.webp",
+    "imgC": "cartes/set5/bravos/0_commune/rencontre-au-marche.webp",
+    "nom": "Rencontre au Marché",
+    "faction": "Bravos",
+    "illustrateurice": "Justice Wong"
+  },
+  {
+    "id": 39,
+    "num": "34b",
+    "imgU": "cartes/set5/bravos/rencontre-au-marche_alt.webp",
+    "imgR": "cartes/set5/bravos/0_rare/rencontre-au-marche_alt.webp",
+    "imgC": "cartes/set5/bravos/0_commune/rencontre-au-marche_alt.webp",
+    "nom": "Rencontre au Marché (alt)",
+    "faction": "Bravos",
+    "illustrateurice": "Zero Wen"
+  },
+  {
+    "id": 40,
+    "num": "35",
+    "imgU": "cartes/set5/bravos/peche-du-jour.webp",
+    "imgR": "cartes/set5/bravos/0_rare/peche-du-jour.webp",
+    "imgC": "cartes/set5/bravos/0_commune/peche-du-jour.webp",
+    "nom": "Pêche du Jour",
+    "faction": "Bravos",
+    "illustrateurice": "DOBA"
+  },
+  {
+    "id": 41,
+    "num": "36",
+    "imgU": "cartes/set5/bravos/masque-de-chevaucheur.webp",
+    "imgR": "cartes/set5/bravos/0_rare/masque-de-chevaucheur.webp",
+    "imgC": "cartes/set5/bravos/0_commune/masque-de-chevaucheur.webp",
+    "nom": "Masque de Chevaucheur",
+    "faction": "Bravos",
+    "illustrateurice": "Jean-Baptiste Andrier"
+  },
+  {
+    "id": 41,
+    "num": "109",
+    "imgU": "cartes/set5/bravos/jeton-halua.webp",
+    "imgR": "cartes/set5/bravos/jeton-halua.webp",
+    "imgC": "cartes/set5/bravos/jeton-halua.webp",
+    "nom": "Jeton Halua",
+    "faction": "Bravos",
+    "illustrateurice": "Fahmi Fauzi"
+  },
+  {
+    "id": 41,
+    "num": "37",
+    "imgU": "cartes/set5/lyra/nadir-bubbles_alt.webp",
+    "imgR": "cartes/set5/lyra/nadir-bubbles_alt.webp",
+    "imgC": "cartes/set5/lyra/nadir-bubbles_alt.webp",
+    "nom": "Nadir & Bubbles",
+    "faction": "Lyra",
+    "illustrateurice": "Ba Vo"
+  },
+  {
+    "id": 41,
+    "num": "38",
+    "imgU": "cartes/set5/lyra/pinocchio.webp",
+    "imgR": "cartes/set5/lyra/0_rare/pinocchio.webp",
+    "imgC": "cartes/set5/lyra/0_commune/pinocchio.webp",
+    "nom": "Pinocchio",
+    "faction": "Lyra",
+    "illustrateurice": "Victor Canton"
+  },
+  {
+    "id": 41,
+    "num": "39",
+    "imgU": "cartes/set5/lyra/guide-reka.webp",
+    "imgR": "cartes/set5/lyra/0_rare/guide-reka.webp",
+    "imgC": "cartes/set5/lyra/0_commune/guide-reka.webp",
+    "nom": "Guide Reka",
+    "faction": "Lyra",
+    "illustrateurice": "DOBA"
+  },
+  {
+    "id": 41,
+    "num": "40",
+    "imgU": "cartes/set5/lyra/glissecorde-reka.webp",
+    "imgR": "cartes/set5/lyra/0_rare/glissecorde-reka.webp",
+    "imgC": "cartes/set5/lyra/0_commune/glissecorde-reka.webp",
+    "nom": "Glissecorde Reka",
+    "faction": "Lyra",
+    "illustrateurice": "Victor Canton"
+  },
+  {
+    "id": 41,
+    "num": "41",
+    "imgU": "cartes/set5/lyra/barmaid-reka.webp",
+    "imgR": "cartes/set5/lyra/0_rare/barmaid-reka.webp",
+    "imgC": "cartes/set5/lyra/0_commune/barmaid-reka.webp",
+    "nom": "Barmaid Reka",
+    "faction": "Lyra",
+    "illustrateurice": "Zero Wen"
+  },
+  {
+    "id": 41,
+    "num": "42",
+    "imgU": "cartes/set5/lyra/nyala-fetarde-nocturne.webp",
+    "imgR": "cartes/set5/lyra/0_rare/nyala-fetarde-nocturne.webp",
+    "imgC": "cartes/set5/lyra/0_commune/nyala-fetarde-nocturne.webp",
+    "nom": "Nyala, Fêtarde Nocturne",
+    "faction": "Lyra",
+    "illustrateurice": "DOBA"
+  },
+  {
+    "id": 41,
+    "num": "43",
+    "imgU": "cartes/set5/lyra/specialiste-de-lurbex.webp",
+    "imgR": "cartes/set5/lyra/0_rare/specialiste-de-lurbex.webp",
+    "imgC": "cartes/set5/lyra/0_commune/specialiste-de-lurbex.webp",
+    "nom": "Spécialiste de l'Urbex",
+    "faction": "Lyra",
+    "illustrateurice": "DOBA"
+  },
+  {
+    "id": 41,
+    "num": "44",
+    "imgU": "cartes/set5/lyra/diocles-aurige.webp",
+    "imgR": "cartes/set5/lyra/0_rare/diocles-aurige.webp",
+    "imgC": "cartes/set5/lyra/0_commune/diocles-aurige.webp",
+    "nom": "Dioclès, Aurige",
+    "faction": "Lyra",
+    "illustrateurice": "Damian Audino"
+  },
+  {
+    "id": 41,
+    "num": "45",
+    "imgU": "cartes/set5/lyra/videur-de-boite-de-nuit.webp",
+    "imgR": "cartes/set5/lyra/0_rare/videur-de-boite-de-nuit.webp",
+    "imgC": "cartes/set5/lyra/0_commune/videur-de-boite-de-nuit.webp",
+    "nom": "Videur de Boîte de Nuit",
+    "faction": "Lyra",
+    "illustrateurice": "Gamon Studio"
+  },
+  {
+    "id": 41,
+    "num": "46",
+    "imgU": "cartes/set5/lyra/chat-de-cheshire.webp",
+    "imgR": "cartes/set5/lyra/0_rare/chat-de-cheshire.webp",
+    "imgC": "cartes/set5/lyra/0_commune/chat-de-cheshire.webp",
+    "nom": "Chat de Cheshire",
+    "faction": "Lyra",
+    "illustrateurice": "Taras Susak"
+  },
+  {
+    "id": 41,
+    "num": "47",
+    "imgU": "cartes/set5/lyra/don-juan.webp",
+    "imgR": "cartes/set5/lyra/0_rare/don-juan.webp",
+    "imgC": "cartes/set5/lyra/0_commune/don-juan.webp",
+    "nom": "Don juan",
+    "faction": "Lyra",
+    "illustrateurice": "Justice Wong"
+  },
+  {
+    "id": 41,
+    "num": "48",
+    "imgU": "cartes/set5/lyra/gardien-de-nuit-de-lauberge.webp",
+    "imgR": "cartes/set5/lyra/0_rare/gardien-de-nuit-de-lauberge.webp",
+    "imgC": "cartes/set5/lyra/0_commune/gardien-de-nuit-de-lauberge.webp",
+    "nom": "Gardien de Nuit de l'Auberge",
+    "faction": "Lyra",
+    "illustrateurice": "Anh Tung"
+  },
+  {
+    "id": 41,
+    "num": "49",
+    "imgU": "cartes/set5/lyra/dj-lyra.webp",
+    "imgR": "cartes/set5/lyra/0_rare/dj-lyra.webp",
+    "imgC": "cartes/set5/lyra/0_commune/dj-lyra.webp",
+    "nom": "DJ Lyra",
+    "faction": "Lyra",
+    "illustrateurice": "Zero Wen"
+  },
+  {
+    "id": 41,
+    "num": "50a",
+    "imgU": "cartes/set5/lyra/phoibos-hexarque-reka.webp",
+    "imgR": "cartes/set5/lyra/phoibos-hexarque-reka.webp",
+    "imgC": "cartes/set5/lyra/phoibos-hexarque-reka.webp",
+    "nom": "Phoibos, Hexarque Reka",
+    "faction": "Lyra",
+    "illustrateurice": "Gamon Studio"
+  },
+  {
+    "id": 41,
+    "num": "50b",
+    "imgU": "cartes/set5/lyra/phoibos-hexarque-reka_alt.webp",
+    "imgR": "cartes/set5/lyra/phoibos-hexarque-reka_alt.webp",
+    "imgC": "cartes/set5/lyra/phoibos-hexarque-reka_alt.webp",
+    "nom": "Phoibos, Hexarque Reka (alt)",
+    "faction": "Lyra",
+    "illustrateurice": "Taras Susak"
+  },
+  {
+    "id": 41,
+    "num": "51",
+    "imgU": "cartes/set5/lyra/rose-bonbon.webp",
+    "imgR": "cartes/set5/lyra/0_rare/rose-bonbon.webp",
+    "imgC": "cartes/set5/lyra/0_commune/rose-bonbon.webp",
+    "nom": "Rose Bonbon",
+    "faction": "Lyra",
+    "illustrateurice": "DOBA"
+  },
+  {
+    "id": 41,
+    "num": "52a",
+    "imgU": "cartes/set5/lyra/rencontre-romantique.webp",
+    "imgR": "cartes/set5/lyra/0_rare/rencontre-romantique.webp",
+    "imgC": "cartes/set5/lyra/0_commune/rencontre-romantique.webp",
+    "nom": "Rencontre Romantique",
+    "faction": "Lyra",
+    "illustrateurice": "Zero Wen"
+  },
+  {
+    "id": 41,
+    "num": "52b",
+    "imgU": "cartes/set5/lyra/rencontre-romantique_alt.webp",
+    "imgR": "cartes/set5/lyra/0_rare/rencontre-romantique_alt.webp",
+    "imgC": "cartes/set5/lyra/0_commune/rencontre-romantique_alt.webp",
+    "nom": "Rencontre Romantiqu (alt)",
+    "faction": "Lyra",
+    "illustrateurice": "Gamon Studio"
+  },
+  {
+    "id": 41,
+    "num": "53",
+    "imgU": "cartes/set5/lyra/casque-reka.webp",
+    "imgR": "cartes/set5/lyra/0_rare/casque-reka.webp",
+    "imgC": "cartes/set5/lyra/0_commune/casque-reka.webp",
+    "nom": "Casque Reka",
+    "faction": "Lyra",
+    "illustrateurice": "HuoMiao Studio"
+  },
+  {
+    "id": 41,
+    "num": "54",
+    "imgU": "cartes/set5/lyra/station-de-telepherique.webp",
+    "imgR": "cartes/set5/lyra/0_rare/station-de-telepherique.webp",
+    "imgC": "cartes/set5/lyra/0_commune/station-de-telepherique.webp",
+    "nom": "Station de Téléphérique",
+    "faction": "Lyra",
+    "illustrateurice": "Anh Tung"
+  },
+  {
+    "id": 41,
+    "num": "55a",
+    "imgU": "cartes/set5/muna/turuun-benih.webp",
+    "imgR": "cartes/set5/muna/turuun-benih.webp",
+    "imgC": "cartes/set5/muna/turuun-benih.webp",
+    "nom": "Turuun & Benih",
+    "faction": "Muna",
+    "illustrateurice": "Ba Vo"
+  },
+  {
+    "id": 41,
+    "num": "55b",
+    "imgU": "cartes/set5/muna/turuun-benih_alt.webp",
+    "imgR": "cartes/set5/muna/turuun-benih_alt.webp",
+    "imgC": "cartes/set5/muna/turuun-benih_alt.webp",
+    "nom": "Turuun & Benih (alt)",
+    "faction": "Muna",
+    "illustrateurice": "Anh Tung"
+  },
+  {
+    "id": 41,
+    "num": "56",
+    "imgU": "cartes/set5/muna/reka-charitable.webp",
+    "imgR": "cartes/set5/muna/0_rare/reka-charitable.webp",
+    "imgC": "cartes/set5/muna/0_commune/reka-charitable.webp",
+    "nom": "Reka Charitable",
+    "faction": "Muna",
+    "illustrateurice": "Ba Vo"
+  },
+  {
+    "id": 41,
+    "num": "57",
+    "imgU": "cartes/set5/muna/lapin-fermier.webp",
+    "imgR": "cartes/set5/muna/0_rare/lapin-fermier.webp",
+    "imgC": "cartes/set5/muna/0_commune/lapin-fermier.webp",
+    "nom": "Lapin Fermier",
+    "faction": "Muna",
+    "illustrateurice": "Ba Vo"
+  },
+  {
+    "id": 41,
+    "num": "58",
+    "imgU": "cartes/set5/muna/cueilleur-reka.webp",
+    "imgR": "cartes/set5/muna/0_rare/cueilleur-reka.webp",
+    "imgC": "cartes/set5/muna/0_commune/cueilleur-reka.webp",
+    "nom": "Cueilleur Reka",
+    "faction": "Muna",
+    "illustrateurice": "Bastien Jez"
+  },
+  {
+    "id": 41,
+    "num": "59",
+    "imgU": "cartes/set5/muna/commercant-reka.webp",
+    "imgR": "cartes/set5/muna/0_rare/commercant-reka.webp",
+    "imgC": "cartes/set5/muna/0_commune/commercant-reka.webp",
+    "nom": "Commerçant Reka",
+    "faction": "Muna",
+    "illustrateurice": "Jefrey Yonathan"
+  },
+  {
+    "id": 41,
+    "num": "60",
+    "imgU": "cartes/set5/muna/botaniste-muna.webp",
+    "imgR": "cartes/set5/muna/0_rare/botaniste-muna.webp",
+    "imgC": "cartes/set5/muna/0_commune/botaniste-muna.webp",
+    "nom": "Botaniste Muna",
+    "faction": "Muna",
+    "illustrateurice": "Matteo Spirito"
+  },
+  {
+    "id": 41,
+    "num": "61",
+    "imgU": "cartes/set5/muna/hesperide.webp",
+    "imgR": "cartes/set5/muna/0_rare/hesperide.webp",
+    "imgC": "cartes/set5/muna/0_commune/hesperide.webp",
+    "nom": "Hespéride",
+    "faction": "Muna",
+    "illustrateurice": "Zael"
+  },
+  {
+    "id": 41,
+    "num": "62",
+    "imgU": "cartes/set5/muna/fille-du-naos.webp",
+    "imgR": "cartes/set5/muna/0_rare/fille-du-naos.webp",
+    "imgC": "cartes/set5/muna/0_commune/fille-du-naos.webp",
+    "nom": "Fille du Naos",
+    "faction": "Muna",
+    "illustrateurice": "Khoa Viet"
+  },
+  {
+    "id": 41,
+    "num": "63",
+    "imgU": "cartes/set5/muna/agronome-reka.webp",
+    "imgR": "cartes/set5/muna/0_rare/agronome-reka.webp",
+    "imgC": "cartes/set5/muna/0_commune/agronome-reka.webp",
+    "nom": "Agronome Reka",
+    "faction": "Muna",
+    "illustrateurice": "Matteo Spirito"
+  },
+  {
+    "id": 41,
+    "num": "64",
+    "imgU": "cartes/set5/muna/flore-maraichere-furieuse.webp",
+    "imgR": "cartes/set5/muna/0_rare/flore-maraichere-furieuse.webp",
+    "imgC": "cartes/set5/muna/0_commune/flore-maraichere-furieuse.webp",
+    "nom": "Flore, Maraîchère Furieuse",
+    "faction": "Muna",
+    "illustrateurice": "Zael"
+  },
+  {
+    "id": 41,
+    "num": "65",
+    "imgU": "cartes/set5/muna/dapeng.webp",
+    "imgR": "cartes/set5/muna/0_rare/dapeng.webp",
+    "imgC": "cartes/set5/muna/0_commune/dapeng.webp",
+    "nom": "Dapeng",
+    "faction": "Muna",
+    "illustrateurice": "Matteo Spirito"
+  },
+  {
+    "id": 41,
+    "num": "66",
+    "imgU": "cartes/set5/muna/fils-du-naos.webp",
+    "imgR": "cartes/set5/muna/0_rare/fils-du-naos.webp",
+    "imgC": "cartes/set5/muna/0_commune/fils-du-naos.webp",
+    "nom": "Fils du Naos",
+    "faction": "Muna",
+    "illustrateurice": "Zael"
+  },
+  {
+    "id": 41,
+    "num": "67a",
+    "imgU": "cartes/set5/muna/ploutos-hexarque-reka.webp",
+    "imgR": "cartes/set5/muna/ploutos-hexarque-reka.webp",
+    "imgC": "cartes/set5/muna/ploutos-hexarque-reka.webp",
+    "nom": "Ploutos, Hexarque Reka",
+    "faction": "Muna",
+    "illustrateurice": "Kevin Sidharta"
+  },
+  {
+    "id": 41,
+    "num": "67b",
+    "imgU": "cartes/set5/muna/ploutos-hexarque-reka_alt.webp",
+    "imgR": "cartes/set5/muna/ploutos-hexarque-reka_alt.webp",
+    "imgC": "cartes/set5/muna/ploutos-hexarque-reka_alt.webp",
+    "nom": "Ploutos, Hexarque Reka (alt)",
+    "faction": "Muna",
+    "illustrateurice": "Taras Susak"
+  },
+  {
+    "id": 41,
+    "num": "68",
+    "imgU": "cartes/set5/muna/loi-de-newton.webp",
+    "imgR": "cartes/set5/muna/0_rare/loi-de-newton.webp",
+    "imgC": "cartes/set5/muna/0_commune/loi-de-newton.webp",
+    "nom": "Loi de Newton",
+    "faction": "Muna",
+    "illustrateurice": "HuoMiao Studio"
+  },
+  {
+    "id": 41,
+    "num": "69a",
+    "imgU": "cartes/set5/muna/rencontre-spirituelle.webp",
+    "imgR": "cartes/set5/muna/0_rare/rencontre-spirituelle.webp",
+    "imgC": "cartes/set5/muna/0_commune/rencontre-spirituelle.webp",
+    "nom": "Rencontre Spirituelle",
+    "faction": "Muna",
+    "illustrateurice": "Khoa Viet"
+  },
+  {
+    "id": 41,
+    "num": "69b",
+    "imgU": "cartes/set5/muna/rencontre-spirituelle_alt.webp",
+    "imgR": "cartes/set5/muna/0_rare/rencontre-spirituelle_alt.webp",
+    "imgC": "cartes/set5/muna/0_commune/rencontre-spirituelle_alt.webp",
+    "nom": "Rencontre Spirituelle (alt)",
+    "faction": "Muna",
+    "illustrateurice": "DOBA"
+  },
+  {
+    "id": 41,
+    "num": "70",
+    "imgU": "cartes/set5/muna/aire-de-pique-nique.webp",
+    "imgR": "cartes/set5/muna/0_rare/aire-de-pique-nique.webp",
+    "imgC": "cartes/set5/muna/0_commune/aire-de-pique-nique.webp",
+    "nom": "Aire de Pique-nique",
+    "faction": "Muna",
+    "illustrateurice": "Kevin Sidharta"
+  },
+  {
+    "id": 41,
+    "num": "71",
+    "imgU": "cartes/set5/muna/lambassade.webp",
+    "imgR": "cartes/set5/muna/0_rare/lambassade.webp",
+    "imgC": "cartes/set5/muna/0_commune/lambassade.webp",
+    "nom": "L'Ambassade",
+    "faction": "Muna",
+    "illustrateurice": "HuoMiao Studio"
+  },
+  {
+    "id": 41,
+    "num": "72",
+    "imgU": "cartes/set5/muna/le-naos.webp",
+    "imgR": "cartes/set5/muna/0_rare/le-naos.webp",
+    "imgC": "cartes/set5/muna/0_commune/le-naos.webp",
+    "nom": "Le Naos",
+    "faction": "Muna",
+    "illustrateurice": "Jean-Baptiste Andrier"
+  },
+  {
+    "id": 41,
+    "num": "73a",
+    "imgU": "cartes/set5/ordis/matz-hive.webp",
+    "imgR": "cartes/set5/ordis/matz-hive.webp",
+    "imgC": "cartes/set5/ordis/matz-hive.webp",
+    "nom": "Matz & Hive",
+    "faction": "Ordis",
+    "illustrateurice": "Justice Wong"
+  },
+  {
+    "id": 41,
+    "num": "73b",
+    "imgU": "cartes/set5/ordis/matz-hive_alt.webp",
+    "imgR": "cartes/set5/ordis/matz-hive_alt.webp",
+    "imgC": "cartes/set5/ordis/matz-hive_alt.webp",
+    "nom": "Matz & Hive (alt)",
+    "faction": "Ordis",
+    "illustrateurice": "Zero Wen"
+  },
+  {
+    "id": 41,
+    "num": "74",
+    "imgU": "cartes/set5/ordis/kikimora.webp",
+    "imgR": "cartes/set5/ordis/0_rare/kikimora.webp",
+    "imgC": "cartes/set5/ordis/0_commune/kikimora.webp",
+    "nom": "Kikimora",
+    "faction": "Ordis",
+    "illustrateurice": "Matteo Spirito"
+  },
+  {
+    "id": 41,
+    "num": "75",
+    "imgU": "cartes/set5/ordis/galatee.webp",
+    "imgR": "cartes/set5/ordis/0_rare/galatee.webp",
+    "imgC": "cartes/set5/ordis/0_commune/galatee.webp",
+    "nom": "Galatée",
+    "faction": "Ordis",
+    "illustrateurice": "Nestor Papatriantafyllou"
+  },
+  {
+    "id": 41,
+    "num": "76",
+    "imgU": "cartes/set5/ordis/mecene-reka.webp",
+    "imgR": "cartes/set5/ordis/0_rare/mecene-reka.webp",
+    "imgC": "cartes/set5/ordis/0_commune/mecene-reka.webp",
+    "nom": "Mécène Reka",
+    "faction": "Ordis",
+    "illustrateurice": "Nestor Papatriantafyllou"
+  },
+  {
+    "id": 41,
+    "num": "77",
+    "imgU": "cartes/set5/ordis/touriste-ordis.webp",
+    "imgR": "cartes/set5/ordis/0_rare/touriste-ordis.webp",
+    "imgC": "cartes/set5/ordis/0_commune/touriste-ordis.webp",
+    "nom": "Touriste Ordis",
+    "faction": "Ordis",
+    "illustrateurice": "Tristan Bideau"
+  },
+  {
+    "id": 41,
+    "num": "78",
+    "imgU": "cartes/set5/ordis/vendeur-de-souvenirs.webp",
+    "imgR": "cartes/set5/ordis/0_rare/vendeur-de-souvenirs.webp",
+    "imgC": "cartes/set5/ordis/0_commune/vendeur-de-souvenirs.webp",
+    "nom": "Vendeur de Souvenirs",
+    "faction": "Ordis",
+    "illustrateurice": "Zero Wen"
+  },
+  {
+    "id": 41,
+    "num": "79",
+    "imgU": "cartes/set5/ordis/receptionniste-inflexible.webp",
+    "imgR": "cartes/set5/ordis/0_rare/receptionniste-inflexible.webp",
+    "imgC": "cartes/set5/ordis/0_commune/receptionniste-inflexible.webp",
+    "nom": "Réceptionniste Inflexible",
+    "faction": "Ordis",
+    "illustrateurice": "Aleksandr Leskinen"
+  },
+  {
+    "id": 41,
+    "num": "80",
+    "imgU": "cartes/set5/ordis/investisseur-reka.webp",
+    "imgR": "cartes/set5/ordis/0_rare/investisseur-reka.webp",
+    "imgC": "cartes/set5/ordis/0_commune/investisseur-reka.webp",
+    "nom": "Investisseur Reka",
+    "faction": "Ordis",
+    "illustrateurice": "Anh Tung"
+  },
+  {
+    "id": 41,
+    "num": "81",
+    "imgU": "cartes/set5/ordis/louis-sullivan.webp",
+    "imgR": "cartes/set5/ordis/0_rare/louis-sullivan.webp",
+    "imgC": "cartes/set5/ordis/0_commune/louis-sullivan.webp",
+    "nom": "Louis Sullivan",
+    "faction": "Ordis",
+    "illustrateurice": "Kevin Sidharta"
+  },
+  {
+    "id": 41,
+    "num": "82",
+    "imgU": "cartes/set5/ordis/sunisa-garde-du-corps-ordis.webp",
+    "imgR": "cartes/set5/ordis/0_rare/sunisa-garde-du-corps-ordis.webp",
+    "imgC": "cartes/set5/ordis/0_commune/sunisa-garde-du-corps-ordis.webp",
+    "nom": "Sunisa, Garde du Corps Ordis",
+    "faction": "Ordis",
+    "illustrateurice": "Tristan Bideau"
+  },
+  {
+    "id": 41,
+    "num": "83",
+    "imgU": "cartes/set5/ordis/serveuse-reka.webp",
+    "imgR": "cartes/set5/ordis/0_rare/serveuse-reka.webp",
+    "imgC": "cartes/set5/ordis/0_commune/serveuse-reka.webp",
+    "nom": "Serveuse Reka",
+    "faction": "Ordis",
+    "illustrateurice": "Damian Audino"
+  },
+  {
+    "id": 41,
+    "num": "84",
+    "imgU": "cartes/set5/ordis/talos.webp",
+    "imgR": "cartes/set5/ordis/0_rare/talos.webp",
+    "imgC": "cartes/set5/ordis/0_commune/talos.webp",
+    "nom": "Talos",
+    "faction": "Ordis",
+    "illustrateurice": "Taras Susak"
+  },
+  {
+    "id": 41,
+    "num": "85a",
+    "imgU": "cartes/set5/ordis/astrape-hexarque-reka.webp",
+    "imgR": "cartes/set5/ordis/astrape-hexarque-reka.webp",
+    "imgC": "cartes/set5/ordis/astrape-hexarque-reka.webp",
+    "nom": "Astrape, Hexarque Reka",
+    "faction": "Ordis",
+    "illustrateurice": "Tristan Bideau"
+  },
+  {
+    "id": 41,
+    "num": "85b",
+    "imgU": "cartes/set5/ordis/astrape-hexarque-reka_alt.webp",
+    "imgR": "cartes/set5/ordis/astrape-hexarque-reka_alt.webp",
+    "imgC": "cartes/set5/ordis/astrape-hexarque-reka_alt.webp",
+    "nom": "Astrape, Hexarque Reka (alt)",
+    "faction": "Ordis",
+    "illustrateurice": "Taras Susak"
+  },
+  {
+    "id": 41,
+    "num": "86a",
+    "imgU": "cartes/set5/ordis/rencontre-injuste.webp",
+    "imgR": "cartes/set5/ordis/0_rare/rencontre-injuste.webp",
+    "imgC": "cartes/set5/ordis/0_commune/rencontre-injuste.webp",
+    "nom": "Rencontre Injuste",
+    "faction": "Ordis",
+    "illustrateurice": "Fahmi Fauzi"
+  },
+  {
+    "id": 41,
+    "num": "86b",
+    "imgU": "cartes/set5/ordis/rencontre-injuste_alt.webp",
+    "imgR": "cartes/set5/ordis/0_rare/rencontre-injuste_alt.webp",
+    "imgC": "cartes/set5/ordis/0_commune/rencontre-injuste_alt.webp",
+    "nom": "Rencontre Injuste (alt)",
+    "faction": "Ordis",
+    "illustrateurice": "Zero Wen"
+  },
+  {
+    "id": 41,
+    "num": "87",
+    "imgU": "cartes/set5/ordis/foule-en-colere.webp",
+    "imgR": "cartes/set5/ordis/0_rare/foule-en-colere.webp",
+    "imgC": "cartes/set5/ordis/0_commune/foule-en-colere.webp",
+    "nom": "Foule en Colère",
+    "faction": "Ordis",
+    "illustrateurice": "Justice Wong"
+  },
+  {
+    "id": 41,
+    "num": "88",
+    "imgU": "cartes/set5/ordis/le-lutrin.webp",
+    "imgR": "cartes/set5/ordis/0_rare/le-lutrin.webp",
+    "imgC": "cartes/set5/ordis/0_commune/le-lutrin.webp",
+    "nom": "Le Lutrin",
+    "faction": "Ordis",
+    "illustrateurice": "Ba Vo"
+  },
+  {
+    "id": 41,
+    "num": "89",
+    "imgU": "cartes/set5/ordis/le-consulat.webp",
+    "imgR": "cartes/set5/ordis/0_rare/le-consulat.webp",
+    "imgC": "cartes/set5/ordis/0_commune/le-consulat.webp",
+    "nom": "Le Consulat",
+    "faction": "Ordis",
+    "illustrateurice": "Jean-Baptiste Andrier"
+  },
+  {
+    "id": 41,
+    "num": "90",
+    "imgU": "cartes/set5/ordis/les-retrouvailles.webp",
+    "imgR": "cartes/set5/ordis/0_rare/les-retrouvailles.webp",
+    "imgC": "cartes/set5/ordis/0_commune/les-retrouvailles.webp",
+    "nom": "Les Retrouvailles",
+    "faction": "Ordis",
+    "illustrateurice": "Kevin Sidharta"
+  },
+  {
+    "id": 41,
+    "num": "111",
+    "imgU": "cartes/set5/ordis/jeton-recrue-ordis.webp",
+    "imgR": "cartes/set5/ordis/jeton-recrue-ordis.webp",
+    "imgC": "cartes/set5/ordis/jeton-recrue-ordis.webp",
+    "nom": "Jeton Recure Ordis",
+    "faction": "Ordis",
+    "illustrateurice": "Nestor Papatriantafyllou"
+  },
+  {
+    "id": 41,
+    "num": "91",
+    "imgU": "cartes/set5/yzmir/moyo-silk_alt.webp",
+    "imgR": "cartes/set5/yzmir/moyo-silk_alt.webp",
+    "imgC": "cartes/set5/yzmir/moyo-silk_alt.webp",
+    "nom": "Moyo & Silk (alt)",
+    "faction": "Yzmir",
+    "illustrateurice": "Justice Wong"
+  },
+  {
+    "id": 41,
+    "num": "92",
+    "imgU": "cartes/set5/yzmir/novice-studieux.webp",
+    "imgR": "cartes/set5/yzmir/0_rare/novice-studieux.webp",
+    "imgC": "cartes/set5/yzmir/0_commune/novice-studieux.webp",
+    "nom": "Novice Studieux",
+    "faction": "Yzmir",
+    "illustrateurice": "HuoMiao Studio"
+  },
+  {
+    "id": 41,
+    "num": "93",
+    "imgU": "cartes/set5/yzmir/simulateur.webp",
+    "imgR": "cartes/set5/yzmir/0_rare/simulateur.webp",
+    "imgC": "cartes/set5/yzmir/0_commune/simulateur.webp",
+    "nom": "Simulateur",
+    "faction": "Yzmir",
+    "illustrateurice": "Justice Wong"
+  },
+  {
+    "id": 41,
+    "num": "94",
+    "imgU": "cartes/set5/yzmir/harry-houdini.webp",
+    "imgR": "cartes/set5/yzmir/0_rare/harry-houdini.webp",
+    "imgC": "cartes/set5/yzmir/0_commune/harry-houdini.webp",
+    "nom": "La Tortue",
+    "faction": "Yzmir",
+    "illustrateurice": "Kevin Sidharta"
+  },
+  {
+    "id": 41,
+    "num": "95",
+    "imgU": "cartes/set5/yzmir/mascotte-dequipe.webp",
+    "imgR": "cartes/set5/yzmir/0_rare/mascotte-dequipe.webp",
+    "imgC": "cartes/set5/yzmir/0_commune/mascotte-dequipe.webp",
+    "nom": "Mascotte d'Équipe",
+    "faction": "Yzmir",
+    "illustrateurice": "Justice Wong"
+  },
+  {
+    "id": 41,
+    "num": "96",
+    "imgU": "cartes/set5/yzmir/chasseur-de-hextag.webp",
+    "imgR": "cartes/set5/yzmir/0_rare/chasseur-de-hextag.webp",
+    "imgC": "cartes/set5/yzmir/0_commune/chasseur-de-hextag.webp",
+    "nom": "Chasseur de Hextag",
+    "faction": "Yzmir",
+    "illustrateurice": "Damian Audino"
+  },
+  {
+    "id": 41,
+    "num": "97",
+    "imgU": "cartes/set5/yzmir/supporter-reka.webp",
+    "imgR": "cartes/set5/yzmir/0_rare/supporter-reka.webp",
+    "imgC": "cartes/set5/yzmir/0_commune/supporter-reka.webp",
+    "nom": "Supporter Reka",
+    "faction": "Yzmir",
+    "illustrateurice": "Zero Wen"
+  },
+  {
+    "id": 41,
+    "num": "98",
+    "imgU": "cartes/set5/yzmir/milady-de-winter.webp",
+    "imgR": "cartes/set5/yzmir/0_rare/milady-de-winter.webp",
+    "imgC": "cartes/set5/yzmir/0_commune/milady-de-winter.webp",
+    "nom": "Milady de Winter",
+    "faction": "Yzmir",
+    "illustrateurice": "Zero Wen"
+  },
+  {
+    "id": 41,
+    "num": "99",
+    "imgU": "cartes/set5/yzmir/mochizuki-chiyome.webp",
+    "imgR": "cartes/set5/yzmir/0_rare/mochizuki-chiyome.webp",
+    "imgC": "cartes/set5/yzmir/0_commune/mochizuki-chiyome.webp",
+    "nom": "Mochizuki Chiyome",
+    "faction": "Yzmir",
+    "illustrateurice": "Gamon Studio"
+  },
+  {
+    "id": 41,
+    "num": "100",
+    "imgU": "cartes/set5/yzmir/arbitre-partiale.webp",
+    "imgR": "cartes/set5/yzmir/0_rare/arbitre-partiale.webp",
+    "imgC": "cartes/set5/yzmir/0_commune/arbitre-partiale.webp",
+    "nom": "Arbitre Partiale",
+    "faction": "Yzmir",
+    "illustrateurice": "Abigael Giroud"
+  },
+  {
+    "id": 41,
+    "num": "101a",
+    "imgU": "cartes/set5/yzmir/maleros-hexarque-reka.webp",
+    "imgR": "cartes/set5/yzmir/maleros-hexarque-reka.webp",
+    "imgC": "cartes/set5/yzmir/maleros-hexarque-reka.webp",
+    "nom": "Maleros, Hexarque Reka",
+    "faction": "Yzmir",
+    "illustrateurice": "Justice Wong"
+  },
+  {
+    "id": 41,
+    "num": "101b",
+    "imgU": "cartes/set5/yzmir/maleros-hexarque-reka_alt.webp",
+    "imgR": "cartes/set5/yzmir/maleros-hexarque-reka_alt.webp",
+    "imgC": "cartes/set5/yzmir/maleros-hexarque-reka_alt.webp",
+    "nom": "Maleros, Hexarque Reka (alt)",
+    "faction": "Yzmir",
+    "illustrateurice": "Taras Susak"
+  },
+  {
+    "id": 41,
+    "num": "102a",
+    "imgU": "cartes/set5/yzmir/rencontre-sportive.webp",
+    "imgR": "cartes/set5/yzmir/0_rare/rencontre-sportive.webp",
+    "imgC": "cartes/set5/yzmir/0_commune/rencontre-sportive.webp",
+    "nom": "Rencontre Sportive",
+    "faction": "Yzmir",
+    "illustrateurice": "Victor Canton"
+  },
+  {
+    "id": 41,
+    "num": "102b",
+    "imgU": "cartes/set5/yzmir/rencontre-sportive_alt.webp",
+    "imgR": "cartes/set5/yzmir/0_rare/rencontre-sportive_alt.webp",
+    "imgC": "cartes/set5/yzmir/0_commune/rencontre-sportive_alt.webp",
+    "nom": "Rencontre Sportive (alt)",
+    "faction": "Yzmir",
+    "illustrateurice": "Kevin Sidharta"
+  },
+  {
+    "id": 41,
+    "num": "103",
+    "imgU": "cartes/set5/yzmir/temps-mort.webp",
+    "imgR": "cartes/set5/yzmir/0_rare/temps-mort.webp",
+    "imgC": "cartes/set5/yzmir/0_commune/temps-mort.webp",
+    "nom": "Temps Mort !",
+    "faction": "Yzmir",
+    "illustrateurice": "Gamon Studio"
+  },
+  {
+    "id": 41,
+    "num": "104",
+    "imgU": "cartes/set5/yzmir/phalene-illusoire.webp",
+    "imgR": "cartes/set5/yzmir/0_rare/phalene-illusoire.webp",
+    "imgC": "cartes/set5/yzmir/0_commune/phalene-illusoire.webp",
+    "nom": "Phalène Illusoire",
+    "faction": "Yzmir",
+    "illustrateurice": "Fahmi Fauzi"
+  },
+  {
+    "id": 41,
+    "num": "105",
+    "imgU": "cartes/set5/yzmir/touche.webp",
+    "imgR": "cartes/set5/yzmir/0_rare/touche.webp",
+    "imgC": "cartes/set5/yzmir/0_commune/touche.webp",
+    "nom": "Touché !",
+    "faction": "Yzmir",
+    "illustrateurice": "Justice Wong"
+  },
+  {
+    "id": 41,
+    "num": "106",
+    "imgU": "cartes/set5/yzmir/coup-de-grace.webp",
+    "imgR": "cartes/set5/yzmir/0_rare/coup-de-grace.webp",
+    "imgC": "cartes/set5/yzmir/0_commune/coup-de-grace.webp",
+    "nom": "Coup de Grâce",
+    "faction": "Yzmir",
+    "illustrateurice": "DOBA"
+  },
+  {
+    "id": 41,
+    "num": "107",
+    "imgU": "cartes/set5/yzmir/attrape-phalenes.webp",
+    "imgR": "cartes/set5/yzmir/0_rare/attrape-phalenes.webp",
+    "imgC": "cartes/set5/yzmir/0_commune/attrape-phalenes.webp",
+    "nom": "Attrape-Phalènes",
+    "faction": "Yzmir",
+    "illustrateurice": "HuoMiao Studio"
+  },
+    {
+    "id": 41,
+    "num": "107",
+    "imgU": "cartes/set5/yzmir/linfirmerie.webp",
+    "imgR": "cartes/set5/yzmir/0_rare/linfirmerie.webp",
+    "imgC": "cartes/set5/yzmir/0_commune/linfirmerie.webp",
+    "nom": "L'Infirmerie",
+    "faction": "Yzmir",
+    "illustrateurice": "HuoMiao Studio"
+  },
+  {
+    "id": 41,
+    "num": "113",
+    "imgU": "cartes/set5/yzmir/jeton-phalene-de-mana.webp",
+    "imgR": "cartes/set5/yzmir/jeton-phalene-de-mana.webp",
+    "imgC": "cartes/set5/yzmir/jeton-phalene-de-mana.webp",
+    "nom": "Jeton Phalène",
+    "faction": "Yzmir",
+    "illustrateurice": "Ba Vo"
+  }
+]
