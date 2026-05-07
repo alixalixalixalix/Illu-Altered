@@ -183,6 +183,8 @@ const fetchData = async () => {
         dataCartesSet2,
         dataCartesSet3,
         dataCartesSet4,
+        dataCartesSet5,
+        dataCartesSet6,
       ];
       dataSelect = tabData2[numSelect2];
 
