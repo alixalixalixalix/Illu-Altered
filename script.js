@@ -23,6 +23,9 @@ const fetchData = async () => {
     const responseCartesSet6 = await fetch("data_set6.json");
     const dataCartesSet6 = await responseCartesSet6.json();
 
+    const responseCartesSet7 = await fetch("data_set7.json");
+    const dataCartesSet7 = await responseCartesSet7.json();
+
     const select = document.getElementById("set");
     let numSelect = document.getElementById("set").options.selectedIndex;
     let tabData = [
@@ -32,6 +35,7 @@ const fetchData = async () => {
       dataCartesSet4,
       dataCartesSet5,
       dataCartesSet6,
+      dataCartesSet7,
     ];
     dataSelect = tabData[numSelect];
 

@@ -7,7 +7,10 @@
     "imgC": "cartes/set3/axiom/0_commune/renifleur-de-seve.webp",
     "nom": "Renifleur de Sève",
     "faction": "Axiom",
-    "illustrateurice": "Kevin Sidharta"
+    "illustrateurice": "Kevin Sidharta",
+    "vote1": 11,
+    "vote2": 7,
+    "vote3": 6
   },
   {
     "id": 2,
@@ -17,7 +20,10 @@
     "imgC": "cartes/set3/axiom/0_commune/drone-designer.webp",
     "nom": "Drone Designer",
     "faction": "Axiom",
-    "illustrateurice": "Anh Tung"
+    "illustrateurice": "Anh Tung",
+    "vote1": 2,
+    "vote2": 2,
+    "vote3": 4
   },
   {
     "id": 3,
@@ -27,7 +33,10 @@
     "imgC": "cartes/set3/axiom/0_commune/les-grems.webp",
     "nom": "Les Grems",
     "faction": "Axiom",
-    "illustrateurice": "Atanas Lozanski"
+    "illustrateurice": "Atanas Lozanski",
+    "vote1": 11,
+    "vote2": 14,
+    "vote3": 8
   },
   {
     "id": 4,
@@ -37,7 +46,10 @@
     "imgC": "cartes/set3/axiom/0_commune/drone-ratisseur.webp",
     "nom": "Drone Ratisseur",
     "faction": "Axiom",
-    "illustrateurice": "Anh Tung"
+    "illustrateurice": "Anh Tung",
+    "vote1": 1,
+    "vote2": 2,
+    "vote3": 1
   },
   {
     "id": 5,
@@ -47,7 +59,10 @@
     "imgC": "cartes/set3/axiom/0_commune/taupetaraude.webp",
     "nom": "Taupetaraude",
     "faction": "Axiom",
-    "illustrateurice": "Anh Tung"
+    "illustrateurice": "Anh Tung",
+    "vote1": 2,
+    "vote2": 1,
+    "vote3": 0
   },
   {
     "id": 6,
@@ -57,7 +72,10 @@
     "imgC": "cartes/set3/axiom/0_commune/gestionnaire-de-penurie.webp",
     "nom": "Gestionnaire de Pénurie",
     "faction": "Axiom",
-    "illustrateurice": "Anh Tung"
+    "illustrateurice": "Anh Tung",
+    "vote1": 1,
+    "vote2": 2,
+    "vote3": 3
   },
   {
     "id": 7,
@@ -67,7 +85,10 @@
     "imgC": "cartes/set3/axiom/0_commune/aby-livreuse-de-seve.webp",
     "nom": "Aby, Livreuse de Sève",
     "faction": "Axiom",
-    "illustrateurice": "Aaron Ming"
+    "illustrateurice": "Aaron Ming",
+    "vote1": 2,
+    "vote2": 3,
+    "vote3": 5
   },
   {
     "id": 8,
@@ -77,7 +98,10 @@
     "imgC": "cartes/set3/axiom/0_commune/icare.webp",
     "nom": "Icare",
     "faction": "Axiom",
-    "illustrateurice": "Atanas Lozanski"
+    "illustrateurice": "Atanas Lozanski",
+    "vote1": 7,
+    "vote2": 3,
+    "vote3": 5
   },
   {
     "id": 9,
@@ -87,7 +111,10 @@
     "imgC": "cartes/set3/axiom/0_commune/icare_alt.webp",
     "nom": "Icare (alt)",
     "faction": "Axiom",
-    "illustrateurice": "Justice Wong"
+    "illustrateurice": "Justice Wong",
+    "vote1": 0,
+    "vote2": 2,
+    "vote3": 3
   },
   {
     "id": 10,
@@ -97,7 +124,10 @@
     "imgC": "cartes/set3/axiom/0_commune/prototype-ameliore.webp",
     "nom": "Prototype Amélioré",
     "faction": "Axiom",
-    "illustrateurice": "Anh Tung"
+    "illustrateurice": "Anh Tung",
+    "vote1": 4,
+    "vote2": 5,
+    "vote3": 7
   },
   {
     "id": 11,
@@ -107,7 +137,10 @@
     "imgC": "cartes/set3/axiom/0_commune/botfix.webp",
     "nom": "Botfix",
     "faction": "Axiom",
-    "illustrateurice": "Kevin Sidharta"
+    "illustrateurice": "Kevin Sidharta",
+    "vote1": 5,
+    "vote2": 4,
+    "vote3": 2
   },
   {
     "id": 12,
@@ -117,7 +150,10 @@
     "imgC": "cartes/set3/axiom/0_commune/debordement-de-seve.webp",
     "nom": "Débordement de Sève",
     "faction": "Axiom",
-    "illustrateurice": "HuoMiao Studio"
+    "illustrateurice": "HuoMiao Studio",
+    "vote1": 4,
+    "vote2": 4,
+    "vote3": 4
   },
   {
     "id": 13,
@@ -127,7 +163,10 @@
     "imgC": "cartes/set3/axiom/0_commune/cabas-a-scara.webp",
     "nom": "Cabas à Scara",
     "faction": "Axiom",
-    "illustrateurice": "Kevin Sidharta"
+    "illustrateurice": "Kevin Sidharta",
+    "vote1": 7,
+    "vote2": 11,
+    "vote3": 4
   },
   {
     "id": 14,
@@ -137,7 +176,10 @@
     "imgC": "cartes/set3/axiom/0_commune/extracteur-de-seve.webp",
     "nom": "Extracteur de Sève",
     "faction": "Axiom",
-    "illustrateurice": "Jean-Baptiste Andrier"
+    "illustrateurice": "Jean-Baptiste Andrier",
+    "vote1": 1,
+    "vote2": 1,
+    "vote3": 3
   },
   {
     "id": 15,
@@ -147,7 +189,10 @@
     "imgC": "cartes/set3/axiom/0_commune/la-raffinerie.webp",
     "nom": "La Raffinerie",
     "faction": "Axiom",
-    "illustrateurice": "Jean-Baptiste Andrier"
+    "illustrateurice": "Jean-Baptiste Andrier",
+    "vote1": 1,
+    "vote2": 1,
+    "vote3": 4
   },
   {
     "id": 16,
@@ -157,7 +202,10 @@
     "imgC": "cartes/set3/axiom/0_commune/la-raffinerie_alt.webp",
     "nom": "La Raffinerie (alt)",
     "faction": "Axiom",
-    "illustrateurice": "Victor Canton"
+    "illustrateurice": "Victor Canton",
+    "vote1": 7,
+    "vote2": 5,
+    "vote3": 5
   },
   {
     "id": 17,
@@ -167,7 +215,10 @@
     "imgC": "cartes/set3/axiom/0_commune/unite-lab-tech.webp",
     "nom": "Unité Lab Tech",
     "faction": "Axiom",
-    "illustrateurice": "Justice Wong"
+    "illustrateurice": "Justice Wong",
+    "vote1": 0,
+    "vote2": 2,
+    "vote3": 1
   },
   {
     "id": 18,
@@ -177,7 +228,10 @@
     "imgC": "cartes/set3/bravos/0_commune/petit-cuistot.webp",
     "nom": "Petit Cuistot",
     "faction": "Bravos",
-    "illustrateurice": "Nestor Papatriantafyllou"
+    "illustrateurice": "Nestor Papatriantafyllou",
+    "vote1": 8,
+    "vote2": 5,
+    "vote3": 7
   },
   {
     "id": 19,
@@ -187,7 +241,10 @@
     "imgC": "cartes/set3/bravos/0_commune/excavateur-bravos.webp",
     "nom": "Excavateur Bravos",
     "faction": "Bravos",
-    "illustrateurice": "Ed Chee, S.Yong, Stephen"
+    "illustrateurice": "Ed Chee, S.Yong, Stephen",
+    "vote1": 0,
+    "vote2": 0,
+    "vote3": 0
   },
   {
     "id": 20,
@@ -197,7 +254,10 @@
     "imgC": "cartes/set3/bravos/0_commune/pendekar-bravos.webp",
     "nom": "Pendekar Bravos",
     "faction": "Bravos",
-    "illustrateurice": "Ed Chee, S.Yong, Stephen"
+    "illustrateurice": "Ed Chee, S.Yong, Stephen",
+    "vote1": 2,
+    "vote2": 1,
+    "vote3": 4
   },
   {
     "id": 21,
@@ -207,7 +267,10 @@
     "imgC": "cartes/set3/bravos/0_commune/porteuse-desprit.webp",
     "nom": "Porteuse d'Esprit",
     "faction": "Bravos",
-    "illustrateurice": "Nestor Papatriantafyllou"
+    "illustrateurice": "Nestor Papatriantafyllou",
+    "vote1": 1,
+    "vote2": 2,
+    "vote3": 6
   },
   {
     "id": 22,
@@ -217,7 +280,10 @@
     "imgC": "cartes/set3/bravos/0_commune/skateuse-talarienne.webp",
     "nom": "Skateuse Talarienne",
     "faction": "Bravos",
-    "illustrateurice": "Exia"
+    "illustrateurice": "Exia",
+    "vote1": 0,
+    "vote2": 2,
+    "vote3": 2
   },
   {
     "id": 23,
@@ -227,7 +293,10 @@
     "imgC": "cartes/set3/bravos/0_commune/chef-patissier.webp",
     "nom": "Chef Pâtissier",
     "faction": "Bravos",
-    "illustrateurice": "Nestor Papatriantafyllou"
+    "illustrateurice": "Nestor Papatriantafyllou",
+    "vote1": 0,
+    "vote2": 2,
+    "vote3": 1
   },
   {
     "id": 24,
@@ -237,7 +306,10 @@
     "imgC": "cartes/set3/bravos/0_commune/hestia.webp",
     "nom": "Hestia",
     "faction": "Bravos",
-    "illustrateurice": "Nestor Papatriantafyllou"
+    "illustrateurice": "Nestor Papatriantafyllou",
+    "vote1": 1,
+    "vote2": 2,
+    "vote3": 3
   },
   {
     "id": 25,
@@ -247,7 +319,10 @@
     "imgC": "cartes/set3/bravos/0_commune/aoife-avatar-de-feu.webp",
     "nom": "Aoife, Avatar de Feu",
     "faction": "Bravos",
-    "illustrateurice": "Justice Wong"
+    "illustrateurice": "Justice Wong",
+    "vote1": 9,
+    "vote2": 12,
+    "vote3": 8
   },
   {
     "id": 26,
@@ -257,7 +332,10 @@
     "imgC": "cartes/set3/bravos/0_commune/hydre-de-lerne.webp",
     "nom": "Hydre de Lerne",
     "faction": "Bravos",
-    "illustrateurice": "Ed Chee, S.Yong, Stephen"
+    "illustrateurice": "Ed Chee, S.Yong, Stephen",
+    "vote1": 6,
+    "vote2": 6,
+    "vote3": 9
   },
   {
     "id": 27,
@@ -267,7 +345,10 @@
     "imgC": "cartes/set3/bravos/0_commune/djinn-fulgurant.webp",
     "nom": "Djinn Fulgurant",
     "faction": "Bravos",
-    "illustrateurice": "Justice Wong"
+    "illustrateurice": "Justice Wong",
+    "vote1": 3,
+    "vote2": 6,
+    "vote3": 5
   },
   {
     "id": 28,
@@ -277,7 +358,10 @@
     "imgC": "cartes/set3/bravos/0_commune/thesee.webp",
     "nom": "Thésée",
     "faction": "Bravos",
-    "illustrateurice": "Ed Chee, S.Yong, Stephen"
+    "illustrateurice": "Ed Chee, S.Yong, Stephen",
+    "vote1": 4,
+    "vote2": 3,
+    "vote3": 1
   },
   {
     "id": 29,
@@ -287,7 +371,10 @@
     "imgC": "cartes/set3/bravos/0_commune/thesee_alt.webp",
     "nom": "Thésée (alt)",
     "faction": "Bravos",
-    "illustrateurice": "Kevin Sidharta"
+    "illustrateurice": "Kevin Sidharta",
+    "vote1": 8,
+    "vote2": 7,
+    "vote3": 5
   },
   {
     "id": 30,
@@ -297,7 +384,10 @@
     "imgC": "cartes/set3/bravos/0_commune/tasse-de-seve.webp",
     "nom": "Tasse de Sève",
     "faction": "Bravos",
-    "illustrateurice": "Ed Chee, S.Yong, Stephen"
+    "illustrateurice": "Ed Chee, S.Yong, Stephen",
+    "vote1": 2,
+    "vote2": 4,
+    "vote3": 5
   },
   {
     "id": 31,
@@ -307,7 +397,10 @@
     "imgC": "cartes/set3/bravos/0_commune/duel-de-cran.webp",
     "nom": "Duel de Cran",
     "faction": "Bravos",
-    "illustrateurice": "Ed Chee, S.Yong, Stephen"
+    "illustrateurice": "Ed Chee, S.Yong, Stephen",
+    "vote1": 28,
+    "vote2": 10,
+    "vote3": 5
   },
   {
     "id": 32,
@@ -317,7 +410,10 @@
     "imgC": "cartes/set3/bravos/0_commune/le-ragout.webp",
     "nom": "Le Ragoût",
     "faction": "Bravos",
-    "illustrateurice": "Ed Chee, S.Yong, Stephen"
+    "illustrateurice": "Ed Chee, S.Yong, Stephen",
+    "vote1": 1,
+    "vote2": 2,
+    "vote3": 5
   },
   {
     "id": 33,
@@ -327,7 +423,10 @@
     "imgC": "cartes/set3/bravos/0_commune/le-mess.webp",
     "nom": "Le Mess",
     "faction": "Bravos",
-    "illustrateurice": "Fahmi Fauzi"
+    "illustrateurice": "Fahmi Fauzi",
+    "vote1": 0,
+    "vote2": 8,
+    "vote3": 6
   },
   {
     "id": 34,
@@ -337,7 +436,10 @@
     "imgC": "cartes/set3/bravos/0_commune/le-mess_alt.webp",
     "nom": "Le Mess (alt)",
     "faction": "Bravos",
-    "illustrateurice": "Victor Canton"
+    "illustrateurice": "Victor Canton",
+    "vote1": 8,
+    "vote2": 7,
+    "vote3": 5
   },
   {
     "id": 35,
@@ -347,7 +449,10 @@
     "imgC": "cartes/set3/lyra/0_commune/bassiste-de-bliss.webp",
     "nom": "Bassiste de Bliss",
     "faction": "Lyra",
-    "illustrateurice": "Zero Wen"
+    "illustrateurice": "Zero Wen",
+    "vote1": 1,
+    "vote2": 0,
+    "vote3": 2
   },
   {
     "id": 36,
@@ -357,7 +462,10 @@
     "imgC": "cartes/set3/lyra/0_commune/fan-de-bliss.webp",
     "nom": "Fan de Bliss",
     "faction": "Lyra",
-    "illustrateurice": "Aaron Ming"
+    "illustrateurice": "Aaron Ming",
+    "vote1": 0,
+    "vote2": 4,
+    "vote3": 0
   },
   {
     "id": 37,
@@ -367,7 +475,10 @@
     "imgC": "cartes/set3/lyra/0_commune/contorsionniste-lyra.webp",
     "nom": "Contorsionniste Lyra",
     "faction": "Lyra",
-    "illustrateurice": "Khoa Viet"
+    "illustrateurice": "Khoa Viet",
+    "vote1": 4,
+    "vote2": 3,
+    "vote3": 6
   },
   {
     "id": 38,
@@ -377,7 +488,10 @@
     "imgC": "cartes/set3/lyra/0_commune/clavieriste-de-bliss.webp",
     "nom": "Claviériste de Bliss",
     "faction": "Lyra",
-    "illustrateurice": "Zero Wen"
+    "illustrateurice": "Zero Wen",
+    "vote1": 0,
+    "vote2": 2,
+    "vote3": 1
   },
   {
     "id": 39,
@@ -387,7 +501,10 @@
     "imgC": "cartes/set3/lyra/0_commune/dedale.webp",
     "nom": "Dédale",
     "faction": "Lyra",
-    "illustrateurice": "Taras Susak"
+    "illustrateurice": "Taras Susak",
+    "vote1": 15,
+    "vote2": 11,
+    "vote3": 7
   },
   {
     "id": 40,
@@ -397,7 +514,10 @@
     "imgC": "cartes/set3/lyra/0_commune/dedale_alt.webp",
     "nom": "Dédale (alt)",
     "faction": "Lyra",
-    "illustrateurice": "Zael"
+    "illustrateurice": "Zael",
+    "vote1": 2,
+    "vote2": 0,
+    "vote3": 3
   },
   {
     "id": 41,
@@ -407,7 +527,10 @@
     "imgC": "cartes/set3/lyra/0_commune/lakshmi.webp",
     "nom": "Lakshmi",
     "faction": "Lyra",
-    "illustrateurice": "Taras Susak"
+    "illustrateurice": "Taras Susak",
+    "vote1": 6,
+    "vote2": 5,
+    "vote3": 5
   },
   {
     "id": 42,
@@ -417,7 +540,10 @@
     "imgC": "cartes/set3/lyra/0_commune/batteur-de-bliss.webp",
     "nom": "Batteur de Bliss",
     "faction": "Lyra",
-    "illustrateurice": "Zero Wen"
+    "illustrateurice": "Zero Wen",
+    "vote1": 0,
+    "vote2": 1,
+    "vote3": 1
   },
   {
     "id": 43,
@@ -427,7 +553,10 @@
     "imgC": "cartes/set3/lyra/0_commune/efren-marionnettiste.webp",
     "nom": "Efren, Marionnettiste",
     "faction": "Lyra",
-    "illustrateurice": "Bastien Jez"
+    "illustrateurice": "Bastien Jez",
+    "vote1": 5,
+    "vote2": 9,
+    "vote3": 9
   },
   {
     "id": 44,
@@ -437,7 +566,10 @@
     "imgC": "cartes/set3/lyra/0_commune/lhomme-dans-le-labyrinthe.webp",
     "nom": "L'Homme dans le Labyrinthe",
     "faction": "Lyra",
-    "illustrateurice": "Taras Susak"
+    "illustrateurice": "Taras Susak",
+    "vote1": 13,
+    "vote2": 12,
+    "vote3": 5
   },
   {
     "id": 45,
@@ -447,7 +579,10 @@
     "imgC": "cartes/set3/lyra/0_commune/poignantes-retrouvailles.webp",
     "nom": "Poignantes Retrouvailles",
     "faction": "Lyra",
-    "illustrateurice": "Ina Wong"
+    "illustrateurice": "Ina Wong",
+    "vote1": 1,
+    "vote2": 6,
+    "vote3": 6
   },
   {
     "id": 46,
@@ -457,7 +592,10 @@
     "imgC": "cartes/set3/lyra/0_commune/duende-de-seve.webp",
     "nom": "Duende de Sève",
     "faction": "Lyra",
-    "illustrateurice": "Rémi Jacquot"
+    "illustrateurice": "Rémi Jacquot",
+    "vote1": 15,
+    "vote2": 9,
+    "vote3": 7
   },
   {
     "id": 47,
@@ -467,7 +605,10 @@
     "imgC": "cartes/set3/lyra/0_commune/bis.webp",
     "nom": "Bis",
     "faction": "Lyra",
-    "illustrateurice": "Justice Wong"
+    "illustrateurice": "Justice Wong",
+    "vote1": 1,
+    "vote2": 2,
+    "vote3": 3
   },
   {
     "id": 48,
@@ -477,7 +618,10 @@
     "imgC": "cartes/set3/lyra/0_commune/marque-dune-croix.webp",
     "nom": "Marqué d'une Croix",
     "faction": "Lyra",
-    "illustrateurice": "HuoMiao Studio"
+    "illustrateurice": "HuoMiao Studio",
+    "vote1": 1,
+    "vote2": 4,
+    "vote3": 4
   },
   {
     "id": 49,
@@ -487,7 +631,10 @@
     "imgC": "cartes/set3/lyra/0_commune/la-scene.webp",
     "nom": "La Scène",
     "faction": "Lyra",
-    "illustrateurice": "Zero Wen"
+    "illustrateurice": "Zero Wen",
+    "vote1": 1,
+    "vote2": 0,
+    "vote3": 1
   },
   {
     "id": 50,
@@ -497,7 +644,10 @@
     "imgC": "cartes/set3/lyra/0_commune/la-scene_alt.webp",
     "nom": "La Scène (alt)",
     "faction": "Lyra",
-    "illustrateurice": "Victor Canton"
+    "illustrateurice": "Victor Canton",
+    "vote1": 0,
+    "vote2": 1,
+    "vote3": 2
   },
   {
     "id": 51,
@@ -507,7 +657,10 @@
     "imgC": "cartes/set3/lyra/0_commune/le-wayfarer.webp",
     "nom": "Le Wayfarer",
     "faction": "Lyra",
-    "illustrateurice": "Fahmi Fauzi"
+    "illustrateurice": "Fahmi Fauzi",
+    "vote1": 8,
+    "vote2": 4,
+    "vote3": 11
   },
   {
     "id": 52,
@@ -517,7 +670,10 @@
     "imgC": "cartes/set3/muna/0_commune/fouisseur-noch.webp",
     "nom": "Fouisseur Nouch",
     "faction": "Muna",
-    "illustrateurice": "Ba Vo"
+    "illustrateurice": "Ba Vo",
+    "vote1": 3,
+    "vote2": 2,
+    "vote3": 4
   },
   {
     "id": 53,
@@ -527,7 +683,10 @@
     "imgC": "cartes/set3/muna/0_commune/beillerave.webp",
     "nom": "Beillerave",
     "faction": "Muna",
-    "illustrateurice": "Ba Vo"
+    "illustrateurice": "Ba Vo",
+    "vote1": 4,
+    "vote2": 3,
+    "vote3": 4
   },
   {
     "id": 54,
@@ -537,7 +696,10 @@
     "imgC": "cartes/set3/muna/0_commune/renarde-integre.webp",
     "nom": "Renarde Intègre",
     "faction": "Muna",
-    "illustrateurice": "Romain Kurdi"
+    "illustrateurice": "Romain Kurdi",
+    "vote1": 20,
+    "vote2": 9,
+    "vote3": 11
   },
   {
     "id": 55,
@@ -547,7 +709,10 @@
     "imgC": "cartes/set3/muna/0_commune/corgi-caline.webp",
     "nom": "Corgi Câline",
     "faction": "Muna",
-    "illustrateurice": "Zael"
+    "illustrateurice": "Zael",
+    "vote1": 8,
+    "vote2": 14,
+    "vote3": 8
   },
   {
     "id": 56,
@@ -557,7 +722,10 @@
     "imgC": "cartes/set3/muna/0_commune/flore-maraichere-attentive.webp",
     "nom": "Flore, Maraichère Attentive",
     "faction": "Muna",
-    "illustrateurice": "Ba Vo"
+    "illustrateurice": "Ba Vo",
+    "vote1": 4,
+    "vote2": 1,
+    "vote3": 5
   },
   {
     "id": 57,
@@ -567,7 +735,10 @@
     "imgC": "cartes/set3/muna/0_commune/la-petite-souris.webp",
     "nom": "La Petite Souris",
     "faction": "Muna",
-    "illustrateurice": "Jean-Baptiste Andrier"
+    "illustrateurice": "Jean-Baptiste Andrier",
+    "vote1": 8,
+    "vote2": 15,
+    "vote3": 7
   },
   {
     "id": 58,
@@ -577,7 +748,10 @@
     "imgC": "cartes/set3/muna/0_commune/essaim-de-libellumines.webp",
     "nom": "Essaim de Libellumines",
     "faction": "Muna",
-    "illustrateurice": "Khoa Viet"
+    "illustrateurice": "Khoa Viet",
+    "vote1": 1,
+    "vote2": 2,
+    "vote3": 4
   },
   {
     "id": 59,
@@ -587,7 +761,10 @@
     "imgC": "cartes/set3/muna/0_commune/grand-bois.webp",
     "nom": "Grand Bois",
     "faction": "Muna",
-    "illustrateurice": "Ba Vo"
+    "illustrateurice": "Ba Vo",
+    "vote1": 1,
+    "vote2": 2,
+    "vote3": 1
   },
   {
     "id": 60,
@@ -597,7 +774,10 @@
     "imgC": "cartes/set3/muna/0_commune/arawn.webp",
     "nom": "Arawn",
     "faction": "Muna",
-    "illustrateurice": "Taras Susak"
+    "illustrateurice": "Taras Susak",
+    "vote1": 0,
+    "vote2": 7,
+    "vote3": 7
   },
   {
     "id": 61,
@@ -607,7 +787,10 @@
     "imgC": "cartes/set3/muna/0_commune/le-minotaure.webp",
     "nom": "Le Minotaure",
     "faction": "Muna",
-    "illustrateurice": "Matteo Spirito"
+    "illustrateurice": "Matteo Spirito",
+    "vote1": 10,
+    "vote2": 9,
+    "vote3": 7
   },
   {
     "id": 62,
@@ -617,7 +800,10 @@
     "imgC": "cartes/set3/muna/0_commune/le-minotaure_alt.webp",
     "nom": "Le Minotaure (alt)",
     "faction": "Muna",
-    "illustrateurice": "Zero Wen"
+    "illustrateurice": "Zero Wen",
+    "vote1": 3,
+    "vote2": 0,
+    "vote3": 1
   },
   {
     "id": 63,
@@ -627,7 +813,10 @@
     "imgC": "cartes/set3/muna/0_commune/dissemination-de-seve.webp",
     "nom": "Dissémination de Sève",
     "faction": "Muna",
-    "illustrateurice": "Zael"
+    "illustrateurice": "Zael",
+    "vote1": 0,
+    "vote2": 1,
+    "vote3": 0
   },
   {
     "id": 64,
@@ -637,7 +826,10 @@
     "imgC": "cartes/set3/muna/0_commune/requiem.webp",
     "nom": "Requiem",
     "faction": "Muna",
-    "illustrateurice": "Jean-Baptiste Andrier"
+    "illustrateurice": "Jean-Baptiste Andrier",
+    "vote1": 2,
+    "vote2": 1,
+    "vote3": 7
   },
   {
     "id": 65,
@@ -647,7 +839,10 @@
     "imgC": "cartes/set3/muna/0_commune/nourrissement.webp",
     "nom": "Nourrissement",
     "faction": "Muna",
-    "illustrateurice": "Nestor Papatriantafyllou"
+    "illustrateurice": "Nestor Papatriantafyllou",
+    "vote1": 0,
+    "vote2": 1,
+    "vote3": 0
   },
   {
     "id": 66,
@@ -657,7 +852,10 @@
     "imgC": "cartes/set3/muna/0_commune/le-sous-bois.webp",
     "nom": "Le Sous-Bois",
     "faction": "Muna",
-    "illustrateurice": "Ba Vo"
+    "illustrateurice": "Ba Vo",
+    "vote1": 9,
+    "vote2": 5,
+    "vote3": 6
   },
   {
     "id": 67,
@@ -667,7 +865,10 @@
     "imgC": "cartes/set3/muna/0_commune/la-ferme.webp",
     "nom": "La Ferme",
     "faction": "Muna",
-    "illustrateurice": "Khoa Viet"
+    "illustrateurice": "Khoa Viet",
+    "vote1": 0,
+    "vote2": 1,
+    "vote3": 0
   },
   {
     "id": 68,
@@ -677,7 +878,10 @@
     "imgC": "cartes/set3/muna/0_commune/la-ferme_alt.webp",
     "nom": "La Ferme (alt)",
     "faction": "Muna",
-    "illustrateurice": "Victor Canton"
+    "illustrateurice": "Victor Canton",
+    "vote1": 0,
+    "vote2": 0,
+    "vote3": 1
   },
   {
     "id": 69,
@@ -687,7 +891,10 @@
     "imgC": "cartes/set3/ordis/0_commune/crieur-ordis.webp",
     "nom": "Crieur Ordis",
     "faction": "Ordis",
-    "illustrateurice": "Matteo Spirito"
+    "illustrateurice": "Matteo Spirito",
+    "vote1": 9,
+    "vote2": 11,
+    "vote3": 4
   },
   {
     "id": 70,
@@ -697,7 +904,10 @@
     "imgC": "cartes/set3/ordis/0_commune/commis-du-personnel.webp",
     "nom": "Commis du Personnel",
     "faction": "Ordis",
-    "illustrateurice": "Romain Kurdi"
+    "illustrateurice": "Romain Kurdi",
+    "vote1": 1,
+    "vote2": 2,
+    "vote3": 2
   },
   {
     "id": 71,
@@ -707,7 +917,10 @@
     "imgC": "cartes/set3/ordis/0_commune/comptable-ordis.webp",
     "nom": "Comptable Ordis",
     "faction": "Ordis",
-    "illustrateurice": "Matteo Spirito"
+    "illustrateurice": "Matteo Spirito",
+    "vote1": 1,
+    "vote2": 4,
+    "vote3": 6
   },
   {
     "id": 72,
@@ -717,7 +930,10 @@
     "imgC": "cartes/set3/ordis/0_commune/leo-expert-en-reliques.webp",
     "nom": "Leo, Expert en Reliques",
     "faction": "Ordis",
-    "illustrateurice": "Fahmi Fauzi"
+    "illustrateurice": "Fahmi Fauzi",
+    "vote1": 3,
+    "vote2": 2,
+    "vote3": 0
   },
   {
     "id": 73,
@@ -727,7 +943,10 @@
     "imgC": "cartes/set3/ordis/0_commune/templier-de-laegis.webp",
     "nom": "Templier de l'Aegis",
     "faction": "Ordis",
-    "illustrateurice": "Taras Susak"
+    "illustrateurice": "Taras Susak",
+    "vote1": 6,
+    "vote2": 7,
+    "vote3": 4
   },
   {
     "id": 74,
@@ -737,7 +956,10 @@
     "imgC": "cartes/set3/ordis/0_commune/regisseuse-ordis.webp",
     "nom": "Régisseuse Ordis",
     "faction": "Ordis",
-    "illustrateurice": "Matteo Spirito"
+    "illustrateurice": "Matteo Spirito",
+    "vote1": 1,
+    "vote2": 0,
+    "vote3": 4
   },
   {
     "id": 75,
@@ -747,7 +969,10 @@
     "imgC": "cartes/set3/ordis/0_commune/fiore-dei-liberi.webp",
     "nom": "Fiore dei Liberi",
     "faction": "Ordis",
-    "illustrateurice": "Jean-Baptiste Andrier"
+    "illustrateurice": "Jean-Baptiste Andrier",
+    "vote1": 7,
+    "vote2": 4,
+    "vote3": 2
   },
   {
     "id": 76,
@@ -757,7 +982,10 @@
     "imgC": "cartes/set3/ordis/0_commune/inspecteur-sanitaire.webp",
     "nom": "Inspecteur Sanitaire",
     "faction": "Ordis",
-    "illustrateurice": "Justice Wong"
+    "illustrateurice": "Justice Wong",
+    "vote1": 2,
+    "vote2": 2,
+    "vote3": 1
   },
   {
     "id": 77,
@@ -767,7 +995,10 @@
     "imgC": "cartes/set3/ordis/0_commune/ariane.webp",
     "nom": "Ariane",
     "faction": "Ordis",
-    "illustrateurice": "Damian Audino"
+    "illustrateurice": "Damian Audino",
+    "vote1": 7,
+    "vote2": 5,
+    "vote3": 7
   },
   {
     "id": 78,
@@ -777,7 +1008,10 @@
     "imgC": "cartes/set3/ordis/0_commune/ariane_alt.webp",
     "nom": "Ariane (alt)",
     "faction": "Ordis",
-    "illustrateurice": "Zero Wen"
+    "illustrateurice": "Zero Wen",
+    "vote1": 1,
+    "vote2": 0,
+    "vote3": 2
   },
   {
     "id": 79,
@@ -787,7 +1021,10 @@
     "imgC": "cartes/set3/ordis/0_commune/simurgh.webp",
     "nom": "Simurgh",
     "faction": "Ordis",
-    "illustrateurice": "Khoa Viet"
+    "illustrateurice": "Khoa Viet",
+    "vote1": 12,
+    "vote2": 12,
+    "vote3": 10
   },
   {
     "id": 80,
@@ -797,7 +1034,10 @@
     "imgC": "cartes/set3/ordis/0_commune/conscription.webp",
     "nom": "Conscription",
     "faction": "Ordis",
-    "illustrateurice": "Romain Kurdi"
+    "illustrateurice": "Romain Kurdi",
+    "vote1": 3,
+    "vote2": 4,
+    "vote3": 2
   },
   {
     "id": 81,
@@ -807,7 +1047,10 @@
     "imgC": "cartes/set3/ordis/0_commune/retrait-de-licence.webp",
     "nom": "Retrait de Licence",
     "faction": "Ordis",
-    "illustrateurice": "Justice Wong"
+    "illustrateurice": "Justice Wong",
+    "vote1": 0,
+    "vote2": 1,
+    "vote3": 1
   },
   {
     "id": 82,
@@ -817,7 +1060,10 @@
     "imgC": "cartes/set3/ordis/0_commune/testament-de-rune.webp",
     "nom": "Testament de Rune",
     "faction": "Ordis",
-    "illustrateurice": "Fahmi Fauzi"
+    "illustrateurice": "Fahmi Fauzi",
+    "vote1": 1,
+    "vote2": 6,
+    "vote3": 5
   },
   {
     "id": 83,
@@ -827,7 +1073,10 @@
     "imgC": "cartes/set3/ordis/0_commune/la-grand-place.webp",
     "nom": "La Grand-Place",
     "faction": "Ordis",
-    "illustrateurice": "Jean-Baptiste Andrier"
+    "illustrateurice": "Jean-Baptiste Andrier",
+    "vote1": 0,
+    "vote2": 3,
+    "vote3": 1
   },
   {
     "id": 84,
@@ -837,7 +1086,10 @@
     "imgC": "cartes/set3/ordis/0_commune/la-grand-place_alt.webp",
     "nom": "La Grand-Place (alt)",
     "faction": "Ordis",
-    "illustrateurice": "Victor Canton"
+    "illustrateurice": "Victor Canton",
+    "vote1": 3,
+    "vote2": 1,
+    "vote3": 8
   },
   {
     "id": 85,
@@ -847,7 +1099,10 @@
     "imgC": "cartes/set3/ordis/0_commune/mesektet.webp",
     "nom": "Mesektet",
     "faction": "Ordis",
-    "illustrateurice": "Taras Susak"
+    "illustrateurice": "Taras Susak",
+    "vote1": 14,
+    "vote2": 5,
+    "vote3": 6
   },
   {
     "id": 86,
@@ -857,7 +1112,10 @@
     "imgC": "cartes/set3/yzmir/0_commune/griffonneur-etoile.webp",
     "nom": "Griffonneur Étoilé",
     "faction": "Yzmir",
-    "illustrateurice": "Zero Wen"
+    "illustrateurice": "Zero Wen",
+    "vote1": 7,
+    "vote2": 1,
+    "vote3": 3
   },
   {
     "id": 87,
@@ -867,7 +1125,10 @@
     "imgC": "cartes/set3/yzmir/0_commune/pasiphae.webp",
     "nom": "Pasiphaé",
     "faction": "Yzmir",
-    "illustrateurice": "Zael"
+    "illustrateurice": "Zael",
+    "vote1": 1,
+    "vote2": 2,
+    "vote3": 5
   },
   {
     "id": 88,
@@ -877,7 +1138,10 @@
     "imgC": "cartes/set3/yzmir/0_commune/pasiphae_alt.webp",
     "nom": "Pasiphaé (alt)",
     "faction": "Yzmir",
-    "illustrateurice": "Jean-Baptiste Andrier"
+    "illustrateurice": "Jean-Baptiste Andrier",
+    "vote1": 3,
+    "vote2": 1,
+    "vote3": 2
   },
   {
     "id": 89,
@@ -887,7 +1151,10 @@
     "imgC": "cartes/set3/yzmir/0_commune/tatoueur-yzmir.webp",
     "nom": "Tatoueur Yzmir",
     "faction": "Yzmir",
-    "illustrateurice": "Zero Wen"
+    "illustrateurice": "Zero Wen",
+    "vote1": 0,
+    "vote2": 6,
+    "vote3": 2
   },
   {
     "id": 90,
@@ -897,7 +1164,10 @@
     "imgC": "cartes/set3/yzmir/0_commune/infirmiere-yzmir.webp",
     "nom": "Infirmière Yzmir",
     "faction": "Yzmir",
-    "illustrateurice": "Dimas Iswara"
+    "illustrateurice": "Dimas Iswara",
+    "vote1": 0,
+    "vote2": 0,
+    "vote3": 1
   },
   {
     "id": 91,
@@ -907,7 +1177,10 @@
     "imgC": "cartes/set3/yzmir/0_commune/indic-du-qorgan.webp",
     "nom": "Indic du Qorgan",
     "faction": "Yzmir",
-    "illustrateurice": "HuoMiao Studio"
+    "illustrateurice": "HuoMiao Studio",
+    "vote1": 3,
+    "vote2": 7,
+    "vote3": 1
   },
   {
     "id": 92,
@@ -917,7 +1190,10 @@
     "imgC": "cartes/set3/yzmir/0_commune/entomologiste-yzmir.webp",
     "nom": "Entomologiste Yzmir",
     "faction": "Yzmir",
-    "illustrateurice": "Victor Canton"
+    "illustrateurice": "Victor Canton",
+    "vote1": 5,
+    "vote2": 6,
+    "vote3": 14
   },
   {
     "id": 93,
@@ -927,7 +1203,10 @@
     "imgC": "cartes/set3/yzmir/0_commune/sylas-sorcier-insondable.webp",
     "nom": "Sylas, Sorcier Insondable",
     "faction": "Yzmir",
-    "illustrateurice": "Zero Wen"
+    "illustrateurice": "Zero Wen",
+    "vote1": 6,
+    "vote2": 10,
+    "vote3": 5
   },
   {
     "id": 94,
@@ -937,7 +1216,10 @@
     "imgC": "cartes/set3/yzmir/0_commune/merlin.webp",
     "nom": "Merlin",
     "faction": "Yzmir",
-    "illustrateurice": "Taras Susak"
+    "illustrateurice": "Taras Susak",
+    "vote1": 3,
+    "vote2": 4,
+    "vote3": 6
   },
   {
     "id": 95,
@@ -947,7 +1229,10 @@
     "imgC": "cartes/set3/yzmir/0_commune/laffame.webp",
     "nom": "L'Affamé",
     "faction": "Yzmir",
-    "illustrateurice": "Taras Susak"
+    "illustrateurice": "Taras Susak",
+    "vote1": 16,
+    "vote2": 12,
+    "vote3": 5
   },
   {
     "id": 96,
@@ -957,7 +1242,10 @@
     "imgC": "cartes/set3/yzmir/0_commune/infusion-de-seve.webp",
     "nom": "Infusion de Sève",
     "faction": "Yzmir",
-    "illustrateurice": "HuoMiao Studio"
+    "illustrateurice": "HuoMiao Studio",
+    "vote1": 2,
+    "vote2": 1,
+    "vote3": 5
   },
   {
     "id": 97,
@@ -967,7 +1255,10 @@
     "imgC": "cartes/set3/yzmir/0_commune/evanescence.webp",
     "nom": "Évanescence",
     "faction": "Yzmir",
-    "illustrateurice": "Justice Wong"
+    "illustrateurice": "Justice Wong",
+    "vote1": 16,
+    "vote2": 6,
+    "vote3": 8
   },
   {
     "id": 98,
@@ -977,27 +1268,36 @@
     "imgC": "cartes/set3/yzmir/0_commune/metamorphose.webp",
     "nom": "Métamorphose",
     "faction": "Yzmir",
-    "illustrateurice": "Zero Wen"
+    "illustrateurice": "Zero Wen",
+    "vote1": 3,
+    "vote2": 2,
+    "vote3": 4
   },
   {
     "id": 99,
-    "num": "100",
+    "num": "10",
     "imgU": "cartes/set3/yzmir/festin-de-pensees.webp",
     "imgR": "cartes/set3/yzmir/0_rare/festin-de-pensees.webp",
     "imgC": "cartes/set3/yzmir/0_commune/festin-de-pensees.webp",
     "nom": "Festin de Pensées",
     "faction": "Yzmir",
-    "illustrateurice": "HuoMiao Studio"
+    "illustrateurice": "HuoMiao Studio",
+    "vote1": 2,
+    "vote2": 6,
+    "vote3": 1
   },
   {
-    "id": 100,
+    "id": 10,
     "num": "101a",
     "imgU": "cartes/set3/yzmir/les-fleches-du-nilam.webp",
     "imgR": "cartes/set3/yzmir/0_rare/les-fleches-du-nilam.webp",
     "imgC": "cartes/set3/yzmir/0_commune/les-fleches-du-nilam.webp",
     "nom": "Les Flèches du Nilam",
     "faction": "Yzmir",
-    "illustrateurice": "Jean-Baptiste Andrier"
+    "illustrateurice": "Jean-Baptiste Andrier",
+    "vote1": 0,
+    "vote2": 2,
+    "vote3": 4
   },
   {
     "id": 101,
@@ -1007,7 +1307,10 @@
     "imgC": "cartes/set3/yzmir/0_commune/les-fleches-du-nilam_alt.webp",
     "nom": "Les Flèches du Nilam (alt)",
     "faction": "Yzmir",
-    "illustrateurice": "Victor Canton"
+    "illustrateurice": "Victor Canton",
+    "vote1": 3,
+    "vote2": 2,
+    "vote3": 3
   },
   {
     "id": 102,
@@ -1017,7 +1320,10 @@
     "imgC": "cartes/set3/yzmir/0_commune/le-sepulcre-des-sages.webp",
     "nom": "Le Sépulcre des Sages",
     "faction": "Yzmir",
-    "illustrateurice": "Jean-Baptiste Andrier"
+    "illustrateurice": "Jean-Baptiste Andrier",
+    "vote1": 0,
+    "vote2": 2,
+    "vote3": 1
   },
   {
     "id": 103,
@@ -1027,7 +1333,10 @@
     "imgC": "cartes/set3/axiom/jeton-scarabot.webp",
     "nom": "Jeton Scarabot",
     "faction": "Axiom",
-    "illustrateurice": "Anh Tung"
+    "illustrateurice": "Anh Tung",
+    "vote1": 6,
+    "vote2": 3,
+    "vote3": 6
   },
   {
     "id": 104,
@@ -1037,7 +1346,10 @@
     "imgC": "cartes/set3/ordis/jeton-recrue-ordis.webp",
     "nom": "Jeton Recrue Ordis",
     "faction": "Ordis",
-    "illustrateurice": "Zero Wen"
+    "illustrateurice": "Zero Wen",
+    "vote1": 2,
+    "vote2": 2,
+    "vote3": 5
   },
   {
     "id": 105,
@@ -1047,6 +1359,9 @@
     "imgC": "cartes/set3/yzmir/jeton-phalene-de-mana.webp",
     "nom": "Jeton Phalène de Mana",
     "faction": "Yzmir",
-    "illustrateurice": "Jean-Baptiste Andrier"
+    "illustrateurice": "Jean-Baptiste Andrier",
+    "vote1": 3,
+    "vote2": 3,
+    "vote3": 3
   }
 ]
