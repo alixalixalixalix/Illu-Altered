@@ -1346,7 +1346,10 @@
     "imgC": "cartes/set2/bravos/jeton-booda.webp",
     "nom": "Jeton Booda",
     "faction": "Bravos",
-    "illustrateurice": "Edward Chee - Seok Yeong"
+    "illustrateurice": "Edward Chee - Seok Yeong",
+    "vote1": false,
+    "vote2": false,
+    "vote3": false
   },
   {
     "id": 105,
@@ -1356,7 +1359,10 @@
     "imgC": "cartes/set2/ordis/jeton-recrue-ordis.webp",
     "nom": "Jeton Recrue Ordis",
     "faction": "Ordis",
-    "illustrateurice": "Jean-Baptiste Andrier"
+    "illustrateurice": "Jean-Baptiste Andrier",
+    "vote1": false,
+    "vote2": false,
+    "vote3": false
   },
   {
     "id": 106,
@@ -1366,7 +1372,10 @@
     "imgC": "cartes/set2/yzmir/jeton-phalene-de-mana.webp",
     "nom": "Jeton Phalène de Mana",
     "faction": "Yzmir",
-    "illustrateurice": "HuoMiao Studio"
+    "illustrateurice": "HuoMiao Studio",
+    "vote1": false,
+    "vote2": false,
+    "vote3": false
   },
     {
     "id": 107,
@@ -1376,7 +1385,10 @@
     "imgC": "cartes/set2/yzmir/jeton-phalene-de-mana_world.webp",
     "nom": "Jeton Phalène de Mana (world)",
     "faction": "Yzmir",
-    "illustrateurice": "HuoMiao Studio"
+    "illustrateurice": "HuoMiao Studio",
+    "vote1": false,
+    "vote2": false,
+    "vote3": false
   },
   {
     "id": 108,
@@ -1386,7 +1398,10 @@
     "imgC": "cartes/set2/jeton-reflet-draconique.webp",
     "nom": "Jeton Reflet Draconique",
     "faction": "",
-    "illustrateurice": "Zero Wen"
+    "illustrateurice": "Zero Wen",
+    "vote1": false,
+    "vote2": false,
+    "vote3": false
   },
   {
     "id": 109,
@@ -1396,6 +1411,9 @@
     "imgC": "cartes/set2/ordis/0_commune/kuraokami-libere-des-glaces.webp",
     "nom": "Kuraokami Libéré des Glaces",
     "faction": "Ordis",
-    "illustrateurice": "Zero Wen"
+    "illustrateurice": "Zero Wen",
+    "vote1": false,
+    "vote2": false,
+    "vote3": false
   }
 ]

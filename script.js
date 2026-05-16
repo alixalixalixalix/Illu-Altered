@@ -109,7 +109,7 @@ const fetchData = async () => {
           divVoix.style.display = "flex";
           filtreVisible.style.display = "flex";
           nbVotes.disabled = false;
-          if ((dataSelect[i].vote1 === false)) {
+          if (dataSelect[i].vote1 === false) {
             totalVoix.innerText = "Non concerné par le vote";
             nbVoix.style.display = "none";
             pourcentVoix.style.display = "none";
@@ -248,6 +248,33 @@ const fetchData = async () => {
       });
     }
 
+    selectFaction.addEventListener("change", (event) => {
+      let filtreAction = dataSelect.filter(function (cartes) {
+        if (selectFaction.value === "axiom") {
+          return cartes.faction.includes("Axiom");
+        }
+        if (selectFaction.value === "bravos") {
+          return cartes.faction.includes("Bravos");
+        }
+        if (selectFaction.value === "lyra") {
+          return cartes.faction.includes("Lyra");
+        }
+        if (selectFaction.value === "muna") {
+          return cartes.faction.includes("Muna");
+        }
+        if (selectFaction.value === "ordis") {
+          return cartes.faction.includes("Ordis");
+        }
+        if (selectFaction.value === "yzmir") {
+          return cartes.faction.includes("Yzmir");
+        } else {
+          return cartes.faction;
+        }
+      });
+      generatorCartes(filtreAction);
+      applyGridToCartes();
+    });
+
     let currentGridClass = "grid4";
     let allButtonsGrid = document.querySelectorAll("#containerGrid button");
     let gridClasses = ["grid2", "grid3", "grid4", "grid5"];
@@ -288,10 +315,11 @@ const fetchData = async () => {
       });
     }
 
-    // SET
+    // FILTRE CHANGEMENT D'EXTENSION
     selectSet.addEventListener("change", (event) => {
       let numSelect2 = document.getElementById("set").options.selectedIndex;
-      selectFaction.selected = "Toutes"
+      selectFaction.selectedIndex = 0;
+      selectTri.selectedIndex = 0;
       let tabData2 = [
         dataCartesSet1,
         dataCartesSet2,
