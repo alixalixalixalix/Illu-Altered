@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
   <head>
     <meta charset="utf-8" />
@@ -15,15 +15,55 @@
   </head>
   <body>
     <header>
-      <select name="set" id="set">
-        <option value="set1">SET 1 : Au-delà des Portes</option>
-        <option value="set2">SET 2 : L'Épreuve du Froid</option>
-        <option value="set3">SET 3 : Murmures du Labyrinthe</option>
-        <option value="set4">SET 4 : Odyssée des Cieux</option>
-        <option value="set5">SET 5 : Les Graines de l'Unité</option>
-        <option value="set6">SET 6 : Les Racines de la Corruption</option>
-        <option value="set7" selected>SET 7 : La Traversée Éternelle</option>
-      </select>
+      <div>
+        <div>
+          <label for="set">EXTENSION</label>
+          <select name="set" id="set">
+            <option value="set1">SET 1 : Au-delà des Portes</option>
+            <option value="set2">SET 2 : L'Épreuve du Froid</option>
+            <option value="set3" selected>
+              SET 3 : Murmures du Labyrinthe
+            </option>
+            <option value="set4">SET 4 : Odyssée des Cieux</option>
+            <option value="set5">SET 5 : Les Graines de l'Unité</option>
+            <option value="set6">SET 6 : Les Racines de la Corruption</option>
+            <option value="set7">SET 7 : La Traversée Éternelle</option>
+          </select>
+        </div>
+        <div>
+          <label for="faction">FACTION</label>
+          <select name="faction" id="faction">
+            <option value="toutes" selected>Toutes</option>
+            <option value="axiom">Axiom</option>
+            <option value="bravos">Bravos</option>
+            <option value="lyra">Lyra</option>
+            <option value="muna">Muna</option>
+            <option value="ordis">Ordis</option>
+            <option value="yzmir">Yzmir</option>
+          </select>
+        </div>
+        <div>
+          <label for="tri">TRI PAR</label>
+          <select name="tri" id="tri">
+            <option value="num" selected>Numéro cartes</option>
+            <option value="alpha">Alphabétique</option>
+            <option id="nbVotes" value="nbVotes">Nombre votes</option>
+          </select>
+        </div>
+        <div>
+          <label for="nbColonne">NB COLONNE</label>
+          <select name="nbColonne" id="nbColonne">
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4" selected>4</option>
+            <option value="5">5</option>
+          </select>
+        </div>
+        <div id="filtre-visible">
+          <img src="icon-invisible.svg" alt="">
+          <p>Masquer votes</p>
+        </div>
+      </div>
     </header>
 
     <section id="filtres">
@@ -32,7 +72,12 @@
         <button id="button-commune">Commune</button>
         <button id="button-rare">Rare</button>
         <button id="button-unique" class="rareteActive">Unique</button>
-        <a href=""><img src="info.svg" alt=""><span>Seules les cartes personnages possèdent une illustration unique</span></a>
+        <a href=""
+          ><img src="info.svg" alt="" /><span
+            >Seules les cartes personnages possèdent une illustration
+            unique</span
+          ></a
+        >
       </div>
       <div id="containerFaction">
         <p>Faction</p>
@@ -41,8 +86,8 @@
       <div id="containerGrid">
         <p>Nombre de colonnes</p>
         <button>2</button>
-        <button class="gridActif">3</button>
-        <button>4</button>
+        <button>3</button>
+        <button class="gridActif">4</button>
         <button>5</button>
       </div>
     </section>

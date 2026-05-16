@@ -26,7 +26,12 @@ const fetchData = async () => {
     const responseCartesSet7 = await fetch("data_set7.json");
     const dataCartesSet7 = await responseCartesSet7.json();
 
-    const select = document.getElementById("set");
+    const selectSet = document.getElementById("set");
+    const selectFaction = document.getElementById("faction");
+    const selectTri = document.getElementById("tri");
+    const selectColonne = document.getElementById("nbColonne");
+    const filtreVisible = document.querySelector("#filtre-visible");
+
     let numSelect = document.getElementById("set").options.selectedIndex;
     let tabData = [
       dataCartesSet1,
@@ -53,13 +58,21 @@ const fetchData = async () => {
       for (let i = 0; i < dataSelect.length; i++) {
         const div = document.createElement("div");
         div.classList.add("cardCarte");
-        div.classList.add("grid3");
+        div.classList.add("grid4");
         const imgU = document.createElement("img");
         const imgR = document.createElement("img");
         const imgC = document.createElement("img");
         const divInfo = document.createElement("div");
+        const divInfoFacNom = document.createElement("div");
         const nom = document.createElement("p");
         const num = document.createElement("p");
+        const divVoix = document.createElement("div");
+        const nbVoix = document.createElement("p");
+        const totalVoix = document.createElement("p");
+        const totalVotantSet1 = 271;
+        const totalVotantSet2 = 168;
+        const totalVotantSet3 = 73;
+        const pourcentVoix = document.createElement("p");
         const divIllustrateur = document.createElement("div");
         const iconIllustrateur = document.createElement("img");
         const nomIllustrateur = document.createElement("p");
@@ -76,10 +89,59 @@ const fetchData = async () => {
         imgC.classList.add("commune");
         div.appendChild(divInfo);
         divInfo.classList.add("carte-info");
-
-        divInfo.appendChild(nom);
+        divInfo.appendChild(divInfoFacNom);
+        divInfoFacNom.appendChild(nom);
         divInfo.appendChild(num);
         num.classList.add("cardNum");
+        divVoix.classList.add("carte-vote");
+        div.appendChild(divVoix);
+        divVoix.appendChild(nbVoix);
+        divVoix.appendChild(totalVoix);
+        divVoix.appendChild(pourcentVoix);
+
+        // FILTRE VOTE
+        const nbVotes = document.querySelector("#nbVotes");
+        if (
+          selectSet.value === "set1" ||
+          selectSet.value === "set2" ||
+          selectSet.value === "set3"
+        ) {
+          divVoix.style.display = "flex";
+          filtreVisible.style.display = "flex";
+          nbVotes.disabled = false;
+          if ((dataSelect[i].vote1 === false)) {
+            totalVoix.innerText = "Non concerné par le vote";
+            nbVoix.style.display = "none";
+            pourcentVoix.style.display = "none";
+          } else {
+            const calculNbVoix =
+              dataSelect[i].vote1 + dataSelect[i].vote2 + dataSelect[i].vote3;
+            nbVoix.innerText = calculNbVoix + " voix";
+            totalVoix.innerText = "/ " + totalVotantSet3;
+            pourcentVoix.innerText =
+              "· " + Math.round((calculNbVoix / totalVotantSet3) * 100) + "%";
+          }
+        } else {
+          divVoix.style.display = "none";
+          filtreVisible.style.display = "none";
+          nbVotes.disabled = true;
+        }
+
+        // BTN FILTRE SWITCH
+        const imgFiltreVisible = document.querySelector("#filtre-visible img");
+        const pFiltreVisible = document.querySelector("#filtre-visible p");
+        filtreVisible.addEventListener("click", function () {
+          if (divVoix.style.display === "none") {
+            divVoix.style.display = "flex";
+            imgFiltreVisible.src = "icon-invisible.svg";
+            pFiltreVisible.innerText = "Masquer votes";
+          } else {
+            divVoix.style.display = "none";
+            imgFiltreVisible.src = "icon-visible.svg";
+            pFiltreVisible.innerText = "Afficher votes";
+          }
+        });
+
         div.appendChild(divIllustrateur);
         divIllustrateur.appendChild(iconIllustrateur);
         divIllustrateur.appendChild(nomIllustrateur);
@@ -104,6 +166,40 @@ const fetchData = async () => {
       containerButton.appendChild(boutonFaction);
       boutonFaction.innerText = dataFactions[i].nom;
     }
+
+    ///////
+    /////
+    ////
+    //
+    ///
+    //
+    selectFaction.addEventListener("change", (event) => {
+      const factionSelectionnee = selectFaction.value;
+      const cartesFiltrees = factionSelectionnee
+        ? dataSelect.filter((carte) => carte.faction === factionSelectionnee)
+        : dataSelect;
+      generatorCartes(cartesFiltrees);
+      applyGridToCartes();
+    });
+
+    selectTri.addEventListener("change", (event) => {
+      if (selectTri.value === "num") {
+        dataSelect.sort(function (a, b) {
+          return a.id - b.id;
+        });
+      }
+      if (selectTri.value === "alpha") {
+        dataSelect.sort(function (a, b) {
+          return a.nom.localeCompare(b.nom);
+        });
+      }
+      if (selectTri.value === "nbVotes") {
+        dataSelect.sort(function (a, b) {
+          return b.vote1 + b.vote2 + b.vote3 - (a.vote1 + a.vote2 + a.vote3);
+        });
+      }
+      generatorCartes(dataSelect);
+    });
 
     // Tri faction fonctionnel
     let allButtonsFilters = document.querySelectorAll(
@@ -152,10 +248,11 @@ const fetchData = async () => {
       });
     }
 
-    let currentGridClass = "grid3";
+    let currentGridClass = "grid4";
     let allButtonsGrid = document.querySelectorAll("#containerGrid button");
     let gridClasses = ["grid2", "grid3", "grid4", "grid5"];
 
+    // GRID
     allButtonsGrid.forEach((button, index) => {
       button.addEventListener("click", function () {
         const actifButton = document.querySelector(".gridActif");
@@ -166,6 +263,17 @@ const fetchData = async () => {
 
         currentGridClass = gridClasses[index]; // met à jour la grille active
         applyGridToCartes();
+      });
+    });
+
+    const cardCarte = document.querySelectorAll("#containerCartes > div");
+    console.log(cardCarte);
+    selectColonne.addEventListener("change", (event) => {
+      cardCarte.forEach((card) => {
+        card.classList.remove("grid2", "grid3", "grid4", "grid5");
+        if (selectColonne.value === "2") {
+          card.classList.add("grid2");
+        }
       });
     });
 
@@ -180,8 +288,10 @@ const fetchData = async () => {
       });
     }
 
-    select.addEventListener("change", (event) => {
+    // SET
+    selectSet.addEventListener("change", (event) => {
       let numSelect2 = document.getElementById("set").options.selectedIndex;
+      selectFaction.selected = "Toutes"
       let tabData2 = [
         dataCartesSet1,
         dataCartesSet2,
@@ -189,6 +299,7 @@ const fetchData = async () => {
         dataCartesSet4,
         dataCartesSet5,
         dataCartesSet6,
+        dataCartesSet7,
       ];
       dataSelect = tabData2[numSelect2];
 

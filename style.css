@@ -5,26 +5,67 @@
 
 body {
   margin: 0;
+  background-color: #121212;
 }
 
 a {
-  color: black;
+  color: white;
 }
 
 header {
-  display: flex;
-  justify-content: center;
-  margin: 36px;
-  @media (max-width: 1200px) {
-    flex-direction: column;
+  position: fixed;
+  width: 100vw;
+  top: 0px;
+  background-color: #1e1e1e;
+  > div {
+    max-width: 1440px;
+    display: flex;
     gap: 16px;
+    padding: 16px 16px 16px 0px;
+    color: white;
+    margin: auto;
+    @media (max-width: 1200px) {
+      flex-direction: column;
+      gap: 16px;
+    }
+    div {
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+      label {
+        font-weight: bold;
+        font-size: 12px;
+      }
+      select {
+        background-color: #464646;
+        color: white;
+        font-size: 16px;
+        min-width: 160px;
+        padding: 4px 8px;
+      }
+      #set {
+        min-width: 300px;
+      }
+    }
+    #filtre-visible {
+      cursor: pointer;
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      img {
+        width: 24px;
+      }
+    }
+    #filtre-visible:hover{
+      opacity: 0.8;
+    }
   }
 }
 
 select {
-  border-radius: 100px;
+  border-radius: 8px;
   font-size: 20px;
-  background-color: #f4efef;
+  background-color: #464646;
   border: 0px;
   padding: 8px 16px;
   display: flex;
@@ -88,18 +129,23 @@ select {
 }
 
 #containerCartes {
-  margin: 16px 16px 100px 16px;
+  margin: 120px 16px 100px 16px;
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
   gap: 36px;
   .cardCarte {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
     .img-carte {
-      box-shadow: 0px 0px 20px rgba(200, 200, 200, 0.5);
+      /*      box-shadow: 0px 0px 20px rgba(200, 200, 200, 0.5);*/
       width: 100%;
     }
     p {
       margin: 0;
+      font-size: 16px;
+      color: white;
     }
     button {
       border-radius: 20px;
@@ -109,19 +155,35 @@ select {
     .carte-info {
       display: flex;
       justify-content: space-between;
-      margin-bottom: 4px;
+      margin-top: 4px;
+      align-items: center;
+      div {
+        display: flex;
+        gap: 6px;
+        align-items: center;
+        p {
+          margin-top: 2px;
+        }
+      }
+      img {
+        width: 24px;
+      }
       p {
-        font-size: 16px;
-        margin-top: 8px;
         font-weight: 600;
       }
       .cardNum {
         border-radius: 50px;
         padding: 1px 7px;
         font-weight: bold;
-        color: black;
-        margin-top: 6px;
-        background-color: #ececec;
+        color: white;
+        background-color: #464646;
+      }
+    }
+    .carte-vote {
+      display: flex;
+      gap: 4px;
+      p:nth-child(2) {
+        opacity: 0.3;
       }
     }
   }
@@ -183,14 +245,15 @@ select {
   }
 }
 
-.commune, .rare {
+.commune,
+.rare {
   display: none;
 }
 
 span {
   display: none;
   position: absolute;
-  background: #CCCCCC;
+  background: #cccccc;
   color: black;
   padding: 2px 4px;
   border-radius: 4px;

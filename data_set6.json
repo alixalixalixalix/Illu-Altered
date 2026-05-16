@@ -1139,7 +1139,16 @@
     "faction": "Yzmir",
     "illustrateurice": "Justice Wong"
   },
-
+  {
+    "id": 41,
+    "num": "115",
+    "imgU": "cartes/set6/yzmir/jeton-aerolithe.webp",
+    "imgR": "cartes/set6/yzmir/jeton-aerolithe.webp",
+    "imgC": "cartes/set6/yzmir/jeton-aerolithe.webp",
+    "nom": "Jeton Aérolithe",
+    "faction": "",
+    "illustrateurice": "Jean-Baptiste Andrier"
+  },
   {
     "id": 41,
     "num": "117",
