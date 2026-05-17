@@ -158,30 +158,7 @@ const fetchData = async () => {
       }
     }
 
-    // Affichage des boutton filtre FACTION
-    for (i = 0; i < dataFactions.length; i++) {
-      const containerButton = document.querySelector("#containerFaction");
-      const boutonFaction = document.createElement("button");
-      boutonFaction.classList.add("bouton");
-      containerButton.appendChild(boutonFaction);
-      boutonFaction.innerText = dataFactions[i].nom;
-    }
-
-    ///////
-    /////
-    ////
-    //
-    ///
-    //
-    selectFaction.addEventListener("change", (event) => {
-      const factionSelectionnee = selectFaction.value;
-      const cartesFiltrees = factionSelectionnee
-        ? dataSelect.filter((carte) => carte.faction === factionSelectionnee)
-        : dataSelect;
-      generatorCartes(cartesFiltrees);
-      applyGridToCartes();
-    });
-
+    // SELECT TRI
     selectTri.addEventListener("change", (event) => {
       if (selectTri.value === "num") {
         dataSelect.sort(function (a, b) {
@@ -199,56 +176,12 @@ const fetchData = async () => {
         });
       }
       generatorCartes(dataSelect);
+      applyGridToCartes();
+      triFaction();
     });
 
-    // Tri faction fonctionnel
-    let allButtonsFilters = document.querySelectorAll(
-      "#containerFaction button",
-    );
-    let buttonAll = document.getElementById("all").innerText;
-    for (let i = 0; i < allButtonsFilters.length; i++) {
-      allButtonsFilters[i].addEventListener("click", function () {
-        allButtonsFilters[0].classList.remove("factionActive");
-        allButtonsFilters[1].classList.remove("factionActiveAxiom");
-        allButtonsFilters[2].classList.remove("factionActiveBravos");
-        allButtonsFilters[3].classList.remove("factionActiveLyra");
-        allButtonsFilters[4].classList.remove("factionActiveMuna");
-        allButtonsFilters[5].classList.remove("factionActiveOrdis");
-        allButtonsFilters[6].classList.remove("factionActiveYzmir");
-        if (i === 0) {
-          allButtonsFilters[i].classList.add("factionActive");
-        }
-        if (i === 1) {
-          allButtonsFilters[i].classList.add("factionActiveAxiom");
-        }
-        if (i === 2) {
-          allButtonsFilters[i].classList.add("factionActiveBravos");
-        }
-        if (i === 3) {
-          allButtonsFilters[i].classList.add("factionActiveLyra");
-        }
-        if (i === 4) {
-          allButtonsFilters[i].classList.add("factionActiveMuna");
-        }
-        if (i === 5) {
-          allButtonsFilters[i].classList.add("factionActiveOrdis");
-        }
-        if (i === 6) {
-          allButtonsFilters[i].classList.add("factionActiveYzmir");
-        }
-        let filtreAction = dataSelect.filter(function (cartes) {
-          if (allButtonsFilters[i].innerText === buttonAll) {
-            return cartes.faction;
-          } else {
-            return cartes.faction.includes(allButtonsFilters[i].innerText);
-          }
-        });
-        generatorCartes(filtreAction);
-        applyGridToCartes();
-      });
-    }
-
-    selectFaction.addEventListener("change", (event) => {
+    // FILTRE FACTION
+    function triFaction() {
       let filtreAction = dataSelect.filter(function (cartes) {
         if (selectFaction.value === "axiom") {
           return cartes.faction.includes("Axiom");
@@ -273,35 +206,20 @@ const fetchData = async () => {
       });
       generatorCartes(filtreAction);
       applyGridToCartes();
+    }
+
+    selectFaction.addEventListener("change", (event) => {
+      triFaction();
     });
 
+    // GRID
     let currentGridClass = "grid4";
     let allButtonsGrid = document.querySelectorAll("#containerGrid button");
     let gridClasses = ["grid2", "grid3", "grid4", "grid5"];
 
-    // GRID
-    allButtonsGrid.forEach((button, index) => {
-      button.addEventListener("click", function () {
-        const actifButton = document.querySelector(".gridActif");
-        if (actifButton) {
-          actifButton.classList.remove("gridActif"); // supprime l'ancien actif
-        }
-        button.classList.add("gridActif"); // ajoute la classe sur l'élément cliqué
-
-        currentGridClass = gridClasses[index]; // met à jour la grille active
-        applyGridToCartes();
-      });
-    });
-
-    const cardCarte = document.querySelectorAll("#containerCartes > div");
-    console.log(cardCarte);
     selectColonne.addEventListener("change", (event) => {
-      cardCarte.forEach((card) => {
-        card.classList.remove("grid2", "grid3", "grid4", "grid5");
-        if (selectColonne.value === "2") {
-          card.classList.add("grid2");
-        }
-      });
+      currentGridClass = gridClasses[selectColonne.selectedIndex];
+      applyGridToCartes();
     });
 
     // Fonction pour appliquer la classe de grille actuelle
@@ -330,18 +248,6 @@ const fetchData = async () => {
         dataCartesSet7,
       ];
       dataSelect = tabData2[numSelect2];
-
-      let allButtonsFilters = document.querySelectorAll(
-        "#containerFaction button",
-      );
-      allButtonsFilters[0].classList.add("factionActive");
-      allButtonsFilters[1].classList.remove("factionActive");
-      allButtonsFilters[2].classList.remove("factionActiveBravos");
-      allButtonsFilters[3].classList.remove("factionActiveLyra");
-      allButtonsFilters[4].classList.remove("factionActiveMuna");
-      allButtonsFilters[5].classList.remove("factionActiveOrdis");
-      allButtonsFilters[6].classList.remove("factionActiveYzmir");
-
       generatorCartes(dataSelect);
       applyGridToCartes();
     });

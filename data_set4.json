@@ -1238,5 +1238,15 @@
     "nom": "Jeton Phalène",
     "faction": "Yzmir",
     "illustrateurice": "Justice Wong"
+  },
+  {
+    "id": 41,
+    "num": "111",
+    "imgU": "cartes/set4/jeton-aerolithe.webp",
+    "imgR": "cartes/set4/jeton-aerolithe.webp",
+    "imgC": "cartes/set4/jeton-aerolithe.webp",
+    "nom": "Jeton Aérolithe",
+    "faction": "",
+    "illustrateurice": "Jean-Baptiste Andrier"
   }
 ]

@@ -502,9 +502,9 @@
     "nom": "Issun-boshi",
     "faction": "Bravos",
     "illustrateurice": "Anh Tung",
-    "vote1": 3,
+    "vote1": 5,
     "vote2": 1,
-    "vote3": 2
+    "vote3": 3
   },
   {
     "id": 35,
@@ -515,9 +515,9 @@
     "nom": "Danseuse de Lames Bravos",
     "faction": "Bravos",
     "illustrateurice": "Taras Susak",
-    "vote1": 10,
-    "vote2": 9,
-    "vote3": 11
+    "vote1": 17,
+    "vote2": 16,
+    "vote3": 17
   },
   {
     "id": 32,
@@ -528,9 +528,9 @@
     "nom": "Ratatosk",
     "faction": "Bravos",
     "illustrateurice": "Gaga Zhou",
-    "vote1": 11,
-    "vote2": 16,
-    "vote3": 9
+    "vote1": 21,
+    "vote2": 25,
+    "vote3": 19
   },
   {
     "id": 33,
@@ -541,39 +541,39 @@
     "nom": "Pionnière Bravos",
     "faction": "Bravos",
     "illustrateurice": "Edward Cheekokseang",
-    "vote1": 3,
-    "vote2": 5,
-    "vote3": 3
+    "vote1": 9,
+    "vote2": 7,
+    "vote3": 11
   },
   {
     "id": 34,
-    "num": "38",
+    "num": "38a",
     "imgU": "cartes/set1/bravos/traceuse-bravos.webp",
     "imgR": "cartes/set1/bravos/0_rare/traceuse-bravos.webp",
     "imgC": "cartes/set1/bravos/0_commune/traceuse-bravos.webp",
     "nom": "Traceuse Bravos",
     "faction": "Bravos",
     "illustrateurice": "Justice Wong",
-    "vote1": 7,
-    "vote2": 11,
-    "vote3": 6
+    "vote1": 15,
+    "vote2": 16,
+    "vote3": 12
   },
   {
     "id": 35,
-    "num": "39",
+    "num": "38b",
     "imgU": "cartes/set1/bravos/traceuse-bravos_alt.webp",
     "imgR": "cartes/set1/bravos/0_rare/traceuse-bravos_alt.webp",
     "imgC": "cartes/set1/bravos/0_commune/traceuse-bravos_alt.webp",
     "nom": "Traceuse Bravos (alt)",
     "faction": "Bravos",
     "illustrateurice": "",
-    "vote1": 0,
-    "vote2": 1,
-    "vote3": 2
+    "vote1": 3,
+    "vote2": 4,
+    "vote3": 3
   },
   {
     "id": 36,
-    "num": "40",
+    "num": "39",
     "imgU": "cartes/set1/bravos/chiron.webp",
     "imgR": "cartes/set1/bravos/0_rare/chiron.webp",
     "imgC": "cartes/set1/bravos/0_commune/chiron.webp",
@@ -593,9 +593,9 @@
     "nom": "Red",
     "faction": "Bravos",
     "illustrateurice": "Jean-Baptiste Andrier",
-    "vote1": 1,
-    "vote2": 5,
-    "vote3": 3
+    "vote1": 4,
+    "vote2": 9,
+    "vote3": 7
   },
   {
     "id": 38,
@@ -606,9 +606,9 @@
     "nom": "Petit Djinn",
     "faction": "Bravos",
     "illustrateurice": "HuoMiao Studio",
-    "vote1": 2,
-    "vote2": 6,
-    "vote3": 8
+    "vote1": 5,
+    "vote2": 9,
+    "vote3": 14
   },
   {
     "id": 39,
@@ -619,9 +619,9 @@
     "nom": "Aspirant de Havre",
     "faction": "Bravos",
     "illustrateurice": "Atanas Lozanski",
-    "vote1": 2,
-    "vote2": 1,
-    "vote3": 0
+    "vote1": 3,
+    "vote2": 2,
+    "vote3": 1
   },
   {
     "id": 40,
@@ -632,9 +632,9 @@
     "nom": "Avant-Garde Bravos",
     "faction": "Bravos",
     "illustrateurice": "Edward Cheekokseang",
-    "vote1": 3,
-    "vote2": 4,
-    "vote3": 2
+    "vote1": 4,
+    "vote2": 7,
+    "vote3": 5
   },
   {
     "id": 41,
@@ -647,7 +647,7 @@
     "illustrateurice": "Edward Cheekokseang",
     "vote1": 1,
     "vote2": 1,
-    "vote3": 4
+    "vote3": 6
   },
   {
     "id": 42,
@@ -672,8 +672,8 @@
     "faction": "Bravos",
     "illustrateurice": "Zero Wen",
     "vote1": 4,
-    "vote2": 8,
-    "vote3": 7
+    "vote2": 13,
+    "vote3": 9
   },
   {
     "id": 44,
@@ -684,9 +684,9 @@
     "nom": "Tomoe Gozen",
     "faction": "Bravos",
     "illustrateurice": "Edward Cheekokseang",
-    "vote1": 2,
-    "vote2": 8,
-    "vote3": 7
+    "vote1": 6,
+    "vote2": 13,
+    "vote3": 13
   },
   {
     "id": 45,
@@ -697,9 +697,9 @@
     "nom": "Sun Wukong",
     "faction": "Bravos",
     "illustrateurice": "Kevin Sidharta",
-    "vote1": 4,
-    "vote2": 8,
-    "vote3": 6
+    "vote1": 10,
+    "vote2": 9,
+    "vote3": 7
   },
   {
     "id": 46,
@@ -710,9 +710,9 @@
     "nom": "Puissant Djinn",
     "faction": "Bravos",
     "illustrateurice": "HuoMiao Studio",
-    "vote1": 2,
-    "vote2": 0,
-    "vote3": 3
+    "vote1": 4,
+    "vote2": 6,
+    "vote3": 7
   },
   {
     "id": 47,
@@ -723,9 +723,9 @@
     "nom": "Kappa",
     "faction": "Bravos",
     "illustrateurice": "Matteo Spirito",
-    "vote1": 5,
-    "vote2": 8,
-    "vote3": 3
+    "vote1": 6,
+    "vote2": 10,
+    "vote3": 10
   },
   {
     "id": 48,
@@ -736,9 +736,9 @@
     "nom": "Achille",
     "faction": "Bravos",
     "illustrateurice": "Taras Susak",
-    "vote1": 3,
-    "vote2": 3,
-    "vote3": 6
+    "vote1": 5,
+    "vote2": 8,
+    "vote3": 11
   },
   {
     "id": 49,
@@ -749,9 +749,9 @@
     "nom": "Atlas",
     "faction": "Bravos",
     "illustrateurice": "Matteo Spirito",
-    "vote1": 2,
-    "vote2": 5,
-    "vote3": 8
+    "vote1": 5,
+    "vote2": 10,
+    "vote3": 12
   },
   {
     "id": 50,
@@ -762,9 +762,9 @@
     "nom": "Shenlong",
     "faction": "Bravos",
     "illustrateurice": "HuoMiao Studio",
-    "vote1": 10,
-    "vote2": 7,
-    "vote3": 11
+    "vote1": 13,
+    "vote2": 10,
+    "vote3": 14
   },
   {
     "id": 51,
@@ -774,10 +774,10 @@
     "imgC": "cartes/set1/bravos/0_commune/shenlong_alt.webp",
     "nom": "Shenlong (alt)",
     "faction": "Bravos",
-    "illustrateurice": "",
-    "vote1": 43,
-    "vote2": 10,
-    "vote3": 17
+    "illustrateurice": "Zero Wen",
+    "vote1": 72,
+    "vote2": 31,
+    "vote3": 32
   },
   {
     "id": 52,
@@ -788,9 +788,9 @@
     "nom": "Kaibara, Léviathan Asgarthi",
     "faction": "Bravos",
     "illustrateurice": "Fahmi Fauzi",
-    "vote1": 14,
-    "vote2": 13,
-    "vote3": 8
+    "vote1": 24,
+    "vote2": 21,
+    "vote3": 18
   },
   {
     "id": 53,
@@ -801,9 +801,9 @@
     "nom": "Main Tendue",
     "faction": "Bravos",
     "illustrateurice": "Edward Cheekokseang",
-    "vote1": 7,
-    "vote2": 5,
-    "vote3": 3
+    "vote1": 11,
+    "vote2": 9,
+    "vote3": 4
   },
   {
     "id": 54,
@@ -814,9 +814,9 @@
     "nom": "Intimidation",
     "faction": "Bravos",
     "illustrateurice": "Nestor Papatriantafyllou",
-    "vote1": 1,
-    "vote2": 1,
-    "vote3": 1
+    "vote1": 3,
+    "vote2": 2,
+    "vote3": 2
   },
   {
     "id": 55,
@@ -828,7 +828,7 @@
     "faction": "Bravos",
     "illustrateurice": "Zero Wen",
     "vote1": 1,
-    "vote2": 1,
+    "vote2": 3,
     "vote3": 1
   },
   {
@@ -840,7 +840,7 @@
     "nom": "Entraînement Physique",
     "faction": "Bravos",
     "illustrateurice": "Polar Engine",
-    "vote1": 0,
+    "vote1": 1,
     "vote2": 0,
     "vote3": 0
   },
@@ -855,7 +855,7 @@
     "illustrateurice": "Justice Wong",
     "vote1": 2,
     "vote2": 2,
-    "vote3": 1
+    "vote3": 3
   },
   {
     "id": 58,
@@ -867,8 +867,8 @@
     "faction": "Bravos",
     "illustrateurice": "Zero Wen",
     "vote1": 1,
-    "vote2": 2,
-    "vote3": 6
+    "vote2": 7,
+    "vote3": 16
   },
   {
     "id": 59,
@@ -879,9 +879,9 @@
     "nom": "Havre, Bastion Bravos",
     "faction": "Bravos",
     "illustrateurice": "HuoMiao Studio",
-    "vote1": 6,
-    "vote2": 10,
-    "vote3": 11
+    "vote1": 15,
+    "vote2": 20,
+    "vote3": 12
   },
   {
     "id": 59,
