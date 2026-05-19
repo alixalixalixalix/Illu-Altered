@@ -140,15 +140,20 @@ const fetchData = async () => {
             nbVoix.innerText = "(" + calculNbVoix + " voix / ";
             if (selectSet.selectedIndex === 0) {
               totalVoix.innerText = totalVotantSet1 + ")";
+              pourcentVoix.innerText =
+              Math.round((calculNbVoix / totalVotantSet1) * 100) + "%";
             }
             if (selectSet.selectedIndex === 1) {
               totalVoix.innerText = totalVotantSet2 + ")";
+              pourcentVoix.innerText =
+              Math.round((calculNbVoix / totalVotantSet2) * 100) + "%";
             }
             if (selectSet.selectedIndex === 2) {
               totalVoix.innerText = totalVotantSet3 + ")";
-            }
-            pourcentVoix.innerText =
+              pourcentVoix.innerText =
               Math.round((calculNbVoix / totalVotantSet3) * 100) + "%";
+            }
+            
           }
         } else {
           divVoix.style.display = "none";
