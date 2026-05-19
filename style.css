@@ -18,16 +18,12 @@ header {
   top: 0px;
   background-color: #1e1e1e;
   > div {
-    max-width: 1440px;
     display: flex;
+    justify-content: center;
     gap: 16px;
     padding: 16px 16px 16px 0px;
     color: white;
     margin: auto;
-    @media (max-width: 1200px) {
-      flex-direction: column;
-      gap: 16px;
-    }
     div {
       display: flex;
       flex-direction: column;
@@ -42,9 +38,21 @@ header {
         font-size: 16px;
         min-width: 160px;
         padding: 4px 8px;
+        @media (max-width: 1200px) {
+          min-width: 100px;
+          width: 100px;
+        }
+        @media (max-width: 800px) {
+          min-width: 80px;
+          width: 80px;
+        }
       }
       #set {
         min-width: 300px;
+        @media (max-width: 800px) {
+          min-width: 150px;
+          width: 150px;
+        }
       }
     }
     #filtre-visible {
@@ -56,7 +64,7 @@ header {
         width: 24px;
       }
     }
-    #filtre-visible:hover{
+    #filtre-visible:hover {
       opacity: 0.8;
     }
   }
@@ -71,48 +79,6 @@ select {
   display: flex;
   justify-content: center;
   width: 50%;
-}
-
-.factionActive {
-  border: 2px solid black;
-  background-color: black;
-  color: white;
-}
-
-.factionActiveAxiom {
-  border: 2px solid #784032;
-  background-color: #784032;
-  color: white;
-}
-
-.factionActiveBravos {
-  border: 2px solid #b12420;
-  background-color: #b12420;
-  color: white;
-}
-
-.factionActiveLyra {
-  border: 2px solid #c4335f;
-  background-color: #c4335f;
-  color: white;
-}
-
-.factionActiveMuna {
-  border: 2px solid #39693f;
-  background-color: #39693f;
-  color: white;
-}
-
-.factionActiveOrdis {
-  border: 2px solid #005976;
-  background-color: #005976;
-  color: white;
-}
-
-.factionActiveYzmir {
-  border: 2px solid #7e497b;
-  background-color: #7e497b;
-  color: white;
 }
 
 .grid2 {
@@ -139,7 +105,6 @@ select {
     flex-direction: column;
     gap: 4px;
     .img-carte {
-      /*      box-shadow: 0px 0px 20px rgba(200, 200, 200, 0.5);*/
       width: 100%;
     }
     p {
@@ -166,7 +131,7 @@ select {
         }
       }
       img {
-        width: 24px;
+        width: 18px;
       }
       p {
         font-weight: 600;
@@ -182,8 +147,8 @@ select {
     .carte-vote {
       display: flex;
       gap: 4px;
-      p:nth-child(2) {
-        opacity: 0.3;
+      p:nth-child(2), p:nth-child(3) {
+        color: #595959;
       }
     }
   }
@@ -194,12 +159,12 @@ select {
   justify-content: start;
   align-items: center;
   gap: 4px;
-  opacity: 0.3;
   img {
     width: 16px;
   }
   p {
     font-size: 16px;
+    color: #595959;
   }
 }
 

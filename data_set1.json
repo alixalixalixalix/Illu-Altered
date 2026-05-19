@@ -957,9 +957,9 @@
     "nom": "Martengale",
     "faction": "Lyra",
     "illustrateurice": "Nestor Papatriantafyllou",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 9,
+    "vote2": 6,
+    "vote3": 1
   },
   {
     "id": 60,
@@ -970,9 +970,9 @@
     "nom": "Prestidigitatrice de l'Ouroboros",
     "faction": "Lyra",
     "illustrateurice": "Zero Wen",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 19,
+    "vote2": 14,
+    "vote3": 14
   },
   {
     "id": 60,
@@ -983,9 +983,9 @@
     "nom": "Esmeralda",
     "faction": "Lyra",
     "illustrateurice": "Edward Cheekokseang",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 5,
+    "vote2": 6,
+    "vote3": 5
   },
   {
     "id": 60,
@@ -997,8 +997,8 @@
     "faction": "Lyra",
     "illustrateurice": "Ba Vo",
     "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote2": 2,
+    "vote3": 2
   },
   {
     "id": 60,
@@ -1009,9 +1009,9 @@
     "nom": "Comédien Lyra",
     "faction": "Lyra",
     "illustrateurice": "Rémi Jacquot",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 2,
+    "vote2": 3,
+    "vote3": 3
   },
   {
     "id": 60,
@@ -1022,9 +1022,9 @@
     "nom": "Hathor",
     "faction": "Lyra",
     "illustrateurice": "Taras Susak",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 4,
+    "vote2": 7,
+    "vote3": 7
   },
   {
     "id": 60,
@@ -1035,9 +1035,9 @@
     "nom": "Navigatrice Lyra",
     "faction": "Lyra",
     "illustrateurice": "Taras Susak",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 23,
+    "vote2": 14,
+    "vote3": 17
   },
   {
     "id": 60,
@@ -1048,9 +1048,9 @@
     "nom": "Anansi",
     "faction": "Lyra",
     "illustrateurice": "Taras Susak",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 9,
+    "vote2": 6,
+    "vote3": 11
   },
   {
     "id": 60,
@@ -1061,9 +1061,9 @@
     "nom": "Danseuse d'Étoffe Lyra",
     "faction": "Lyra",
     "illustrateurice": "Foru Y.",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 5,
+    "vote2": 11,
+    "vote3": 10
   },
   {
     "id": 60,
@@ -1074,9 +1074,9 @@
     "nom": "Chroniqueuse Lyra",
     "faction": "Lyra",
     "illustrateurice": "Taras Susak",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 9,
+    "vote2": 2,
+    "vote3": 3
   },
   {
     "id": 60,
@@ -1087,9 +1087,9 @@
     "nom": "Encrière de l'Ouroboros",
     "faction": "Lyra",
     "illustrateurice": "Khoa Viet",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 40,
+    "vote2": 27,
+    "vote3": 17
   },
   {
     "id": 60,
@@ -1099,10 +1099,10 @@
     "imgC": "cartes/set1/lyra/0_commune/tanuki.webp",
     "nom": "Tanuki",
     "faction": "Lyra",
-    "illustrateurice": "EEEEEEEEEEEEEEE",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "illustrateurice": "Matteo Spirito",
+    "vote1": 8,
+    "vote2": 6,
+    "vote3": 11
   },
   {
     "id": 60,
@@ -1113,9 +1113,9 @@
     "nom": "Tanuki (alt)",
     "faction": "Lyra",
     "illustrateurice": "Anh Tung",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 20,
+    "vote2": 17,
+    "vote3": 19
   },
   {
     "id": 60,
@@ -1126,9 +1126,9 @@
     "nom": "Marchand de Sable",
     "faction": "Lyra",
     "illustrateurice": "Nestor Papatriantafyllou",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 34,
+    "vote2": 23,
+    "vote3": 13
   },
   {
     "id": 60,
@@ -1139,9 +1139,9 @@
     "nom": "Croupière de l'Ouroboros",
     "faction": "Lyra",
     "illustrateurice": "Anh Tung",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 1,
+    "vote2": 2,
+    "vote3": 4
   },
   {
     "id": 60,
@@ -1152,9 +1152,9 @@
     "nom": "Le Chapelier",
     "faction": "Lyra",
     "illustrateurice": "Zero Wen",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 4,
+    "vote2": 9,
+    "vote3": 10
   },
   {
     "id": 60,
@@ -1165,9 +1165,9 @@
     "nom": "Amahle, Paria Asgarthi",
     "faction": "Lyra",
     "illustrateurice": "Khoa Viet",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 11,
+    "vote2": 17,
+    "vote3": 18
   },
   {
     "id": 60,
@@ -1178,9 +1178,9 @@
     "nom": "Asmodée",
     "faction": "Lyra",
     "illustrateurice": "Zero Wen",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 2,
+    "vote2": 3,
+    "vote3": 4
   },
   {
     "id": 60,
@@ -1191,9 +1191,9 @@
     "nom": "Loki",
     "faction": "Lyra",
     "illustrateurice": "Justice Wong",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 14,
+    "vote2": 15,
+    "vote3": 15
   },
   {
     "id": 60,
@@ -1204,9 +1204,9 @@
     "nom": "Loki (alt)",
     "faction": "Lyra",
     "illustrateurice": "Zero Wen",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 5,
+    "vote2": 4,
+    "vote3": 3
   },
   {
     "id": 60,
@@ -1217,9 +1217,9 @@
     "nom": "Entrainement À Capella",
     "faction": "Lyra",
     "illustrateurice": "Zero Wen",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 2,
+    "vote2": 3,
+    "vote3": 4
   },
   {
     "id": 60,
@@ -1230,9 +1230,9 @@
     "nom": "Entrainement À Capella (alt)",
     "faction": "Lyra",
     "illustrateurice": "Romain Kurdi",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 13,
+    "vote2": 13,
+    "vote3": 16
   },
   {
     "id": 60,
@@ -1243,9 +1243,9 @@
     "nom": "Franchir le Bifröst",
     "faction": "Lyra",
     "illustrateurice": "Fahmi Fauzi",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 8,
+    "vote2": 12,
+    "vote3": 15
   },
   {
     "id": 60,
@@ -1256,9 +1256,9 @@
     "nom": "Meunier, Tu Dors",
     "faction": "Lyra",
     "illustrateurice": "HuoMiao Studio",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 1,
+    "vote2": 1,
+    "vote3": 6
   },
   {
     "id": 60,
@@ -1269,9 +1269,9 @@
     "nom": "Tapis !",
     "faction": "Lyra",
     "illustrateurice": "HuoMiao Studio",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 2,
+    "vote2": 6,
+    "vote3": 2
   },
   {
     "id": 60,
@@ -1282,9 +1282,9 @@
     "nom": "Cocon d'Étoffe",
     "faction": "Lyra",
     "illustrateurice": "Zero Wen",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 2,
+    "vote2": 6,
+    "vote3": 7
   },
   {
     "id": 60,
@@ -1296,8 +1296,8 @@
     "faction": "Lyra",
     "illustrateurice": "Justice Wong",
     "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote2": 1,
+    "vote3": 1
   },
   {
     "id": 60,
@@ -1308,9 +1308,9 @@
     "nom": "Apothéose de l'Esprit",
     "faction": "Lyra",
     "illustrateurice": "Zero Wen",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 3,
+    "vote2": 5,
+    "vote3": 5
   },
   {
     "id": 60,
@@ -1321,9 +1321,9 @@
     "nom": "Festival Lyra",
     "faction": "Lyra",
     "illustrateurice": "Fahmi Fauzi",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 2,
+    "vote2": 14,
+    "vote3": 16
   },
   {
     "id": 60,
@@ -1334,9 +1334,9 @@
     "nom": "L'Ouroboros, Bastion Lyra",
     "faction": "Lyra",
     "illustrateurice": "Khoa Viet",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 13,
+    "vote2": 15,
+    "vote3": 11
   },
   {
     "id": 60,
@@ -1386,9 +1386,9 @@
     "nom": "Soigneuse Muna",
     "faction": "Muna",
     "illustrateurice": "Nestor Papatriantafyllou",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 3,
+    "vote2": 4,
+    "vote3": 4
   },
   {
     "id": 60,
@@ -1399,9 +1399,9 @@
     "nom": "Vendangeurs du Fuseau",
     "faction": "Muna",
     "illustrateurice": "Ba Vo",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 41,
+    "vote2": 37,
+    "vote3": 24
   },
   {
     "id": 60,
@@ -1412,9 +1412,9 @@
     "nom": "Mowgli",
     "faction": "Muna",
     "illustrateurice": "Ba Vo",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 8,
+    "vote2": 9,
+    "vote3": 10
   },
   {
     "id": 60,
@@ -1425,9 +1425,9 @@
     "nom": "Kitsune",
     "faction": "Muna",
     "illustrateurice": "Gaga Zhou",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 26,
+    "vote2": 22,
+    "vote3": 9
   },
   {
     "id": 60,
@@ -1438,9 +1438,9 @@
     "nom": "Kodama",
     "faction": "Muna",
     "illustrateurice": "Ba Vo",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 13,
+    "vote2": 20,
+    "vote3": 16
   },
   {
     "id": 60,
@@ -1451,9 +1451,9 @@
     "nom": "Kodama (alt)",
     "faction": "Muna",
     "illustrateurice": "Marie Cardouat",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 27,
+    "vote2": 12,
+    "vote3": 9
   },
   {
     "id": 60,
@@ -1464,9 +1464,9 @@
     "nom": "Champignon Éternueur",
     "faction": "Muna",
     "illustrateurice": "Zero Wen",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 1,
+    "vote2": 3,
+    "vote3": 4
   },
   {
     "id": 60,
@@ -1477,9 +1477,9 @@
     "nom": "Champignon Éternueur (alt)",
     "faction": "Muna",
     "illustrateurice": "Ba Vo",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 63,
+    "vote2": 37,
+    "vote3": 21
   },
   {
     "id": 60,
@@ -1490,9 +1490,9 @@
     "nom": "Marchand Muna",
     "faction": "Muna",
     "illustrateurice": "Ba Vo",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 11,
+    "vote2": 10,
+    "vote3": 6
   },
   {
     "id": 60,
@@ -1503,9 +1503,9 @@
     "nom": "Inari",
     "faction": "Muna",
     "illustrateurice": "Matteo Spirito",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 14,
+    "vote2": 23,
+    "vote3": 16
   },
   {
     "id": 60,
@@ -1516,9 +1516,9 @@
     "nom": "Druide Muna",
     "faction": "Muna",
     "illustrateurice": "Ba Vo",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 3,
+    "vote2": 11,
+    "vote3": 7
   },
   {
     "id": 60,
@@ -1529,9 +1529,9 @@
     "nom": "Aloe Vera",
     "faction": "Muna",
     "illustrateurice": "HuoMiao Studio",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 7,
+    "vote2": 10,
+    "vote3": 7
   },
   {
     "id": 60,
@@ -1542,9 +1542,9 @@
     "nom": "Fille d'Yggdrasil",
     "faction": "Muna",
     "illustrateurice": "Nestor Papatriantafyllou",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 6,
+    "vote2": 4,
+    "vote3": 9
   },
   {
     "id": 60,
@@ -1555,9 +1555,9 @@
     "nom": "Dracaena",
     "faction": "Muna",
     "illustrateurice": "HuoMiao Studio",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 3,
+    "vote2": 5,
+    "vote3": 8
   },
   {
     "id": 60,
@@ -1569,8 +1569,8 @@
     "faction": "Muna",
     "illustrateurice": "Kevin Sidharta",
     "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote2": 1,
+    "vote3": 2
   },
   {
     "id": 60,
@@ -1581,9 +1581,9 @@
     "nom": "Parvati",
     "faction": "Muna",
     "illustrateurice": "Nestor Papatriantafyllou",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 6,
+    "vote2": 7,
+    "vote3": 6
   },
   {
     "id": 60,
@@ -1594,9 +1594,9 @@
     "nom": "Cernunnos",
     "faction": "Muna",
     "illustrateurice": "Ba Vo",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 1,
+    "vote2": 2,
+    "vote3": 5
   },
   {
     "id": 60,
@@ -1607,9 +1607,9 @@
     "nom": "Aja",
     "faction": "Muna",
     "illustrateurice": "Rémi Jacquot",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 1,
+    "vote2": 2,
+    "vote3": 3
   },
   {
     "id": 60,
@@ -1620,9 +1620,9 @@
     "nom": "Vertéchine",
     "faction": "Muna",
     "illustrateurice": "Ba Vo",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 1,
+    "vote2": 2,
+    "vote3": 4
   },
   {
     "id": 60,
@@ -1635,7 +1635,7 @@
     "illustrateurice": "Damian Audino",
     "vote1": 0,
     "vote2": 0,
-    "vote3": 0
+    "vote3": 1
   },
   {
     "id": 60,
@@ -1646,9 +1646,9 @@
     "nom": "Fils d'Yggrasil",
     "faction": "Muna",
     "illustrateurice": "Ba Vo",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 2,
+    "vote2": 1,
+    "vote3": 2
   },
   {
     "id": 60,
@@ -1659,9 +1659,9 @@
     "nom": "Hydracaena",
     "faction": "Muna",
     "illustrateurice": "Ba Vo",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 13,
+    "vote2": 12,
+    "vote3": 21
   },
   {
     "id": 60,
@@ -1672,9 +1672,9 @@
     "nom": "Récolter",
     "faction": "Muna",
     "illustrateurice": "Ba Vo",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 1,
+    "vote2": 2,
+    "vote3": 6
   },
   {
     "id": 60,
@@ -1686,8 +1686,8 @@
     "faction": "Muna",
     "illustrateurice": "HuoMiao Studio",
     "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote2": 1,
+    "vote3": 4
   },
   {
     "id": 60,
@@ -1698,9 +1698,9 @@
     "nom": "Abreuver",
     "faction": "Muna",
     "illustrateurice": "Zero Wen",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 1,
+    "vote2": 1,
+    "vote3": 4
   },
   {
     "id": 60,
@@ -1712,8 +1712,8 @@
     "faction": "Muna",
     "illustrateurice": "HuoMiao Studio",
     "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote2": 9,
+    "vote3": 2
   },
   {
     "id": 60,
@@ -1724,9 +1724,9 @@
     "nom": "Entrainement à la Méditation (alt)",
     "faction": "Muna",
     "illustrateurice": "Khoa Viet",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 4,
+    "vote2": 8,
+    "vote3": 22
   },
   {
     "id": 60,
@@ -1738,8 +1738,8 @@
     "faction": "Muna",
     "illustrateurice": "HuoMiao Studio",
     "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote2": 1,
+    "vote3": 2
   },
   {
     "id": 60,
@@ -1752,7 +1752,7 @@
     "illustrateurice": "HuoMiao Studio",
     "vote1": 0,
     "vote2": 0,
-    "vote3": 0
+    "vote3": 4
   },
   {
     "id": 60,
@@ -1763,9 +1763,9 @@
     "nom": "Le Fuseau, Bastion Muna",
     "faction": "Muna",
     "illustrateurice": "Ba Vo",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 15,
+    "vote2": 15,
+    "vote3": 33
   },
   {
     "id": 60,
@@ -1815,9 +1815,9 @@
     "nom": "Troupière Ordis",
     "faction": "Ordis",
     "illustrateurice": "Jean-Baptiste Andrier",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 7,
+    "vote2": 4,
+    "vote3": 6
   },
   {
     "id": 60,
@@ -1828,9 +1828,9 @@
     "nom": "Hérault de Papier",
     "faction": "Ordis",
     "illustrateurice": "Jean-Baptiste Andrier",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 7,
+    "vote2": 7,
+    "vote3": 11
   },
   {
     "id": 60,
@@ -1841,9 +1841,9 @@
     "nom": "Archiviste du Monolithe",
     "faction": "Ordis",
     "illustrateurice": "Atanas Lozanski",
-    "vote1": 0,
+    "vote1": 2,
     "vote2": 0,
-    "vote3": 0
+    "vote3": 2
   },
   {
     "id": 60,
@@ -1854,9 +1854,9 @@
     "nom": "Légat du Monolithe",
     "faction": "Ordis",
     "illustrateurice": "Romain Kurdi",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 10,
+    "vote2": 3,
+    "vote3": 2
   },
   {
     "id": 60,
@@ -1867,9 +1867,9 @@
     "nom": "Scribe Runique du Monolithe",
     "faction": "Ordis",
     "illustrateurice": "HuoMiao Studio",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 4,
+    "vote2": 8,
+    "vote3": 8
   },
   {
     "id": 60,
@@ -1880,9 +1880,9 @@
     "nom": "Cadets Ordis",
     "faction": "Ordis",
     "illustrateurice": "Anh Tung",
-    "vote1": 0,
+    "vote1": 2,
     "vote2": 0,
-    "vote3": 0
+    "vote3": 4
   },
   {
     "id": 60,
@@ -1893,9 +1893,9 @@
     "nom": "Ozma",
     "faction": "Ordis",
     "illustrateurice": "Taras Susak",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 17,
+    "vote2": 16,
+    "vote3": 22
   },
   {
     "id": 60,
@@ -1906,9 +1906,9 @@
     "nom": "Le Roi Grenouille",
     "faction": "Ordis",
     "illustrateurice": "Gaga Zhou",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 5,
+    "vote2": 12,
+    "vote3": 10
   },
   {
     "id": 60,
@@ -1919,9 +1919,9 @@
     "nom": "Espionne Ordis",
     "faction": "Ordis",
     "illustrateurice": "Matteo Spirito",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 9,
+    "vote2": 19,
+    "vote3": 19
   },
   {
     "id": 60,
@@ -1934,7 +1934,7 @@
     "illustrateurice": "Jean-Baptiste Andrier",
     "vote1": 0,
     "vote2": 0,
-    "vote3": 0
+    "vote3": 2
   },
   {
     "id": 60,
@@ -1945,9 +1945,9 @@
     "nom": "Procuratrice Ordis",
     "faction": "Ordis",
     "illustrateurice": "Nestor Papatriantafyllou",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 7,
+    "vote2": 7,
+    "vote3": 9
   },
   {
     "id": 60,
@@ -1958,9 +1958,9 @@
     "nom": "Gardienne Ordis",
     "faction": "Ordis",
     "illustrateurice": "Atanas Lozanski",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 5,
+    "vote2": 4,
+    "vote3": 4
   },
   {
     "id": 60,
@@ -1971,9 +1971,9 @@
     "nom": "Thot",
     "faction": "Ordis",
     "illustrateurice": "Christophe Young",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 31,
+    "vote2": 23,
+    "vote3": 24
   },
   {
     "id": 60,
@@ -1984,9 +1984,9 @@
     "nom": "Jeanne d'Arc",
     "faction": "Ordis",
     "illustrateurice": "Jean-Baptiste Andrier",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 11,
+    "vote2": 10,
+    "vote3": 3
   },
   {
     "id": 60,
@@ -1997,9 +1997,9 @@
     "nom": "Quezalcoatl",
     "faction": "Ordis",
     "illustrateurice": "Taras Susak",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 6,
+    "vote2": 14,
+    "vote3": 6
   },
 
   {
@@ -2011,9 +2011,9 @@
     "nom": "Robin des Bois",
     "faction": "Ordis",
     "illustrateurice": "Taras Susak",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 12,
+    "vote2": 7,
+    "vote3": 6
   },
   {
     "id": 60,
@@ -2024,9 +2024,9 @@
     "nom": "Robin des Bois (alt)",
     "faction": "Ordis",
     "illustrateurice": "Edward Cheekokseang",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 12,
+    "vote2": 11,
+    "vote3": 13
   },
   {
     "id": 60,
@@ -2037,9 +2037,9 @@
     "nom": "Le Conseil",
     "faction": "Ordis",
     "illustrateurice": "Jean-Baptiste Andrier",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 2,
+    "vote2": 1,
+    "vote3": 2
   },
   {
     "id": 60,
@@ -2050,9 +2050,9 @@
     "nom": "Anubis",
     "faction": "Ordis",
     "illustrateurice": "Romain Kurdi",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 18,
+    "vote2": 14,
+    "vote3": 11
   },
   {
     "id": 60,
@@ -2063,9 +2063,9 @@
     "nom": "Anubis",
     "faction": "Ordis",
     "illustrateurice": "Ba Vo",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 46,
+    "vote2": 33,
+    "vote3": 28
   },
   {
     "id": 60,
@@ -2076,9 +2076,9 @@
     "nom": "Issitoq",
     "faction": "Ordis",
     "illustrateurice": "Atanas Lozanski",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 5,
+    "vote2": 13,
+    "vote3": 7
   },
   {
     "id": 60,
@@ -2089,9 +2089,9 @@
     "nom": "Chargez !",
     "faction": "Ordis",
     "illustrateurice": "Zero Wen",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 5,
+    "vote2": 5,
+    "vote3": 8
   },
   {
     "id": 60,
@@ -2102,9 +2102,9 @@
     "nom": "Entrainement à l'Esprit d'Équipe",
     "faction": "Ordis",
     "illustrateurice": "Jean-Baptiste Andrier",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 1,
+    "vote2": 1,
+    "vote3": 2
   },
   {
     "id": 60,
@@ -2115,9 +2115,9 @@
     "nom": "Entrainement à l'Esprit d'Équipe (alt)",
     "faction": "Ordis",
     "illustrateurice": "Jean-Baptiste Andrier",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 1,
+    "vote2": 5,
+    "vote3": 3
   },
   {
     "id": 60,
@@ -2128,9 +2128,9 @@
     "nom": "Sceaux Adhésifs",
     "faction": "Ordis",
     "illustrateurice": "Atanas Lozanski",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 2,
+    "vote2": 4,
+    "vote3": 1
   },
   {
     "id": 60,
@@ -2141,9 +2141,9 @@
     "nom": "Jour de Célébration",
     "faction": "Ordis",
     "illustrateurice": "Matteo Spirito",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 27,
+    "vote2": 29,
+    "vote3": 25
   },
   {
     "id": 60,
@@ -2154,9 +2154,9 @@
     "nom": "Ouvrez les Portes",
     "faction": "Ordis",
     "illustrateurice": "Jean-Baptiste Andrier",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 2,
+    "vote2": 1,
+    "vote3": 2
   },
   {
     "id": 60,
@@ -2167,9 +2167,9 @@
     "nom": "Transporteur Ordis",
     "faction": "Ordis",
     "illustrateurice": "Taras Susak",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 3,
+    "vote2": 8,
+    "vote3": 10
   },
   {
     "id": 60,
@@ -2180,9 +2180,9 @@
     "nom": "Le Monolithe, Bastion Ordis",
     "faction": "Ordis",
     "illustrateurice": "Jean-Baptiste Andrier",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 4,
+    "vote2": 8,
+    "vote3": 11
   },
   {
     "id": 60,
@@ -2193,9 +2193,9 @@
     "nom": "Grand Projet",
     "faction": "Ordis",
     "illustrateurice": "Jean-Baptiste Andrier",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 7,
+    "vote2": 3,
+    "vote3": 9
   },
   {
     "id": 60,
@@ -2284,9 +2284,9 @@
     "nom": "Méduse Lunaire",
     "faction": "Yzmir",
     "illustrateurice": "HuoMiao Studio",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 40,
+    "vote2": 22,
+    "vote3": 24
   },
   {
     "id": 60,
@@ -2297,9 +2297,9 @@
     "nom": "Disciple Studieux",
     "faction": "Yzmir",
     "illustrateurice": "Zael",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 7,
+    "vote2": 3,
+    "vote3": 5
   },
   {
     "id": 60,
@@ -2310,9 +2310,9 @@
     "nom": "Mage-Danseur du Kadigir",
     "faction": "Yzmir",
     "illustrateurice": "Nestor Papatriantafyllou",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 10,
+    "vote2": 10,
+    "vote3": 11
   },
   {
     "id": 60,
@@ -2324,8 +2324,8 @@
     "faction": "Yzmir",
     "illustrateurice": "HuoMiao Studio",
     "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote2": 3,
+    "vote3": 5
   },
   {
     "id": 60,
@@ -2336,9 +2336,9 @@
     "nom": "Dame du Lac",
     "faction": "Yzmir",
     "illustrateurice": "Nestor Papatriantafyllou",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 32,
+    "vote2": 20,
+    "vote3": 25
   },
   {
     "id": 60,
@@ -2349,9 +2349,9 @@
     "nom": "Fée des dents",
     "faction": "Yzmir",
     "illustrateurice": "Anh Tung",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 2,
+    "vote2": 12,
+    "vote3": 13
   },
   {
     "id": 60,
@@ -2362,9 +2362,9 @@
     "nom": "Alchimiste du Kadigir",
     "faction": "Yzmir",
     "illustrateurice": "Edward Cheekokseang",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 9,
+    "vote2": 10,
+    "vote3": 5
   },
   {
     "id": 60,
@@ -2375,9 +2375,9 @@
     "nom": "Baba Yaga",
     "faction": "Yzmir",
     "illustrateurice": "Atanas Lozanski",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 20,
+    "vote2": 9,
+    "vote3": 10
   },
   {
     "id": 60,
@@ -2387,10 +2387,10 @@
     "imgC": "cartes/set1/yzmir/0_commune/baba-yaga_alt.webp",
     "nom": "Baba Yaga (alt)",
     "faction": "Yzmir",
-    "illustrateurice": "EEEEEEEEEEEEEEE",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "illustrateurice": "Jean-Baptiste Andrier",
+    "vote1": 14,
+    "vote2": 13,
+    "vote3": 6
   },
   {
     "id": 60,
@@ -2401,9 +2401,9 @@
     "nom": "Alice",
     "faction": "Yzmir",
     "illustrateurice": "Taras Susak",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 6,
+    "vote2": 5,
+    "vote3": 6
   },
   {
     "id": 60,
@@ -2414,9 +2414,9 @@
     "nom": "Baku",
     "faction": "Yzmir",
     "illustrateurice": "Zero Wen",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 9,
+    "vote2": 21,
+    "vote3": 22
   },
   {
     "id": 60,
@@ -2427,9 +2427,9 @@
     "nom": "Flamel",
     "faction": "Yzmir",
     "illustrateurice": "Nestor Papatriantafyllou",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 5,
+    "vote2": 16,
+    "vote3": 13
   },
   {
     "id": 60,
@@ -2440,8 +2440,8 @@
     "nom": "Kuwat, le Dissident",
     "faction": "Yzmir",
     "illustrateurice": "Ba Vo",
-    "vote1": 0,
-    "vote2": 0,
+    "vote1": 1,
+    "vote2": 1,
     "vote3": 0
   },
   {
@@ -2453,9 +2453,9 @@
     "nom": "Dorothy Gale",
     "faction": "Yzmir",
     "illustrateurice": "Taras Susak",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 1,
+    "vote2": 7,
+    "vote3": 4
   },
   {
     "id": 60,
@@ -2466,9 +2466,9 @@
     "nom": "Sakarabru",
     "faction": "Yzmir",
     "illustrateurice": "Gael Giudicelli",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 14,
+    "vote2": 18,
+    "vote3": 13
   },
   {
     "id": 60,
@@ -2479,9 +2479,9 @@
     "nom": "Le Kraken",
     "faction": "Yzmir",
     "illustrateurice": "Fahmi Fauzi",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 4,
+    "vote2": 6,
+    "vote3": 2
   },
   {
     "id": 60,
@@ -2491,10 +2491,10 @@
     "imgC": "cartes/set1/yzmir/0_commune/le-kraken_alt.webp",
     "nom": "Le Kraken (alt)",
     "faction": "Yzmir",
-    "illustrateurice": "EEEEEEEEEEEEEEE",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "illustrateurice": "Ba Vo",
+    "vote1": 4,
+    "vote2": 11,
+    "vote3": 10
   },
   {
     "id": 60,
@@ -2505,9 +2505,9 @@
     "nom": "Entrainement Magique",
     "faction": "Yzmir",
     "illustrateurice": "Zero Wen",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 21,
+    "vote2": 17,
+    "vote3": 20
   },
   {
     "id": 60,
@@ -2518,9 +2518,9 @@
     "nom": "Entrainement Magique (alt)",
     "faction": "Yzmir",
     "illustrateurice": "HuoMiao Studio",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 50,
+    "vote2": 15,
+    "vote3": 19
   },
   {
     "id": 60,
@@ -2531,9 +2531,9 @@
     "nom": "Don de Soi",
     "faction": "Yzmir",
     "illustrateurice": "Fahmi Fauzi",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 8,
+    "vote2": 20,
+    "vote3": 24
   },
   {
     "id": 60,
@@ -2544,8 +2544,8 @@
     "nom": "Espionnage",
     "faction": "Yzmir",
     "illustrateurice": "Nestor Papatriantafyllou",
-    "vote1": 0,
-    "vote2": 0,
+    "vote1": 1,
+    "vote2": 2,
     "vote3": 0
   },
   {
@@ -2557,9 +2557,9 @@
     "nom": "Zou !",
     "faction": "Yzmir",
     "illustrateurice": "HuoMiao Studio",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 1,
+    "vote2": 2,
+    "vote3": 2
   },
   {
     "id": 60,
@@ -2571,8 +2571,8 @@
     "faction": "Yzmir",
     "illustrateurice": "Khoa Viet",
     "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote2": 2,
+    "vote3": 3
   },
   {
     "id": 60,
@@ -2596,9 +2596,9 @@
     "nom": "Furie du Kraken",
     "faction": "Yzmir",
     "illustrateurice": "Matteo Spirito",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 3,
+    "vote2": 2,
+    "vote3": 3
   },
   {
     "id": 60,
@@ -2609,9 +2609,9 @@
     "nom": "Petit Pas, Bond de Géant",
     "faction": "Yzmir",
     "illustrateurice": "HuoMiao Studio",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 1,
+    "vote2": 2,
+    "vote3": 4
   },
   {
     "id": 60,
@@ -2622,9 +2622,9 @@
     "nom": "Explosion Céleste",
     "faction": "Yzmir",
     "illustrateurice": "HuoMiao Studio",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 1,
+    "vote2": 1,
+    "vote3": 1
   },
   {
     "id": 60,
@@ -2635,9 +2635,9 @@
     "nom": "L'Isba de Baba",
     "faction": "Yzmir",
     "illustrateurice": "Taras Susak",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 1,
+    "vote2": 7,
+    "vote3": 7
   },
   {
     "id": 60,
@@ -2648,9 +2648,9 @@
     "nom": "Fragment d'Ether",
     "faction": "Yzmir",
     "illustrateurice": "Anh Tung",
-    "vote1": 0,
-    "vote2": 0,
-    "vote3": 0
+    "vote1": 2,
+    "vote2": 13,
+    "vote3": 6
   },
   {
     "id": 60,
@@ -2661,9 +2661,9 @@
     "nom": "Le Kadigir, Bastion Yzmir",
     "faction": "Yzmir",
     "illustrateurice": "Nestor Papatriantafyllou",
-    "vote1": 0,
+    "vote1": 4,
     "vote2": 0,
-    "vote3": 0
+    "vote3": 10
   },
   {
     "id": 60,

@@ -64,8 +64,9 @@ const fetchData = async () => {
         const imgC = document.createElement("img");
         const divInfo = document.createElement("div");
         const divInfoFacNom = document.createElement("div");
-        const nom = document.createElement("p");
-        const num = document.createElement("p");
+        const imgCarte = document.createElement("img");
+        const nomCarte = document.createElement("p");
+        const numCarte = document.createElement("p");
         const divVoix = document.createElement("div");
         const nbVoix = document.createElement("p");
         const totalVoix = document.createElement("p");
@@ -90,14 +91,34 @@ const fetchData = async () => {
         div.appendChild(divInfo);
         divInfo.classList.add("carte-info");
         divInfo.appendChild(divInfoFacNom);
-        divInfoFacNom.appendChild(nom);
-        divInfo.appendChild(num);
-        num.classList.add("cardNum");
+        divInfoFacNom.appendChild(imgCarte);
+        divInfoFacNom.appendChild(nomCarte);
+        divInfo.appendChild(numCarte);
+        numCarte.classList.add("cardNum");
         divVoix.classList.add("carte-vote");
         div.appendChild(divVoix);
+        divVoix.appendChild(pourcentVoix);
         divVoix.appendChild(nbVoix);
         divVoix.appendChild(totalVoix);
-        divVoix.appendChild(pourcentVoix);
+
+        if (dataSelect[i].faction === "Axiom") {
+          imgCarte.src = "icon-axiom.webp";
+        }
+        if (dataSelect[i].faction === "Bravos") {
+          imgCarte.src = "icon-bravos.png";
+        }
+        if (dataSelect[i].faction === "Lyra") {
+          imgCarte.src = "icon-lyra.webp";
+        }
+        if (dataSelect[i].faction === "Muna") {
+          imgCarte.src = "icon-muna.png";
+        }
+        if (dataSelect[i].faction === "Ordis") {
+          imgCarte.src = "icon-ordis.webp";
+        }
+        if (dataSelect[i].faction === "Yzmir") {
+          imgCarte.src = "icon-yzmir.png";
+        }
 
         // FILTRE VOTE
         const nbVotes = document.querySelector("#nbVotes");
@@ -110,16 +131,24 @@ const fetchData = async () => {
           filtreVisible.style.display = "flex";
           nbVotes.disabled = false;
           if (dataSelect[i].vote1 === false) {
-            totalVoix.innerText = "Non concerné par le vote";
+            totalVoix.innerText = "Non concerné par le sondage";
             nbVoix.style.display = "none";
             pourcentVoix.style.display = "none";
           } else {
             const calculNbVoix =
               dataSelect[i].vote1 + dataSelect[i].vote2 + dataSelect[i].vote3;
-            nbVoix.innerText = calculNbVoix + " voix";
-            totalVoix.innerText = "/ " + totalVotantSet3;
+            nbVoix.innerText = "(" + calculNbVoix + " voix / ";
+            if (selectSet.selectedIndex === 0) {
+              totalVoix.innerText = totalVotantSet1 + ")";
+            }
+            if (selectSet.selectedIndex === 1) {
+              totalVoix.innerText = totalVotantSet2 + ")";
+            }
+            if (selectSet.selectedIndex === 2) {
+              totalVoix.innerText = totalVotantSet3 + ")";
+            }
             pourcentVoix.innerText =
-              "· " + Math.round((calculNbVoix / totalVotantSet3) * 100) + "%";
+              Math.round((calculNbVoix / totalVotantSet3) * 100) + "%";
           }
         } else {
           divVoix.style.display = "none";
@@ -150,8 +179,8 @@ const fetchData = async () => {
         imgU.src = dataSelect[i].imgU;
         imgR.src = dataSelect[i].imgR;
         imgC.src = dataSelect[i].imgC;
-        nom.innerText = dataSelect[i].nom;
-        num.innerText = dataSelect[i].num;
+        nomCarte.innerText = dataSelect[i].nom;
+        numCarte.innerText = dataSelect[i].num;
 
         iconIllustrateur.src = "icon-illustrateur.svg";
         nomIllustrateur.innerText = dataSelect[i].illustrateurice;
@@ -248,6 +277,21 @@ const fetchData = async () => {
         dataCartesSet7,
       ];
       dataSelect = tabData2[numSelect2];
+      if (selectTri.value === "num") {
+        dataSelect.sort(function (a, b) {
+          return a.id - b.id;
+        });
+      }
+      if (selectTri.value === "alpha") {
+        dataSelect.sort(function (a, b) {
+          return a.nom.localeCompare(b.nom);
+        });
+      }
+      if (selectTri.value === "nbVotes") {
+        dataSelect.sort(function (a, b) {
+          return b.vote1 + b.vote2 + b.vote3 - (a.vote1 + a.vote2 + a.vote3);
+        });
+      }
       generatorCartes(dataSelect);
       applyGridToCartes();
     });
